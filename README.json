@@ -421,10 +421,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T17:56:37Z",
+            "last_commit": "2026-08-13T04:45:12Z",
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26306
+            "stars": 26308
           }
         },
         {
@@ -435,10 +435,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T17:56:37Z",
+            "last_commit": "2026-08-13T04:45:12Z",
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26306
+            "stars": 26308
           }
         }
       ],
@@ -2982,7 +2982,7 @@
             "last_commit": "2026-08-12T14:39:14Z",
             "owner": "farag2",
             "repo": "Sophia-Script-for-Windows",
-            "stars": 9654
+            "stars": 9655
           }
         },
         {
@@ -3289,7 +3289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:13:14.554Z",
+    "last_updated": "2026-08-13T14:33:59.446Z",
     "original_repository": "beatcracker/toptout",
     "original_repository_sha": "c73ba38d05f84091329d60a1b35aeeea2a60f772",
     "enhanced_repository": "enhansome/enhansome-toptout",

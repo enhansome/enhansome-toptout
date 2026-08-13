@@ -1,0 +1,3299 @@
+{
+  "items": [
+    {
+      "description": "This project collects data about telemetry in applications in machine-readable format and makes it easy to create derivative works such as awesome-lists, configuration scripts, APIs, etc. What you can do with it is only limited by your imagination. Here are several examples to get you started:",
+      "items": [],
+      "title": "Usage"
+    },
+    {
+      "description": "The page you see has an awesome-list of telemetry channels in various apps.",
+      "items": [],
+      "title": "📜 Awesome list"
+    },
+    {
+      "description": "Scripts to disable all known telemetry channels in your shell session.",
+      "items": [],
+      "title": "🧯 Scripts"
+    },
+    {
+      "description": "Get telemetry configuration data via API! See openapi.yaml definition and try it online using RapiDoc.\nOr try it in your shell! ⬇️",
+      "items": [],
+      "title": "🚧 API"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Details"
+    },
+    {
+      "description": "JSON telemetry data format description: data/README",
+      "items": [],
+      "title": "JSON data format"
+    },
+    {
+      "description": "If the tool you're using is not here you can easily add it by creating a new JSON file describing its telemetry data channels. Pull requests are welcome!\nSee CONTRIBUTING for details on adding new telemetry data and running tests.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "herrbischoff/telemetry",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-13T11:46:57Z",
+            "owner": "herrbischoff",
+            "repo": "telemetry",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rfletcher/cli-privacy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-07-07T00:58:33Z",
+            "owner": "rfletcher",
+            "repo": "cli-privacy",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rljacobson/OptOutEnv",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Related projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (plaintext)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (plaintext)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Crash data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data | Official"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data | Unofficial"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Crash data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Enable policies (macOS)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 💻 Machine"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 💻 Machine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 💻 Machine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3. Set registry key"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (alternate environment variable)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Diagnostic data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 💻 Machine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Set registry key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Diagnostic data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Crash data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage and Diagnostic data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Set registry key"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Telemetry details",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:56:37Z",
+            "owner": "microsoft",
+            "repo": "winget-cli",
+            "stars": 26306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Privacy policy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:56:37Z",
+            "owner": "microsoft",
+            "repo": "winget-cli",
+            "stars": 26306
+          }
+        }
+      ],
+      "title": "winget"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage and Diagnostic data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Set registry key"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cloud"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Communications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Database"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 💻 Machine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (INI)"
+    },
+    {
+      "description": "Path:",
+      "items": [],
+      "title": "Scope: 💻 Machine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3. Edit config file (YAML)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 💻 Machine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (plaintext)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Development"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (command)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (env. var)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (JSON file)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (plaintext)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Internal metrics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (Google Analytics("
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (per-project)"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (config file)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (YAML)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (environment variable)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Customer experience data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Crash data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage Analytics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 💻 Machine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Crash reporting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (CLI and Console)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data and crash reports"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Error reporting"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Diagnostic data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Domain stats"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-native-windows/cli | Using commandline flag",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:26:39Z",
+            "owner": "microsoft",
+            "repo": "react-native-windows",
+            "stars": 17322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-windows-init | Using commandline flag",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:26:39Z",
+            "owner": "microsoft",
+            "repo": "react-native-windows",
+            "stars": 17322
+          }
+        }
+      ],
+      "title": "1. Visit link(s) for more details"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (plaintext)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (alternate environment variable)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (alternate environment variable)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (per-project)"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check (Apache compatibility)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (env. var)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (command)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (per-project)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "DevOps"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (legacy env. var.)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (per-invocation)"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (TOML)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (JSON)"
+    },
+    {
+      "description": "Path:",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check signature"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "Path:",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (YAML)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (current)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (legacy)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (env. var)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data (cmdlet)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Run command"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Edit config file (plaintext)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check signature"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (plaintext)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Vagrant update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Vagrant box update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Drivers"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Diagnostic data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Operating systems"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data | Enterprise"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set registry key"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github.com | Windows 10 Sophia Script",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-12T14:39:14Z",
+            "owner": "farag2",
+            "repo": "Sophia-Script-for-Windows",
+            "stars": 9654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com | crazy-max/WindowsSpyBlocker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-11T11:33:06Z",
+            "owner": "crazy-max",
+            "repo": "WindowsSpyBlocker",
+            "stars": 5168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com | builtbybel/Privatezilla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-18T18:28:47Z",
+            "owner": "builtbybel",
+            "repo": "privatezilla",
+            "stars": 3733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github.com | builtbybel/SharpApp",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "1. Visit link(s) for more details"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Shells"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Update check"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "VSCode extension"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Set environment variable"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: ⧉ Process"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Crash data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data and crash reports"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    },
+    {
+      "description": "Use methods described below to opt-out of this telemetry channel.",
+      "items": [],
+      "title": "Usage data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Edit config file (JSON)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Scope: 👤 User"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Content"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:14.554Z",
+    "original_repository": "beatcracker/toptout",
+    "original_repository_sha": "c73ba38d05f84091329d60a1b35aeeea2a60f772",
+    "enhanced_repository": "enhansome/enhansome-toptout",
+    "enhanced_repository_description": null,
+    "title": "Awesome Easily opt-out from telemetry collection with stars"
+  }
+}

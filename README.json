@@ -421,10 +421,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T04:45:12Z",
+            "last_commit": "2026-08-13T22:59:34Z",
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26308
+            "stars": 26305
           }
         },
         {
@@ -435,10 +435,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T04:45:12Z",
+            "last_commit": "2026-08-13T22:59:34Z",
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26308
+            "stars": 26305
           }
         }
       ],
@@ -1800,10 +1800,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T00:26:39Z",
+            "last_commit": "2026-08-13T19:30:39Z",
             "owner": "microsoft",
             "repo": "react-native-windows",
-            "stars": 17322
+            "stars": 17320
           }
         },
         {
@@ -1814,10 +1814,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T00:26:39Z",
+            "last_commit": "2026-08-13T19:30:39Z",
             "owner": "microsoft",
             "repo": "react-native-windows",
-            "stars": 17322
+            "stars": 17320
           }
         }
       ],
@@ -2996,7 +2996,7 @@
             "last_commit": "2026-07-11T11:33:06Z",
             "owner": "crazy-max",
             "repo": "WindowsSpyBlocker",
-            "stars": 5168
+            "stars": 5169
           }
         },
         {
@@ -3010,7 +3010,7 @@
             "last_commit": "2023-04-18T18:28:47Z",
             "owner": "builtbybel",
             "repo": "privatezilla",
-            "stars": 3733
+            "stars": 3732
           }
         },
         {
@@ -3289,7 +3289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:33:59.446Z",
+    "last_updated": "2026-08-14T14:20:21.633Z",
     "original_repository": "beatcracker/toptout",
     "original_repository_sha": "c73ba38d05f84091329d60a1b35aeeea2a60f772",
     "enhanced_repository": "enhansome/enhansome-toptout",

@@ -424,7 +424,7 @@
             "last_commit": "2026-08-14T22:12:07Z",
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26307
+            "stars": 26310
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-08-14T22:12:07Z",
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26307
+            "stars": 26310
           }
         }
       ],
@@ -1803,7 +1803,7 @@
             "last_commit": "2026-08-15T07:37:33Z",
             "owner": "microsoft",
             "repo": "react-native-windows",
-            "stars": 17320
+            "stars": 17322
           }
         },
         {
@@ -1817,7 +1817,7 @@
             "last_commit": "2026-08-15T07:37:33Z",
             "owner": "microsoft",
             "repo": "react-native-windows",
-            "stars": 17320
+            "stars": 17322
           }
         }
       ],
@@ -2982,7 +2982,7 @@
             "last_commit": "2026-08-12T14:39:14Z",
             "owner": "farag2",
             "repo": "Sophia-Script-for-Windows",
-            "stars": 9656
+            "stars": 9655
           }
         },
         {
@@ -3289,7 +3289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:44:22.221Z",
+    "last_updated": "2026-08-16T13:45:28.422Z",
     "original_repository": "beatcracker/toptout",
     "original_repository_sha": "c73ba38d05f84091329d60a1b35aeeea2a60f772",
     "enhanced_repository": "enhansome/enhansome-toptout",

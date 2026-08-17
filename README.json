@@ -1800,10 +1800,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T07:37:33Z",
+            "last_commit": "2026-08-17T12:27:42Z",
             "owner": "microsoft",
             "repo": "react-native-windows",
-            "stars": 17322
+            "stars": 17325
           }
         },
         {
@@ -1814,10 +1814,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T07:37:33Z",
+            "last_commit": "2026-08-17T12:27:42Z",
             "owner": "microsoft",
             "repo": "react-native-windows",
-            "stars": 17322
+            "stars": 17325
           }
         }
       ],
@@ -3289,7 +3289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:45:28.422Z",
+    "last_updated": "2026-08-17T13:53:52.049Z",
     "original_repository": "beatcracker/toptout",
     "original_repository_sha": "c73ba38d05f84091329d60a1b35aeeea2a60f772",
     "enhanced_repository": "enhansome/enhansome-toptout",

@@ -147,10 +147,10 @@
                 "archived": false,
                 "id": 53238813,
                 "language": "Ruby",
-                "last_commit": "2026-08-19T13:55:29Z",
+                "last_commit": "2026-08-20T10:55:05Z",
                 "owner": "Homebrew",
                 "repo": "brew",
-                "stars": 49205
+                "stars": 49218
               },
               "title": "Usage data (alternate environment variable)"
             }
@@ -197,10 +197,10 @@
             "archived": false,
             "id": 100060912,
             "language": "C++",
-            "last_commit": "2026-08-18T22:23:50Z",
+            "last_commit": "2026-08-20T02:21:12Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104632
+            "stars": 104640
           },
           "title": "Windows Terminal"
         },
@@ -218,7 +218,7 @@
                 "last_commit": "2026-08-17T20:47:43Z",
                 "owner": "microsoft",
                 "repo": "winget-cli",
-                "stars": 26324
+                "stars": 26329
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-17T20:47:43Z",
                 "owner": "microsoft",
                 "repo": "winget-cli",
-                "stars": 26324
+                "stars": 26329
               }
             }
           ],
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-17T20:47:43Z",
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26324
+            "stars": 26329
           },
           "title": "winget"
         }
@@ -266,7 +266,7 @@
                 "archived": false,
                 "id": 346862690,
                 "language": "Go",
-                "last_commit": "2026-08-19T13:54:13Z",
+                "last_commit": "2026-08-20T12:43:09Z",
                 "owner": "hookdeck",
                 "repo": "hookdeck-cli",
                 "stars": 359
@@ -414,10 +414,10 @@
             "archived": false,
             "id": 172953845,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T00:01:59Z",
+            "last_commit": "2026-08-19T23:02:31Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 78943
+            "stars": 78974
           },
           "title": "code-server"
         },
@@ -431,10 +431,10 @@
                 "archived": false,
                 "id": 131619646,
                 "language": "Python",
-                "last_commit": "2026-08-19T01:18:55Z",
+                "last_commit": "2026-08-19T20:54:06Z",
                 "owner": "dagster-io",
                 "repo": "dagster",
-                "stars": 16024
+                "stars": 16031
               },
               "title": "Usage data (environment variable)"
             }
@@ -506,7 +506,7 @@
             "last_commit": "2026-04-27T18:47:24Z",
             "owner": "dotnet",
             "repo": "interactive",
-            "stars": 3201
+            "stars": 3202
           },
           "title": ".NET Interactive"
         },
@@ -520,10 +520,10 @@
                 "archived": false,
                 "id": 23096959,
                 "language": "Go",
-                "last_commit": "2026-08-19T00:24:25Z",
+                "last_commit": "2026-08-20T11:05:12Z",
                 "owner": "golang",
                 "repo": "go",
-                "stars": 135904
+                "stars": 135927
               },
               "title": "Usage data"
             }
@@ -574,7 +574,7 @@
             "last_commit": "2026-08-14T09:38:01Z",
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 59014
+            "stars": 59027
           },
           "title": "MeiliSearch"
         },
@@ -601,7 +601,7 @@
             "archived": false,
             "id": 159692201,
             "language": "C#",
-            "last_commit": "2026-08-18T18:09:51Z",
+            "last_commit": "2026-08-20T04:52:01Z",
             "owner": "microsoft",
             "repo": "Oryx",
             "stars": 879
@@ -699,10 +699,10 @@
                         "archived": false,
                         "id": 48009214,
                         "language": "C++",
-                        "last_commit": "2026-08-19T12:24:59Z",
+                        "last_commit": "2026-08-20T12:47:04Z",
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17323
+                        "stars": 17324
                       }
                     },
                     {
@@ -714,10 +714,10 @@
                         "archived": false,
                         "id": 48009214,
                         "language": "C++",
-                        "last_commit": "2026-08-19T12:24:59Z",
+                        "last_commit": "2026-08-20T12:47:04Z",
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17323
+                        "stars": 17324
                       }
                     }
                   ],
@@ -778,7 +778,7 @@
                 "last_commit": "2026-06-10T13:05:25Z",
                 "owner": "microsoft",
                 "repo": "restler-fuzzer",
-                "stars": 2934
+                "stars": 2935
               },
               "title": "Usage data"
             }
@@ -792,7 +792,7 @@
             "last_commit": "2026-06-10T13:05:25Z",
             "owner": "microsoft",
             "repo": "restler-fuzzer",
-            "stars": 2934
+            "stars": 2935
           },
           "title": "RESTler"
         },
@@ -806,7 +806,7 @@
                 "archived": false,
                 "id": 34302698,
                 "language": "JavaScript",
-                "last_commit": "2026-08-12T15:28:21Z",
+                "last_commit": "2026-08-19T14:48:05Z",
                 "owner": "serverless",
                 "repo": "serverless",
                 "stars": 46917
@@ -880,7 +880,7 @@
                 "archived": false,
                 "id": 62774726,
                 "language": "C#",
-                "last_commit": "2026-08-19T11:20:44Z",
+                "last_commit": "2026-08-20T11:52:13Z",
                 "owner": "microsoft",
                 "repo": "vstest",
                 "stars": 971
@@ -894,7 +894,7 @@
             "archived": false,
             "id": 62774726,
             "language": "C#",
-            "last_commit": "2026-08-19T11:20:44Z",
+            "last_commit": "2026-08-20T11:52:13Z",
             "owner": "microsoft",
             "repo": "vstest",
             "stars": 971
@@ -926,10 +926,10 @@
                 "archived": false,
                 "id": 116817549,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T13:48:46Z",
+                "last_commit": "2026-08-20T13:52:08Z",
                 "owner": "webiny",
                 "repo": "webiny-js",
-                "stars": 8031
+                "stars": 8033
               },
               "title": "Usage data (env. var)"
             }
@@ -955,7 +955,7 @@
             "last_commit": "2026-07-06T09:40:52Z",
             "owner": "AutomatedLab",
             "repo": "AutomatedLab",
-            "stars": 2218
+            "stars": 2219
           },
           "title": "AutomatedLab"
         },
@@ -998,7 +998,7 @@
             "archived": false,
             "id": 157048481,
             "language": "Go",
-            "last_commit": "2026-08-19T10:10:51Z",
+            "last_commit": "2026-08-20T08:47:42Z",
             "owner": "Kong",
             "repo": "deck",
             "stars": 503
@@ -1037,7 +1037,7 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-19T10:47:53Z",
+                "last_commit": "2026-08-20T13:37:04Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
                 "stars": 2688
@@ -1052,7 +1052,7 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-19T10:47:53Z",
+                "last_commit": "2026-08-20T13:37:04Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
                 "stars": 2688
@@ -1133,7 +1133,7 @@
                         "last_commit": "2026-08-19T09:13:59Z",
                         "owner": "farag2",
                         "repo": "Sophia-Script-for-Windows",
-                        "stars": 9658
+                        "stars": 9662
                       }
                     },
                     {
@@ -1195,10 +1195,10 @@
             "archived": false,
             "id": 49609581,
             "language": "C#",
-            "last_commit": "2026-08-18T23:01:04Z",
+            "last_commit": "2026-08-19T19:14:38Z",
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 54988
+            "stars": 55016
           },
           "title": "PowerShell Core"
         }
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:58:23.798Z",
+    "last_updated": "2026-08-20T14:00:23.682Z",
     "original_repository": "beatcracker/toptout",
     "original_repository_id": 220850297,
     "original_repository_sha": "c73ba38d05f84091329d60a1b35aeeea2a60f772",

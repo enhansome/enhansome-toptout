@@ -15,7 +15,7 @@
             "last_commit": "2020-07-13T11:46:57Z",
             "owner": "herrbischoff",
             "repo": "telemetry",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-07T03:08:03Z",
             "owner": "MisterTea",
             "repo": "EternalTerminal",
-            "stars": 3857
+            "stars": 3859
           },
           "title": "Eternal Terminal"
         },
@@ -147,10 +147,10 @@
                 "archived": false,
                 "id": 53238813,
                 "language": "Ruby",
-                "last_commit": "2026-08-22T13:33:14Z",
+                "last_commit": "2026-08-23T12:33:18Z",
                 "owner": "Homebrew",
                 "repo": "brew",
-                "stars": 49235
+                "stars": 49249
               },
               "title": "Usage data (alternate environment variable)"
             }
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-05T16:57:14Z",
             "owner": "microsoft",
             "repo": "calculator",
-            "stars": 31021
+            "stars": 31019
           },
           "title": "Microsoft calculator"
         },
@@ -200,7 +200,7 @@
             "last_commit": "2026-08-21T02:00:15Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104668
+            "stars": 104675
           },
           "title": "Windows Terminal"
         },
@@ -215,10 +215,10 @@
                 "archived": false,
                 "id": 197275130,
                 "language": "C++",
-                "last_commit": "2026-08-20T16:31:12Z",
+                "last_commit": "2026-08-22T17:03:20Z",
                 "owner": "microsoft",
                 "repo": "winget-cli",
-                "stars": 26334
+                "stars": 26337
               }
             },
             {
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 197275130,
                 "language": "C++",
-                "last_commit": "2026-08-20T16:31:12Z",
+                "last_commit": "2026-08-22T17:03:20Z",
                 "owner": "microsoft",
                 "repo": "winget-cli",
-                "stars": 26334
+                "stars": 26337
               }
             }
           ],
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 197275130,
             "language": "C++",
-            "last_commit": "2026-08-20T16:31:12Z",
+            "last_commit": "2026-08-22T17:03:20Z",
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26334
+            "stars": 26337
           },
           "title": "winget"
         }
@@ -417,7 +417,7 @@
             "last_commit": "2026-08-20T21:45:26Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79006
+            "stars": 79022
           },
           "title": "code-server"
         },
@@ -431,10 +431,10 @@
                 "archived": false,
                 "id": 131619646,
                 "language": "Python",
-                "last_commit": "2026-08-21T21:18:03Z",
+                "last_commit": "2026-08-22T16:50:43Z",
                 "owner": "dagster-io",
                 "repo": "dagster",
-                "stars": 16048
+                "stars": 16050
               },
               "title": "Usage data (environment variable)"
             }
@@ -506,7 +506,7 @@
             "last_commit": "2026-04-27T18:47:24Z",
             "owner": "dotnet",
             "repo": "interactive",
-            "stars": 3201
+            "stars": 3200
           },
           "title": ".NET Interactive"
         },
@@ -520,10 +520,10 @@
                 "archived": false,
                 "id": 23096959,
                 "language": "Go",
-                "last_commit": "2026-08-22T01:56:30Z",
+                "last_commit": "2026-08-23T02:48:50Z",
                 "owner": "golang",
                 "repo": "go",
-                "stars": 136142
+                "stars": 136184
               },
               "title": "Usage data"
             }
@@ -574,7 +574,7 @@
             "last_commit": "2026-08-14T09:38:01Z",
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 59053
+            "stars": 59057
           },
           "title": "MeiliSearch"
         },
@@ -699,10 +699,10 @@
                         "archived": false,
                         "id": 48009214,
                         "language": "C++",
-                        "last_commit": "2026-08-22T04:35:48Z",
+                        "last_commit": "2026-08-23T02:07:31Z",
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17327
+                        "stars": 17328
                       }
                     },
                     {
@@ -714,10 +714,10 @@
                         "archived": false,
                         "id": 48009214,
                         "language": "C++",
-                        "last_commit": "2026-08-22T04:35:48Z",
+                        "last_commit": "2026-08-23T02:07:31Z",
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17327
+                        "stars": 17328
                       }
                     }
                   ],
@@ -743,7 +743,7 @@
             "archived": false,
             "id": 72623470,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T09:28:51Z",
+            "last_commit": "2026-08-22T20:11:03Z",
             "owner": "reportportal",
             "repo": "client-javascript",
             "stars": 19
@@ -809,7 +809,7 @@
                 "last_commit": "2026-08-20T16:14:13Z",
                 "owner": "serverless",
                 "repo": "serverless",
-                "stars": 46918
+                "stars": 46917
               },
               "title": "Usage data (alternate environment variable)"
             }
@@ -880,7 +880,7 @@
                 "archived": false,
                 "id": 62774726,
                 "language": "C#",
-                "last_commit": "2026-08-20T15:28:37Z",
+                "last_commit": "2026-08-22T16:49:46Z",
                 "owner": "microsoft",
                 "repo": "vstest",
                 "stars": 971
@@ -894,7 +894,7 @@
             "archived": false,
             "id": 62774726,
             "language": "C#",
-            "last_commit": "2026-08-20T15:28:37Z",
+            "last_commit": "2026-08-22T16:49:46Z",
             "owner": "microsoft",
             "repo": "vstest",
             "stars": 971
@@ -926,7 +926,7 @@
                 "archived": false,
                 "id": 116817549,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T20:40:55Z",
+                "last_commit": "2026-08-23T13:13:59Z",
                 "owner": "webiny",
                 "repo": "webiny-js",
                 "stars": 8032
@@ -955,7 +955,7 @@
             "last_commit": "2026-07-06T09:40:52Z",
             "owner": "AutomatedLab",
             "repo": "AutomatedLab",
-            "stars": 2219
+            "stars": 2220
           },
           "title": "AutomatedLab"
         },
@@ -1018,7 +1018,7 @@
                 "last_commit": "2025-10-23T20:10:46Z",
                 "owner": "earthly",
                 "repo": "earthly",
-                "stars": 12046
+                "stars": 12045
               },
               "title": "Usage data"
             }
@@ -1037,7 +1037,7 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-21T14:27:36Z",
+                "last_commit": "2026-08-23T08:04:11Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
                 "stars": 2692
@@ -1052,7 +1052,7 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-21T14:27:36Z",
+                "last_commit": "2026-08-23T08:04:11Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
                 "stars": 2692
@@ -1130,10 +1130,10 @@
                         "archived": false,
                         "id": 153443362,
                         "language": "PowerShell",
-                        "last_commit": "2026-08-20T18:07:36Z",
+                        "last_commit": "2026-08-23T10:22:35Z",
                         "owner": "farag2",
                         "repo": "Sophia-Script-for-Windows",
-                        "stars": 9666
+                        "stars": 9668
                       }
                     },
                     {
@@ -1148,7 +1148,7 @@
                         "last_commit": "2026-08-22T11:27:06Z",
                         "owner": "crazy-max",
                         "repo": "WindowsSpyBlocker",
-                        "stars": 5165
+                        "stars": 5166
                       }
                     },
                     {
@@ -1198,7 +1198,7 @@
             "last_commit": "2026-08-20T23:21:01Z",
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 55055
+            "stars": 55072
           },
           "title": "PowerShell Core"
         }
@@ -1221,7 +1221,7 @@
                 "last_commit": "2026-08-14T16:44:16Z",
                 "owner": "microsoft",
                 "repo": "vscode-js-debug",
-                "stars": 1961
+                "stars": 1962
               },
               "title": "Usage data"
             }
@@ -1235,7 +1235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:45:09.199Z",
+    "last_updated": "2026-08-23T13:46:27.465Z",
     "original_repository": "beatcracker/toptout",
     "original_repository_id": 220850297,
     "original_repository_sha": "c73ba38d05f84091329d60a1b35aeeea2a60f772",

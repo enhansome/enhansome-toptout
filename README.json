@@ -72,7 +72,7 @@
             "last_commit": "2026-02-13T10:55:07Z",
             "owner": "undergroundwires",
             "repo": "privacy.sexy",
-            "stars": 5979
+            "stars": 5980
           }
         },
         {
@@ -257,7 +257,7 @@
                 "archived": false,
                 "id": 53238813,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T13:05:19Z",
+                "last_commit": "2026-08-24T14:42:07Z",
                 "owner": "Homebrew",
                 "repo": "brew",
                 "stars": 49259
@@ -447,7 +447,7 @@
                 "archived": false,
                 "id": 32575663,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:02:46Z",
+                "last_commit": "2026-08-24T14:56:48Z",
                 "owner": "scaleway",
                 "repo": "scaleway-cli",
                 "stars": 994
@@ -499,7 +499,7 @@
                     "archived": false,
                     "id": 37448451,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T14:14:03Z",
+                    "last_commit": "2026-08-24T14:47:46Z",
                     "owner": "mattermost",
                     "repo": "mattermost",
                     "stars": 38889
@@ -521,7 +521,7 @@
                     "archived": false,
                     "id": 37448451,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T14:14:03Z",
+                    "last_commit": "2026-08-24T14:47:46Z",
                     "owner": "mattermost",
                     "repo": "mattermost",
                     "stars": 38889
@@ -587,7 +587,7 @@
                     "archived": false,
                     "id": 36891867,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T08:13:57Z",
+                    "last_commit": "2026-08-24T14:27:25Z",
                     "owner": "angular",
                     "repo": "angular-cli",
                     "stars": 27013
@@ -771,7 +771,7 @@
                 "last_commit": "2026-08-20T21:45:26Z",
                 "owner": "coder",
                 "repo": "code-server",
-                "stars": 79043
+                "stars": 79044
               }
             },
             {
@@ -790,7 +790,7 @@
                         "last_commit": "2026-08-20T21:45:26Z",
                         "owner": "coder",
                         "repo": "code-server",
-                        "stars": 79043
+                        "stars": 79044
                       }
                     }
                   ],
@@ -813,7 +813,7 @@
             "last_commit": "2026-08-20T21:45:26Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79043
+            "stars": 79044
           },
           "title": "code-server"
         },
@@ -1037,7 +1037,7 @@
                 "last_commit": "2026-08-24T14:17:58Z",
                 "owner": "golang",
                 "repo": "go",
-                "stars": 136204
+                "stars": 136207
               },
               "title": "Usage data"
             }
@@ -1153,7 +1153,7 @@
                 "last_commit": "2026-08-24T12:59:39Z",
                 "owner": "nocodb",
                 "repo": "nocodb",
-                "stars": 64702
+                "stars": 64703
               }
             }
           ],
@@ -1172,7 +1172,7 @@
                 "archived": false,
                 "id": 25324077,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:57:58Z",
+                "last_commit": "2026-08-24T14:28:27Z",
                 "owner": "onecodex",
                 "repo": "onecodex",
                 "stars": 25
@@ -1390,7 +1390,7 @@
                 "last_commit": "2026-08-09T12:00:10Z",
                 "owner": "marmelab",
                 "repo": "react-admin",
-                "stars": 26911
+                "stars": 26912
               }
             }
           ],
@@ -1759,10 +1759,10 @@
                     "archived": false,
                     "id": 384219990,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T14:08:08Z",
+                    "last_commit": "2026-08-24T14:44:54Z",
                     "owner": "warpdotdev",
                     "repo": "warp",
-                    "stars": 64487
+                    "stars": 64489
                   }
                 }
               ],
@@ -2161,7 +2161,7 @@
                 "last_commit": "2026-08-24T06:41:53Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189347
+                "stars": 189348
               }
             }
           ],
@@ -2180,7 +2180,7 @@
             "last_commit": "2026-08-20T23:21:01Z",
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 55098
+            "stars": 55099
           },
           "title": "PowerShell Core"
         }
@@ -2274,7 +2274,7 @@
                 "archived": false,
                 "id": 158485478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:42:31Z",
+                "last_commit": "2026-08-24T14:40:41Z",
                 "owner": "espressif",
                 "repo": "vscode-esp-idf-extension",
                 "stars": 1458
@@ -2400,7 +2400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:20:58.797Z",
+    "last_updated": "2026-08-24T15:07:02.275Z",
     "original_repository": "beatcracker/toptout",
     "original_repository_id": 220850297,
     "original_repository_sha": "c73ba38d05f84091329d60a1b35aeeea2a60f772",

@@ -146,7 +146,7 @@
                 "last_commit": "2026-04-30T14:52:10Z",
                 "owner": "instructure",
                 "repo": "canvas-lms",
-                "stars": 6784
+                "stars": 6783
               },
               "title": "Usage data | Official"
             },
@@ -161,7 +161,7 @@
                 "last_commit": "2026-04-30T14:52:10Z",
                 "owner": "instructure",
                 "repo": "canvas-lms",
-                "stars": 6784
+                "stars": 6783
               },
               "title": "Usage data | Unofficial"
             }
@@ -175,7 +175,7 @@
             "last_commit": "2026-04-30T14:52:10Z",
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6784
+            "stars": 6783
           },
           "title": "Canvas LMS"
         },
@@ -257,10 +257,10 @@
                 "archived": false,
                 "id": 53238813,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T02:41:06Z",
+                "last_commit": "2026-08-25T13:57:46Z",
                 "owner": "Homebrew",
                 "repo": "brew",
-                "stars": 49262
+                "stars": 49268
               },
               "title": "Usage data (alternate environment variable)"
             }
@@ -314,7 +314,7 @@
                 "last_commit": "2026-08-05T16:57:14Z",
                 "owner": "microsoft",
                 "repo": "calculator",
-                "stars": 31020
+                "stars": 31021
               }
             }
           ],
@@ -327,7 +327,7 @@
             "last_commit": "2026-08-05T16:57:14Z",
             "owner": "microsoft",
             "repo": "calculator",
-            "stars": 31020
+            "stars": 31021
           },
           "title": "Microsoft calculator"
         },
@@ -345,7 +345,7 @@
                 "last_commit": "2026-08-25T03:05:39Z",
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104690
+                "stars": 104692
               }
             }
           ],
@@ -358,7 +358,7 @@
             "last_commit": "2026-08-25T03:05:39Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104690
+            "stars": 104692
           },
           "title": "Windows Terminal"
         },
@@ -447,7 +447,7 @@
                 "archived": false,
                 "id": 32575663,
                 "language": "Go",
-                "last_commit": "2026-08-24T15:19:01Z",
+                "last_commit": "2026-08-25T13:49:18Z",
                 "owner": "scaleway",
                 "repo": "scaleway-cli",
                 "stars": 995
@@ -472,7 +472,7 @@
                 "last_commit": "2026-08-25T01:38:49Z",
                 "owner": "stripe",
                 "repo": "stripe-cli",
-                "stars": 2157
+                "stars": 2158
               }
             }
           ],
@@ -499,10 +499,10 @@
                     "archived": false,
                     "id": 37448451,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T06:14:31Z",
+                    "last_commit": "2026-08-25T13:59:52Z",
                     "owner": "mattermost",
                     "repo": "mattermost",
-                    "stars": 38892
+                    "stars": 38897
                   }
                 }
               ],
@@ -521,10 +521,10 @@
                     "archived": false,
                     "id": 37448451,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T06:14:31Z",
+                    "last_commit": "2026-08-25T13:59:52Z",
                     "owner": "mattermost",
                     "repo": "mattermost",
-                    "stars": 38892
+                    "stars": 38897
                   }
                 }
               ],
@@ -554,7 +554,7 @@
                 "archived": false,
                 "id": 37974082,
                 "language": "Python",
-                "last_commit": "2026-08-21T13:29:42Z",
+                "last_commit": "2026-08-25T10:58:34Z",
                 "owner": "alisw",
                 "repo": "alibuild",
                 "stars": 23
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 37974082,
             "language": "Python",
-            "last_commit": "2026-08-21T13:29:42Z",
+            "last_commit": "2026-08-25T10:58:34Z",
             "owner": "alisw",
             "repo": "alibuild",
             "stars": 23
@@ -587,10 +587,10 @@
                     "archived": false,
                     "id": 36891867,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T06:07:21Z",
+                    "last_commit": "2026-08-25T13:41:16Z",
                     "owner": "angular",
                     "repo": "angular-cli",
-                    "stars": 27020
+                    "stars": 27023
                   }
                 }
               ],
@@ -771,7 +771,7 @@
                 "last_commit": "2026-08-24T22:00:51Z",
                 "owner": "coder",
                 "repo": "code-server",
-                "stars": 79058
+                "stars": 79063
               }
             },
             {
@@ -790,7 +790,7 @@
                         "last_commit": "2026-08-24T22:00:51Z",
                         "owner": "coder",
                         "repo": "code-server",
-                        "stars": 79058
+                        "stars": 79063
                       }
                     }
                   ],
@@ -813,7 +813,7 @@
             "last_commit": "2026-08-24T22:00:51Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79058
+            "stars": 79063
           },
           "title": "code-server"
         },
@@ -827,7 +827,7 @@
                 "archived": false,
                 "id": 131619646,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:47:50Z",
+                "last_commit": "2026-08-25T12:34:41Z",
                 "owner": "dagster-io",
                 "repo": "dagster",
                 "stars": 16059
@@ -1034,10 +1034,10 @@
                 "archived": false,
                 "id": 23096959,
                 "language": "Go",
-                "last_commit": "2026-08-25T00:53:42Z",
+                "last_commit": "2026-08-25T07:07:58Z",
                 "owner": "golang",
                 "repo": "go",
-                "stars": 136444
+                "stars": 136450
               },
               "title": "Usage data"
             }
@@ -1088,10 +1088,10 @@
                 "archived": false,
                 "id": 130688011,
                 "language": "Rust",
-                "last_commit": "2026-08-14T09:38:01Z",
+                "last_commit": "2026-08-25T13:44:03Z",
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59081
+                "stars": 59086
               }
             }
           ],
@@ -1101,10 +1101,10 @@
             "archived": false,
             "id": 130688011,
             "language": "Rust",
-            "last_commit": "2026-08-14T09:38:01Z",
+            "last_commit": "2026-08-25T13:44:03Z",
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 59081
+            "stars": 59086
           },
           "title": "MeiliSearch"
         },
@@ -1150,10 +1150,10 @@
                 "archived": false,
                 "id": 108761645,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:59:39Z",
+                "last_commit": "2026-08-25T14:01:47Z",
                 "owner": "nocodb",
                 "repo": "nocodb",
-                "stars": 64717
+                "stars": 64722
               }
             }
           ],
@@ -1172,7 +1172,7 @@
                 "archived": false,
                 "id": 25324077,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:55:50Z",
+                "last_commit": "2026-08-25T11:21:04Z",
                 "owner": "onecodex",
                 "repo": "onecodex",
                 "stars": 25
@@ -1390,7 +1390,7 @@
                 "last_commit": "2026-08-09T12:00:10Z",
                 "owner": "marmelab",
                 "repo": "react-admin",
-                "stars": 26912
+                "stars": 26913
               }
             }
           ],
@@ -1416,7 +1416,7 @@
                         "last_commit": "2026-08-25T02:38:07Z",
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17328
+                        "stars": 17329
                       }
                     },
                     {
@@ -1431,7 +1431,7 @@
                         "last_commit": "2026-08-25T02:38:07Z",
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17328
+                        "stars": 17329
                       }
                     }
                   ],
@@ -1460,7 +1460,7 @@
                 "archived": false,
                 "id": 72623470,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T20:11:03Z",
+                "last_commit": "2026-08-25T07:46:18Z",
                 "owner": "reportportal",
                 "repo": "client-javascript",
                 "stars": 19
@@ -1473,7 +1473,7 @@
             "archived": false,
             "id": 72623470,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T20:11:03Z",
+            "last_commit": "2026-08-25T07:46:18Z",
             "owner": "reportportal",
             "repo": "client-javascript",
             "stars": 19
@@ -1592,7 +1592,7 @@
                 "last_commit": "2026-08-20T16:14:13Z",
                 "owner": "serverless",
                 "repo": "serverless",
-                "stars": 46918
+                "stars": 46917
               },
               "title": "Usage data (alternate environment variable)"
             }
@@ -1634,7 +1634,7 @@
                 "archived": false,
                 "id": 81527646,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:30:56Z",
+                "last_commit": "2026-08-25T07:33:30Z",
                 "owner": "seek-oss",
                 "repo": "sku",
                 "stars": 483
@@ -1647,7 +1647,7 @@
             "archived": false,
             "id": 81527646,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:30:56Z",
+            "last_commit": "2026-08-25T07:33:30Z",
             "owner": "seek-oss",
             "repo": "sku",
             "stars": 483
@@ -1665,7 +1665,7 @@
             "last_commit": "2026-04-30T14:52:10Z",
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6784
+            "stars": 6783
           },
           "title": "TYPO3"
         },
@@ -1694,7 +1694,7 @@
                 "archived": false,
                 "id": 62774726,
                 "language": "C#",
-                "last_commit": "2026-08-24T17:46:17Z",
+                "last_commit": "2026-08-25T13:57:46Z",
                 "owner": "microsoft",
                 "repo": "vstest",
                 "stars": 971
@@ -1708,7 +1708,7 @@
             "archived": false,
             "id": 62774726,
             "language": "C#",
-            "last_commit": "2026-08-24T17:46:17Z",
+            "last_commit": "2026-08-25T13:57:46Z",
             "owner": "microsoft",
             "repo": "vstest",
             "stars": 971
@@ -1759,10 +1759,10 @@
                     "archived": false,
                     "id": 384219990,
                     "language": "Rust",
-                    "last_commit": "2026-08-25T06:25:17Z",
+                    "last_commit": "2026-08-25T13:37:13Z",
                     "owner": "warpdotdev",
                     "repo": "warp",
-                    "stars": 64502
+                    "stars": 64515
                   }
                 }
               ],
@@ -1785,7 +1785,7 @@
                 "archived": false,
                 "id": 116817549,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T16:15:30Z",
+                "last_commit": "2026-08-25T13:35:36Z",
                 "owner": "webiny",
                 "repo": "webiny-js",
                 "stars": 8032
@@ -1913,7 +1913,7 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-24T21:17:19Z",
+                "last_commit": "2026-08-25T13:59:10Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
                 "stars": 2693
@@ -1927,7 +1927,7 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-24T21:17:19Z",
+                "last_commit": "2026-08-25T13:59:10Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
                 "stars": 2693
@@ -1942,7 +1942,7 @@
                 "archived": false,
                 "id": 278200746,
                 "language": "Open Policy Agent",
-                "last_commit": "2026-08-24T21:17:19Z",
+                "last_commit": "2026-08-25T13:59:10Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
                 "stars": 2693
@@ -1999,7 +1999,7 @@
                 "last_commit": "2026-08-10T09:51:48Z",
                 "owner": "microsoft",
                 "repo": "MSLab",
-                "stars": 1297
+                "stars": 1298
               }
             }
           ],
@@ -2012,7 +2012,7 @@
             "last_commit": "2026-08-10T09:51:48Z",
             "owner": "microsoft",
             "repo": "MSLab",
-            "stars": 1297
+            "stars": 1298
           },
           "title": "MSLab"
         },
@@ -2093,7 +2093,7 @@
                         "last_commit": "2026-08-23T21:07:42Z",
                         "owner": "farag2",
                         "repo": "Sophia-Script-for-Windows",
-                        "stars": 9669
+                        "stars": 9670
                       }
                     },
                     {
@@ -2158,10 +2158,10 @@
                 "archived": false,
                 "id": 291137,
                 "language": "Shell",
-                "last_commit": "2026-08-24T16:33:49Z",
+                "last_commit": "2026-08-25T08:26:24Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189357
+                "stars": 189364
               }
             }
           ],
@@ -2180,7 +2180,7 @@
             "last_commit": "2026-08-24T23:22:51Z",
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 55109
+            "stars": 55117
           },
           "title": "PowerShell Core"
         }
@@ -2274,7 +2274,7 @@
                 "archived": false,
                 "id": 158485478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T15:35:34Z",
+                "last_commit": "2026-08-25T11:48:49Z",
                 "owner": "espressif",
                 "repo": "vscode-esp-idf-extension",
                 "stars": 1458
@@ -2343,7 +2343,7 @@
                 "last_commit": "2026-04-23T03:14:02Z",
                 "owner": "Huachao",
                 "repo": "vscode-restclient",
-                "stars": 6044
+                "stars": 6045
               }
             }
           ],
@@ -2400,7 +2400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:22.560Z",
+    "last_updated": "2026-08-25T14:05:32.670Z",
     "original_repository": "beatcracker/toptout",
     "original_repository_id": 220850297,
     "original_repository_sha": "c73ba38d05f84091329d60a1b35aeeea2a60f772",

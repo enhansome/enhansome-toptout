@@ -18,7 +18,8 @@
                 "owner": "beatcracker",
                 "repo": "toptout",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": null,
@@ -45,7 +46,8 @@
                     "owner": "nikvoronin",
                     "repo": "toptout-cli",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:03:10.699Z"
                 }
               ]
             }
@@ -72,8 +74,9 @@
             "last_commit": "2026-02-13T10:55:07Z",
             "owner": "undergroundwires",
             "repo": "privacy.sexy",
-            "stars": 5983
-          }
+            "stars": 5988
+          },
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "node_type": "item",
@@ -88,7 +91,8 @@
             "owner": "herrbischoff",
             "repo": "telemetry",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "node_type": "item",
@@ -103,7 +107,8 @@
             "owner": "rfletcher",
             "repo": "cli-privacy",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:03:10.699Z"
         }
       ],
       "title": "Related projects"
@@ -126,7 +131,8 @@
                 "owner": "atom",
                 "repo": "metrics",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Help improve Atom by sending usage statistics, exceptions and deprecations to the team.\nList of known telemetry channels:",
@@ -146,9 +152,10 @@
                 "last_commit": "2026-04-30T14:52:10Z",
                 "owner": "instructure",
                 "repo": "canvas-lms",
-                "stars": 6787
+                "stars": 6789
               },
-              "title": "Usage data | Official"
+              "title": "Usage data | Official",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [],
@@ -161,9 +168,10 @@
                 "last_commit": "2026-04-30T14:52:10Z",
                 "owner": "instructure",
                 "repo": "canvas-lms",
-                "stars": 6787
+                "stars": 6789
               },
-              "title": "Usage data | Unofficial"
+              "title": "Usage data | Unofficial",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "The software may collect information about you and your use of the software.\nList of known telemetry channels:",
@@ -175,9 +183,10 @@
             "last_commit": "2026-04-30T14:52:10Z",
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6787
+            "stars": 6789
           },
-          "title": "Canvas LMS"
+          "title": "Canvas LMS",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -193,8 +202,9 @@
                 "last_commit": "2026-08-07T03:08:03Z",
                 "owner": "MisterTea",
                 "repo": "EternalTerminal",
-                "stars": 3863
-              }
+                "stars": 3866
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Eternal Terminal collects crashes and errors in order to help us improve your experience. The data collected is anonymous.\nList of known telemetry channels:",
@@ -206,9 +216,10 @@
             "last_commit": "2026-08-07T03:08:03Z",
             "owner": "MisterTea",
             "repo": "EternalTerminal",
-            "stars": 3863
+            "stars": 3866
           },
-          "title": "Eternal Terminal"
+          "title": "Eternal Terminal",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -223,9 +234,10 @@
                 "last_commit": "2026-08-20T19:11:10Z",
                 "owner": "mozilla",
                 "repo": "policy-templates",
-                "stars": 1308
+                "stars": 1309
               },
-              "title": "Enable policies (macOS)"
+              "title": "Enable policies (macOS)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [],
@@ -238,9 +250,10 @@
                 "last_commit": "2026-08-20T19:11:10Z",
                 "owner": "mozilla",
                 "repo": "policy-templates",
-                "stars": 1308
+                "stars": 1309
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Telemetry collects information about your Firefox browsing experience to improve Firefox features, browser performance and stability.\nList of known telemetry channels:",
@@ -257,12 +270,13 @@
                 "archived": false,
                 "id": 53238813,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T22:27:23Z",
+                "last_commit": "2026-08-28T18:18:28Z",
                 "owner": "Homebrew",
                 "repo": "brew",
-                "stars": 49297
+                "stars": 49310
               },
-              "title": "Usage data (alternate environment variable)"
+              "title": "Usage data (alternate environment variable)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Homebrew has begun gathering anonymous aggregate user behaviour analytics and reporting these to Google Analytics.\nList of known telemetry channels:",
@@ -284,7 +298,8 @@
                 "owner": "LucaScheller",
                 "repo": "VFX-LYNX",
                 "stars": 228
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "When using LYNX, non personal data can be optionally collected via Google Analytics. This helps us get feedback and prioritize the development to give you the best possible version of our product in future releases.\nList of known telemetry channels:",
@@ -298,7 +313,8 @@
             "repo": "VFX-LYNX",
             "stars": 228
           },
-          "title": "LYNX VFX"
+          "title": "LYNX VFX",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -314,8 +330,9 @@
                 "last_commit": "2026-08-25T23:34:32Z",
                 "owner": "microsoft",
                 "repo": "calculator",
-                "stars": 31024
-              }
+                "stars": 31025
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "This project collects usage data and sends it to Microsoft to help improve our products and services.\nList of known telemetry channels:",
@@ -327,9 +344,10 @@
             "last_commit": "2026-08-25T23:34:32Z",
             "owner": "microsoft",
             "repo": "calculator",
-            "stars": 31024
+            "stars": 31025
           },
-          "title": "Microsoft calculator"
+          "title": "Microsoft calculator",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -342,11 +360,12 @@
                 "archived": false,
                 "id": 100060912,
                 "language": "C++",
-                "last_commit": "2026-08-27T22:21:00Z",
+                "last_commit": "2026-08-28T19:41:14Z",
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104708
-              }
+                "stars": 104723
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "The Windows Terminal client is instrumented to collect usage and diagnostic (error) data and sends it to Microsoft to help improve the product.\nList of known telemetry channels:",
@@ -355,12 +374,13 @@
             "archived": false,
             "id": 100060912,
             "language": "C++",
-            "last_commit": "2026-08-27T22:21:00Z",
+            "last_commit": "2026-08-28T19:41:14Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104708
+            "stars": 104723
           },
-          "title": "Windows Terminal"
+          "title": "Windows Terminal",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -376,8 +396,9 @@
                 "last_commit": "2026-08-26T20:28:25Z",
                 "owner": "microsoft",
                 "repo": "winget-cli",
-                "stars": 26357
-              }
+                "stars": 26363
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "node_type": "item",
@@ -391,8 +412,9 @@
                 "last_commit": "2026-08-26T20:28:25Z",
                 "owner": "microsoft",
                 "repo": "winget-cli",
-                "stars": 26357
-              }
+                "stars": 26363
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "The winget.exe client is instrumented to collect usage and diagnostic (error) data and sends it to Microsoft to help improve the product.\nList of known telemetry channels:",
@@ -404,9 +426,10 @@
             "last_commit": "2026-08-26T20:28:25Z",
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26357
+            "stars": 26363
           },
-          "title": "winget"
+          "title": "winget",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         }
       ],
       "title": "Applications"
@@ -429,7 +452,8 @@
                 "repo": "hookdeck-cli",
                 "stars": 360
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Telemetry data is sent to Hookdeck.\nList of known telemetry channels:",
@@ -447,11 +471,12 @@
                 "archived": false,
                 "id": 32575663,
                 "language": "Go",
-                "last_commit": "2026-08-27T22:15:51Z",
+                "last_commit": "2026-08-28T16:42:30Z",
                 "owner": "scaleway",
                 "repo": "scaleway-cli",
                 "stars": 996
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Send usage statistics and diagnostics.\nList of known telemetry channels:",
@@ -469,11 +494,12 @@
                 "archived": false,
                 "id": 191848501,
                 "language": "Go",
-                "last_commit": "2026-08-27T22:35:54Z",
+                "last_commit": "2026-08-28T20:22:55Z",
                 "owner": "stripe",
                 "repo": "stripe-cli",
-                "stars": 2162
-              }
+                "stars": 2163
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "The Stripe CLI includes a telemetry feature that collects some usage data. This feature is enabled by default.\nList of known telemetry channels:",
@@ -499,11 +525,12 @@
                     "archived": false,
                     "id": 37448451,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T21:55:41Z",
+                    "last_commit": "2026-08-28T22:49:26Z",
                     "owner": "mattermost",
                     "repo": "mattermost",
-                    "stars": 38922
-                  }
+                    "stars": 38934
+                  },
+                  "first_seen": "2026-08-28T23:03:10.699Z"
                 }
               ],
               "description": "Use methods described below to opt-out of this telemetry channel.",
@@ -521,11 +548,12 @@
                     "archived": false,
                     "id": 37448451,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T21:55:41Z",
+                    "last_commit": "2026-08-28T22:49:26Z",
                     "owner": "mattermost",
                     "repo": "mattermost",
-                    "stars": 38922
-                  }
+                    "stars": 38934
+                  },
+                  "first_seen": "2026-08-28T23:03:10.699Z"
                 }
               ],
               "description": "Use methods described below to opt-out of this telemetry channel.",
@@ -558,7 +586,8 @@
                 "owner": "alisw",
                 "repo": "alibuild",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "aliBuild has begun gathering anonymous aggregate user behaviour analytics.\nList of known telemetry channels:",
@@ -572,7 +601,8 @@
             "repo": "alibuild",
             "stars": 23
           },
-          "title": "aliBuild"
+          "title": "aliBuild",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -587,11 +617,12 @@
                     "archived": false,
                     "id": 36891867,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T17:58:03Z",
+                    "last_commit": "2026-08-28T15:45:30Z",
                     "owner": "angular",
                     "repo": "angular-cli",
-                    "stars": 27021
-                  }
+                    "stars": 27022
+                  },
+                  "first_seen": "2026-08-28T23:03:10.699Z"
                 }
               ],
               "description": "Share usage data with Angular team.\nUse methods described below to opt-out of this telemetry channel.",
@@ -618,7 +649,8 @@
                 "owner": "tidev",
                 "repo": "appc-daemon",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "The telemetry system is implemented in the appcd-telemetry pacakge and provides a service for collecting time and counter-based information and sending it to the Appc cloud for processing.\nList of known telemetry channels:",
@@ -632,7 +664,8 @@
             "repo": "appc-daemon",
             "stars": 7
           },
-          "title": "Appc Daemon"
+          "title": "Appc Daemon",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -649,7 +682,8 @@
                 "repo": "appcenter-cli",
                 "stars": 589
               },
-              "title": "Usage data (env. var)"
+              "title": "Usage data (env. var)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [],
@@ -664,7 +698,8 @@
                 "repo": "appcenter-cli",
                 "stars": 589
               },
-              "title": "Usage data (JSON file)"
+              "title": "Usage data (JSON file)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "App Center CLI would like to collect data about how users use CLI commands and some problems they encounter.\nList of known telemetry channels:",
@@ -678,7 +713,8 @@
             "repo": "appcenter-cli",
             "stars": 589
           },
-          "title": "App Center CLI"
+          "title": "App Center CLI",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -695,7 +731,8 @@
                 "owner": "microsoft",
                 "repo": "botframework-cli",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [],
@@ -710,7 +747,8 @@
                 "repo": "botframework-cli",
                 "stars": 175
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Privacy is very important to us. BF CLI contains optional instrumentation that is designed to help us improve the tool based on anonymous usage patterns. It is disabled, opted-out by default.\nList of known telemetry channels:",
@@ -724,7 +762,8 @@
             "repo": "botframework-cli",
             "stars": 175
           },
-          "title": "Bot Framework CLI"
+          "title": "Bot Framework CLI",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -741,7 +780,8 @@
                 "owner": "dom96",
                 "repo": "choosenim",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Starting with version 0.3.0, choosenim has the ability to gather anonymous aggregate user behaviour analytics and to report them to Google Analytics.\nList of known telemetry channels:",
@@ -755,7 +795,8 @@
             "repo": "choosenim",
             "stars": 695
           },
-          "title": "choosenim"
+          "title": "choosenim",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -771,8 +812,9 @@
                 "last_commit": "2026-08-27T19:46:23Z",
                 "owner": "coder",
                 "repo": "code-server",
-                "stars": 79092
-              }
+                "stars": 79103
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [
@@ -790,8 +832,9 @@
                         "last_commit": "2026-08-27T19:46:23Z",
                         "owner": "coder",
                         "repo": "code-server",
-                        "stars": 79092
-                      }
+                        "stars": 79103
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     }
                   ],
                   "description": null,
@@ -813,9 +856,10 @@
             "last_commit": "2026-08-27T19:46:23Z",
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79092
+            "stars": 79103
           },
-          "title": "code-server"
+          "title": "code-server",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -827,12 +871,13 @@
                 "archived": false,
                 "id": 131619646,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:09:18Z",
+                "last_commit": "2026-08-28T17:14:34Z",
                 "owner": "dagster-io",
                 "repo": "dagster",
-                "stars": 16069
+                "stars": 16072
               },
-              "title": "Usage data (environment variable)"
+              "title": "Usage data (environment variable)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "As an open source project, we collect usage statistics to better understand how users engage with Dagster and to inform development priorities.\nList of known telemetry channels:",
@@ -854,7 +899,8 @@
                 "repo": "for-mac",
                 "stars": 2531
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [],
@@ -869,7 +915,8 @@
                 "repo": "for-mac",
                 "stars": 2531
               },
-              "title": "Customer experience data"
+              "title": "Customer experience data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [],
@@ -884,7 +931,8 @@
                 "repo": "for-mac",
                 "stars": 2531
               },
-              "title": "Crash data"
+              "title": "Crash data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [
@@ -903,7 +951,8 @@
                         "owner": "RektInator",
                         "repo": "kill-docker-auto-update",
                         "stars": 66
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     }
                   ],
                   "description": null,
@@ -935,7 +984,8 @@
                 "owner": "dotnet",
                 "repo": "interactive",
                 "stars": 3200
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Telemetry is collected when .NET Interactive is started. Once .NET Interactive is running, we do not collect telemetry from any further user actions.\nList of known telemetry channels:",
@@ -949,7 +999,8 @@
             "repo": "interactive",
             "stars": 3200
           },
-          "title": ".NET Interactive"
+          "title": ".NET Interactive",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -962,11 +1013,12 @@
                 "archived": false,
                 "id": 35562993,
                 "language": "C#",
-                "last_commit": "2026-08-27T02:01:31Z",
+                "last_commit": "2026-08-28T02:01:48Z",
                 "owner": "dotnet",
                 "repo": "wcf",
                 "stars": 1751
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Anonymous telemetry information collection.\nList of known telemetry channels:",
@@ -988,7 +1040,8 @@
                 "owner": "ember-cli",
                 "repo": "ember-cli",
                 "stars": 3237
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [
@@ -1007,7 +1060,8 @@
                         "owner": "ember-cli",
                         "repo": "ember-cli",
                         "stars": 3237
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     }
                   ],
                   "description": null,
@@ -1034,12 +1088,13 @@
                 "archived": false,
                 "id": 23096959,
                 "language": "Go",
-                "last_commit": "2026-08-27T22:27:22Z",
+                "last_commit": "2026-08-28T21:42:41Z",
                 "owner": "golang",
                 "repo": "go",
-                "stars": 136548
+                "stars": 136561
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Instrumentation will be added to the Go command-line tools written and distributed by the Go team, such as the command, the Go compiler, , and .\nList of known telemetry channels:",
@@ -1061,7 +1116,8 @@
                 "repo": "humbug",
                 "stars": 37
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Humbug lets you collect basic system information and crash reports while respecting your users' privacy.\nList of known telemetry channels:",
@@ -1075,7 +1131,8 @@
             "repo": "humbug",
             "stars": 37
           },
-          "title": "Humbug"
+          "title": "Humbug",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1091,8 +1148,9 @@
                 "last_commit": "2026-08-27T14:07:01Z",
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59110
-              }
+                "stars": 59117
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "MeiliSearch collects anonymous data regarding general usage. This helps us better understand developers' usage of MeiliSearch features. We also use Sentry to make us crash and error reports.\nList of known telemetry channels:",
@@ -1104,9 +1162,10 @@
             "last_commit": "2026-08-27T14:07:01Z",
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 59110
+            "stars": 59117
           },
-          "title": "MeiliSearch"
+          "title": "MeiliSearch",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1123,7 +1182,8 @@
                 "owner": "dbcli",
                 "repo": "mssql-cli",
                 "stars": 1412
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "By default, Microsoft collects anonymous usage data in order to improve the user experience. The usage data collected allows the team to prioritize features and bug fixes.\nList of known telemetry channels:",
@@ -1137,7 +1197,8 @@
             "repo": "mssql-cli",
             "stars": 1412
           },
-          "title": "mssql-cli"
+          "title": "mssql-cli",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1150,11 +1211,12 @@
                 "archived": false,
                 "id": 108761645,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T22:20:45Z",
+                "last_commit": "2026-08-28T13:51:56Z",
                 "owner": "nocodb",
                 "repo": "nocodb",
-                "stars": 64765
-              }
+                "stars": 64774
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "NocoDB collects telemetry.\nList of known telemetry channels:",
@@ -1176,7 +1238,8 @@
                 "owner": "onecodex",
                 "repo": "onecodex",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "One Codex CLI logs errors to One Codex's Sentry server.\nList of known telemetry channels:",
@@ -1194,11 +1257,12 @@
                 "archived": false,
                 "id": 159692201,
                 "language": "C#",
-                "last_commit": "2026-08-27T12:51:32Z",
+                "last_commit": "2026-08-28T07:27:11Z",
                 "owner": "microsoft",
                 "repo": "Oryx",
-                "stars": 878
-              }
+                "stars": 879
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "When utilized within Azure services, this project collects usage data and sends it to Microsoft to help improve our products and services.\nList of known telemetry channels:",
@@ -1207,12 +1271,13 @@
             "archived": false,
             "id": 159692201,
             "language": "C#",
-            "last_commit": "2026-08-27T12:51:32Z",
+            "last_commit": "2026-08-28T07:27:11Z",
             "owner": "microsoft",
             "repo": "Oryx",
-            "stars": 878
+            "stars": 879
           },
-          "title": "Oryx"
+          "title": "Oryx",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1229,7 +1294,8 @@
                 "owner": "lightstep",
                 "repo": "otel-launcher-node",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Launcher automatically collects and sends host metrics to Lightstep.\nList of known telemetry channels:",
@@ -1243,7 +1309,8 @@
             "repo": "otel-launcher-node",
             "stars": 25
           },
-          "title": "otel-launcher-node"
+          "title": "otel-launcher-node",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1260,7 +1327,8 @@
                 "owner": "projector-cli",
                 "repo": "projector-cli",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Projector uses Application Insights to better understand and fix errors that come up in the CLI.\nList of known telemetry channels:",
@@ -1274,7 +1342,8 @@
             "repo": "projector-cli",
             "stars": 3
           },
-          "title": "projector-cli"
+          "title": "projector-cli",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1291,7 +1360,8 @@
                 "owner": "Quantinuum",
                 "repo": "pytket-docs",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "pytket features a telemetry module which can be used to keep track of pyktet usage and will provide usage analytics and error reporting at a later date. Telemetry is disabled by default.\nList of known telemetry channels:",
@@ -1305,7 +1375,8 @@
             "repo": "pytket-docs",
             "stars": 334
           },
-          "title": "pytket"
+          "title": "pytket",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1322,7 +1393,8 @@
                 "owner": "microsoft",
                 "repo": "rest-api-fuzz-testing",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [
@@ -1341,7 +1413,8 @@
                         "owner": "microsoft",
                         "repo": "rest-api-fuzz-testing",
                         "stars": 263
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     }
                   ],
                   "description": null,
@@ -1360,7 +1433,8 @@
                 "repo": "rest-api-fuzz-testing",
                 "stars": 263
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "By default, we collect anonymous usage data from your RAFT instance, which helps us understand how users use RAFT and the problems they experience, which in turn, helps us improve the quality of the offering over time.\nList of known telemetry channels:",
@@ -1374,7 +1448,8 @@
             "repo": "rest-api-fuzz-testing",
             "stars": 263
           },
-          "title": "REST API Fuzz Testing (RAFT)"
+          "title": "REST API Fuzz Testing (RAFT)",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1390,8 +1465,9 @@
                 "last_commit": "2026-08-27T14:43:52Z",
                 "owner": "marmelab",
                 "repo": "react-admin",
-                "stars": 26914
-              }
+                "stars": 26915
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "In production, react-admin applications send an anonymous request on mount to a telemetry server operated by marmelab.\nList of known telemetry channels:",
@@ -1413,11 +1489,12 @@
                         "archived": false,
                         "id": 48009214,
                         "language": "C++",
-                        "last_commit": "2026-08-27T22:18:49Z",
+                        "last_commit": "2026-08-28T05:43:46Z",
                         "owner": "microsoft",
                         "repo": "react-native-windows",
                         "stars": 17329
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     },
                     {
                       "node_type": "item",
@@ -1428,11 +1505,12 @@
                         "archived": false,
                         "id": 48009214,
                         "language": "C++",
-                        "last_commit": "2026-08-27T22:18:49Z",
+                        "last_commit": "2026-08-28T05:43:46Z",
                         "owner": "microsoft",
                         "repo": "react-native-windows",
                         "stars": 17329
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     }
                   ],
                   "description": null,
@@ -1464,7 +1542,8 @@
                 "owner": "reportportal",
                 "repo": "client-javascript",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "ReportPortal collects only information about agent name and version. This information is sent to Google analytics on the launch start.\nList of known telemetry channels:",
@@ -1478,7 +1557,8 @@
             "repo": "client-javascript",
             "stars": 19
           },
-          "title": "ReportPortal (JS client)"
+          "title": "ReportPortal (JS client)",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1495,7 +1575,8 @@
                 "owner": "reportportal",
                 "repo": "agent-python-pytest",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "ReportPortal collects information about agent name and its version only. This information is sent to Google analytics on the launch start.\nList of known telemetry channels:",
@@ -1509,7 +1590,8 @@
             "repo": "agent-python-pytest",
             "stars": 110
           },
-          "title": "ReportPortal (Pytest plugin)"
+          "title": "ReportPortal (Pytest plugin)",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1526,7 +1608,8 @@
                 "owner": "microsoft",
                 "repo": "restler-fuzzer",
                 "stars": 2938
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [],
@@ -1541,7 +1624,8 @@
                 "repo": "restler-fuzzer",
                 "stars": 2938
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "RESTler collects telemetry in order to understand usage and prioritize improvements.\nList of known telemetry channels:",
@@ -1555,7 +1639,8 @@
             "repo": "restler-fuzzer",
             "stars": 2938
           },
-          "title": "RESTler"
+          "title": "RESTler",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1572,7 +1657,8 @@
                 "owner": "rockset",
                 "repo": "rockset-js",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "The Rockset CLI includes a telemetry feature that collects some usage data. This feature is enabled by default. We never log any sensitive data, query text, or query result data.\nList of known telemetry channels:",
@@ -1589,12 +1675,13 @@
                 "archived": false,
                 "id": 34302698,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T18:53:36Z",
+                "last_commit": "2026-08-28T18:26:45Z",
                 "owner": "serverless",
                 "repo": "serverless",
-                "stars": 46919
+                "stars": 46917
               },
-              "title": "Usage data (alternate environment variable)"
+              "title": "Usage data (alternate environment variable)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Serverless Framework collects anonymous telemetry data in order to better understand the needs of our users and to help drive better prioritization of improvements and more informed decisions.\nList of known telemetry channels:",
@@ -1611,12 +1698,13 @@
                 "archived": false,
                 "id": 148384603,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:41:03Z",
+                "last_commit": "2026-08-28T20:54:40Z",
                 "owner": "forcedotcom",
                 "repo": "sfdx-core",
                 "stars": 170
               },
-              "title": "Usage data (alternate environment variable)"
+              "title": "Usage data (alternate environment variable)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Salesforce collects usage data and metrics (telemetry) to help improve Salesforce CLI. We collect anonymous information related to the use of the CLI and plug-ins, such as which commands and parameters were run, and performance and error data.\nList of known telemetry channels:",
@@ -1634,11 +1722,12 @@
                 "archived": false,
                 "id": 81527646,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:05:04Z",
+                "last_commit": "2026-08-28T06:49:25Z",
                 "owner": "seek-oss",
                 "repo": "sku",
                 "stars": 483
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "To help us improve sku, please install our private telemetry package that gives us insights on usage, errors and performance.\nList of known telemetry channels:",
@@ -1647,12 +1736,13 @@
             "archived": false,
             "id": 81527646,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:05:04Z",
+            "last_commit": "2026-08-28T06:49:25Z",
             "owner": "seek-oss",
             "repo": "sku",
             "stars": 483
           },
-          "title": "SKU"
+          "title": "SKU",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [],
@@ -1665,9 +1755,10 @@
             "last_commit": "2026-04-30T14:52:10Z",
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6787
+            "stars": 6789
           },
-          "title": "TYPO3"
+          "title": "TYPO3",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1684,7 +1775,8 @@
                 "owner": "microsoft",
                 "repo": "vstest-docs",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [],
@@ -1694,12 +1786,13 @@
                 "archived": false,
                 "id": 62774726,
                 "language": "C#",
-                "last_commit": "2026-08-27T18:32:56Z",
+                "last_commit": "2026-08-28T19:06:18Z",
                 "owner": "microsoft",
                 "repo": "vstest",
                 "stars": 969
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Going forward vstest platform will enable collection of rich telemetry data points to helps us and any vstest consuming platform in making the right choices to improve end user experience.\nList of known telemetry channels:",
@@ -1708,12 +1801,13 @@
             "archived": false,
             "id": 62774726,
             "language": "C#",
-            "last_commit": "2026-08-27T18:32:56Z",
+            "last_commit": "2026-08-28T19:06:18Z",
             "owner": "microsoft",
             "repo": "vstest",
             "stars": 969
           },
-          "title": "vstest"
+          "title": "vstest",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1730,7 +1824,8 @@
                 "owner": "vuedx",
                 "repo": "languagetools",
                 "stars": 1254
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "This package contains telemetry and submits various actions to Sentry.io.\nList of known telemetry channels:",
@@ -1744,7 +1839,8 @@
             "repo": "languagetools",
             "stars": 1254
           },
-          "title": "VueDX"
+          "title": "VueDX",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1759,11 +1855,12 @@
                     "archived": false,
                     "id": 384219990,
                     "language": "Rust",
-                    "last_commit": "2026-08-27T22:05:12Z",
+                    "last_commit": "2026-08-28T22:39:54Z",
                     "owner": "warpdotdev",
                     "repo": "warp",
-                    "stars": 64568
-                  }
+                    "stars": 64609
+                  },
+                  "first_seen": "2026-08-28T23:03:10.699Z"
                 }
               ],
               "description": "All app interactions are tracked via segment.com\nUse methods described below to opt-out of this telemetry channel.",
@@ -1785,12 +1882,13 @@
                 "archived": false,
                 "id": 116817549,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:33:18Z",
+                "last_commit": "2026-08-28T19:34:32Z",
                 "owner": "webiny",
                 "repo": "webiny-js",
                 "stars": 8032
               },
-              "title": "Usage data (env. var)"
+              "title": "Usage data (env. var)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "By default, Webiny collects anonymous usage information, which is exclusively used for improving the product and understanding usage patterns.\nList of known telemetry channels:",
@@ -1818,7 +1916,8 @@
                 "owner": "AutomatedLab",
                 "repo": "AutomatedLab",
                 "stars": 2222
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "AutomatedLab will start to collect telemetry starting with version 5.0. This is an opt-out collection and you will be asked once to specify whether or not you want to send us telemetry data.\nList of known telemetry channels:",
@@ -1832,7 +1931,8 @@
             "repo": "AutomatedLab",
             "stars": 2222
           },
-          "title": "AutomatedLab"
+          "title": "AutomatedLab",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1849,7 +1949,8 @@
                 "repo": "AutoSPInstallerOnline",
                 "stars": 23
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Telemetry is disabled by default\nList of known telemetry channels:",
@@ -1863,7 +1964,8 @@
             "repo": "AutoSPInstallerOnline",
             "stars": 23
           },
-          "title": "AutoSPInstaller Online"
+          "title": "AutoSPInstaller Online",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [],
@@ -1878,7 +1980,8 @@
             "repo": "deck",
             "stars": 503
           },
-          "title": "decK"
+          "title": "decK",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -1895,7 +1998,8 @@
                 "repo": "earthly",
                 "stars": 12047
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "By default, Earthly collects anonymized data which we use for measuring performance of the earthly command.\nList of known telemetry channels:",
@@ -1916,8 +2020,9 @@
                 "last_commit": "2026-08-25T21:02:29Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2695
-              }
+                "stars": 2696
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [],
@@ -1930,9 +2035,10 @@
                 "last_commit": "2026-08-25T21:02:29Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2695
+                "stars": 2696
               },
-              "title": "Usage data (current)"
+              "title": "Usage data (current)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [],
@@ -1945,9 +2051,10 @@
                 "last_commit": "2026-08-25T21:02:29Z",
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2695
+                "stars": 2696
               },
-              "title": "Usage data (legacy)"
+              "title": "Usage data (legacy)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Kics is using Sentry's application monitoring platform for crash reports collection: https://sentry.io/\nList of known telemetry channels:",
@@ -1969,7 +2076,8 @@
                 "owner": "twosson",
                 "repo": "kubeapt",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "The software may collect information about you and your use of the software.\nList of known telemetry channels:",
@@ -1983,7 +2091,8 @@
             "repo": "kubeapt",
             "stars": 0
           },
-          "title": "kubeapt"
+          "title": "kubeapt",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -2000,7 +2109,8 @@
                 "owner": "microsoft",
                 "repo": "MSLab",
                 "stars": 1298
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "The software may collect information about you and your use of the software and send it to Microsoft. Microsoft may use this information to provide services and improve our products and services.\nList of known telemetry channels:",
@@ -2014,7 +2124,8 @@
             "repo": "MSLab",
             "stars": 1298
           },
-          "title": "MSLab"
+          "title": "MSLab",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
           "children": [
@@ -2031,7 +2142,8 @@
                 "owner": "telepresenceio",
                 "repo": "telepresence",
                 "stars": 7288
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Telepresence collects some basic information about its users so it can send important client notices, such as new version availability and security bulletins. We also use the information to aggregate basic usage analytics anonymously.\nList of known telemetry channels:",
@@ -2053,7 +2165,8 @@
                 "owner": "hashicorp",
                 "repo": "terraform-cdk",
                 "stars": 5074
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "CDK for Terraform CLI (cdktf-cli) interacts with a HashiCorp service called Checkpoint to report project metrics such as cdktf version, project language, provider name, platform name, and other details that help guide the project maintainers with feature and roadmap decisions.\nList of known telemetry channels:",
@@ -2067,7 +2180,8 @@
             "repo": "terraform-cdk",
             "stars": 5074
           },
-          "title": "Cloud Development Kit for Terraform"
+          "title": "Cloud Development Kit for Terraform",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         }
       ],
       "title": "DevOps"
@@ -2093,8 +2207,9 @@
                         "last_commit": "2026-08-23T21:07:42Z",
                         "owner": "farag2",
                         "repo": "Sophia-Script-for-Windows",
-                        "stars": 9678
-                      }
+                        "stars": 9682
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     },
                     {
                       "node_type": "item",
@@ -2108,8 +2223,9 @@
                         "last_commit": "2026-08-27T02:22:11Z",
                         "owner": "crazy-max",
                         "repo": "WindowsSpyBlocker",
-                        "stars": 5167
-                      }
+                        "stars": 5169
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     },
                     {
                       "node_type": "item",
@@ -2124,7 +2240,8 @@
                         "owner": "builtbybel",
                         "repo": "privatezilla",
                         "stars": 3737
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     }
                   ],
                   "description": null,
@@ -2161,8 +2278,9 @@
                 "last_commit": "2026-08-25T14:40:25Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189413
-              }
+                "stars": 189427
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "By default, you will be prompted to check for upgrades every few weeks.\nList of known telemetry channels:",
@@ -2177,12 +2295,13 @@
             "archived": false,
             "id": 49609581,
             "language": "C#",
-            "last_commit": "2026-08-27T22:19:03Z",
+            "last_commit": "2026-08-28T18:14:56Z",
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 55146
+            "stars": 55171
           },
-          "title": "PowerShell Core"
+          "title": "PowerShell Core",
+          "first_seen": "2026-08-28T23:03:10.699Z"
         }
       ],
       "title": "Shells"
@@ -2205,7 +2324,8 @@
                 "owner": "microsoft",
                 "repo": "applicationinsights-vscode",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "The software may collect information about you and your use of the software and send it to Microsoft.\nList of known telemetry channels:",
@@ -2227,7 +2347,8 @@
                 "owner": "microsoft",
                 "repo": "docs-yaml",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
               "children": [
@@ -2246,7 +2367,8 @@
                         "owner": "microsoft",
                         "repo": "docs-yaml",
                         "stars": 5
-                      }
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     }
                   ],
                   "description": null,
@@ -2274,11 +2396,12 @@
                 "archived": false,
                 "id": 158485478,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:45:10Z",
+                "last_commit": "2026-08-28T11:17:24Z",
                 "owner": "espressif",
                 "repo": "vscode-esp-idf-extension",
-                "stars": 1460
-              }
+                "stars": 1462
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "We collect telemetry data, from vscode extension which is used to help understand how to improve the extension. For example, this usage data helps to debug issues, such as slow start-up times, and to prioritize new features.\nList of known telemetry channels:",
@@ -2300,7 +2423,8 @@
                 "repo": "vscode-js-debug",
                 "stars": 1964
               },
-              "title": "Usage data"
+              "title": "Usage data",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "The software may collect information about you and your use of the software.\nList of known telemetry channels:",
@@ -2322,7 +2446,8 @@
                 "owner": "nobuhito",
                 "repo": "vscode.printcode",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "PrintCode records product usage with Google Analytics.\nList of known telemetry channels:",
@@ -2344,7 +2469,8 @@
                 "owner": "Huachao",
                 "repo": "vscode-restclient",
                 "stars": 6044
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "REST Client sends out anonymous usage data.\nList of known telemetry channels:",
@@ -2366,7 +2492,8 @@
                 "owner": "threadheap",
                 "repo": "serverless-ide-vscode",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "ServerlessIDE collects anonymous information related to the usage of the extensions, such as which commands were run, as well as performance and error data.\nList of known telemetry channels:",
@@ -2388,7 +2515,8 @@
                 "owner": "formulahendry",
                 "repo": "vscode-terminal",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Terminal uses Application Insights to track telemetry data. By default, telemetry data collection is turned on.\nList of known telemetry channels:",
@@ -2400,7 +2528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:58:04.216Z",
+    "last_updated": "2026-08-28T23:03:10.699Z",
     "original_repository_info": {
       "archived": false,
       "id": 220850297,

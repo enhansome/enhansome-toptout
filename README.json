@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📡 Easily opt-out from telemetry collection",
+                "homepage": "https://toptout.me",
                 "id": 220850297,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2023-02-19T01:16:20Z",
+                "open_issues": 526,
                 "owner": "beatcracker",
                 "repo": "toptout",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "awesome-list",
+                  "do-not-track",
+                  "opt-out",
+                  "powershell",
+                  "privacy",
+                  "privacy-policy",
+                  "privacy-protection",
+                  "telemetry",
+                  "telemetry-channels",
+                  "telemetry-collection"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -40,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Easily opt-out from telemetry collection --through interactive -command-line",
+                    "homepage": null,
                     "id": 344175038,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2023-06-06T18:43:53Z",
+                    "open_issues": 0,
                     "owner": "nikvoronin",
                     "repo": "toptout-cli",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:03:10.699Z"
                 }
@@ -69,12 +90,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy",
+            "homepage": "https://privacy.sexy",
             "id": 231104091,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-02-13T10:55:07Z",
+            "open_issues": 251,
             "owner": "undergroundwires",
             "repo": "privacy.sexy",
-            "stars": 5988
+            "stars": 5989,
+            "topics": [
+              "bloatware",
+              "bloatware-removal",
+              "cleanup",
+              "cybersecurity",
+              "debloat",
+              "debloater",
+              "debotnet",
+              "domain-driven-design",
+              "linux",
+              "macos",
+              "privacy",
+              "privacy-protection",
+              "privacy-tools",
+              "security",
+              "security-hardening",
+              "security-tool",
+              "security-tools",
+              "tweaks-collection",
+              "windows10",
+              "windows11"
+            ]
           },
           "first_seen": "2026-08-28T23:03:10.699Z"
         },
@@ -85,12 +132,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How to disable most data collection happening in your software and on your devices.",
+            "homepage": null,
             "id": 278182832,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2020-07-13T11:46:57Z",
+            "open_issues": 0,
             "owner": "herrbischoff",
             "repo": "telemetry",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "guide",
+              "telemetry"
+            ]
           },
           "first_seen": "2026-08-28T23:03:10.699Z"
         },
@@ -101,12 +156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opt-out of third-party tracking in your terminal",
+            "homepage": null,
             "id": 383505149,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-07-07T00:58:33Z",
+            "open_issues": 1,
             "owner": "rfletcher",
             "repo": "cli-privacy",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:03:10.699Z"
         }
@@ -125,12 +185,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Help improve Atom by sending usage statistics, exceptions and deprecations to the team.",
+                "homepage": null,
                 "id": 12630946,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-09-28T10:52:02Z",
+                "open_issues": 4,
                 "owner": "atom",
                 "repo": "metrics",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -147,12 +212,21 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "The open LMS by Instructure, Inc.",
+                "homepage": "https://github.com/instructure/canvas-lms/wiki",
                 "id": 1314319,
                 "language": "Ruby",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-30T14:52:10Z",
+                "open_issues": 467,
                 "owner": "instructure",
                 "repo": "canvas-lms",
-                "stars": 6789
+                "stars": 6789,
+                "topics": [
+                  "canvas-lms",
+                  "gerrit-mirror",
+                  "instructure"
+                ]
               },
               "title": "Usage data | Official",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -163,12 +237,21 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "The open LMS by Instructure, Inc.",
+                "homepage": "https://github.com/instructure/canvas-lms/wiki",
                 "id": 1314319,
                 "language": "Ruby",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-30T14:52:10Z",
+                "open_issues": 467,
                 "owner": "instructure",
                 "repo": "canvas-lms",
-                "stars": 6789
+                "stars": 6789,
+                "topics": [
+                  "canvas-lms",
+                  "gerrit-mirror",
+                  "instructure"
+                ]
               },
               "title": "Usage data | Unofficial",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -178,12 +261,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The open LMS by Instructure, Inc.",
+            "homepage": "https://github.com/instructure/canvas-lms/wiki",
             "id": 1314319,
             "language": "Ruby",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-30T14:52:10Z",
+            "open_issues": 467,
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6789
+            "stars": 6789,
+            "topics": [
+              "canvas-lms",
+              "gerrit-mirror",
+              "instructure"
+            ]
           },
           "title": "Canvas LMS",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -197,12 +289,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Re-Connectable secure remote shell",
+                "homepage": "https://mistertea.github.io/EternalTerminal/",
                 "id": 74223162,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-07T03:08:03Z",
+                "open_issues": 99,
                 "owner": "MisterTea",
                 "repo": "EternalTerminal",
-                "stars": 3866
+                "stars": 3866,
+                "topics": [
+                  "mosh",
+                  "remote-shell",
+                  "ssh",
+                  "terminal",
+                  "tmux"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -211,12 +314,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Re-Connectable secure remote shell",
+            "homepage": "https://mistertea.github.io/EternalTerminal/",
             "id": 74223162,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-07T03:08:03Z",
+            "open_issues": 99,
             "owner": "MisterTea",
             "repo": "EternalTerminal",
-            "stars": 3866
+            "stars": 3866,
+            "topics": [
+              "mosh",
+              "remote-shell",
+              "ssh",
+              "terminal",
+              "tmux"
+            ]
           },
           "title": "Eternal Terminal",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -229,12 +343,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Policy Templates for Firefox",
+                "homepage": null,
                 "id": 123358461,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-20T19:11:10Z",
+                "open_issues": 67,
                 "owner": "mozilla",
                 "repo": "policy-templates",
-                "stars": 1309
+                "stars": 1309,
+                "topics": []
               },
               "title": "Enable policies (macOS)",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -245,12 +364,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Policy Templates for Firefox",
+                "homepage": null,
                 "id": 123358461,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-20T19:11:10Z",
+                "open_issues": 67,
                 "owner": "mozilla",
                 "repo": "policy-templates",
-                "stars": 1309
+                "stars": 1309,
+                "topics": []
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -268,12 +392,23 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "🍺 The Package Manager for Everywhere",
+                "homepage": "https://brew.sh",
                 "id": 53238813,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T18:18:28Z",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-29T02:10:47Z",
+                "open_issues": 10,
                 "owner": "Homebrew",
                 "repo": "brew",
-                "stars": 49310
+                "stars": 49313,
+                "topics": [
+                  "brew",
+                  "homebrew",
+                  "macos",
+                  "package-manager",
+                  "ruby"
+                ]
               },
               "title": "Usage data (alternate environment variable)",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -292,12 +427,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LYNX | Free & OpenSource VFX Pipeline Tools",
+                "homepage": "http://www.lucascheller.de/blog/",
                 "id": 192184403,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2021-08-19T17:49:26Z",
+                "open_issues": 8,
                 "owner": "LucaScheller",
                 "repo": "VFX-LYNX",
-                "stars": 228
+                "stars": 228,
+                "topics": [
+                  "cg",
+                  "fabric",
+                  "force",
+                  "fx",
+                  "pipeline",
+                  "velocity",
+                  "vfx"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -306,12 +454,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "LYNX | Free & OpenSource VFX Pipeline Tools",
+            "homepage": "http://www.lucascheller.de/blog/",
             "id": 192184403,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2021-08-19T17:49:26Z",
+            "open_issues": 8,
             "owner": "LucaScheller",
             "repo": "VFX-LYNX",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "cg",
+              "fabric",
+              "force",
+              "fx",
+              "pipeline",
+              "velocity",
+              "vfx"
+            ]
           },
           "title": "LYNX VFX",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -325,12 +486,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+                "homepage": null,
                 "id": 168008797,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-25T23:34:32Z",
+                "open_issues": 469,
                 "owner": "microsoft",
                 "repo": "calculator",
-                "stars": 31025
+                "stars": 31025,
+                "topics": [
+                  "cpp",
+                  "csharp",
+                  "uwp",
+                  "windows",
+                  "windows-10",
+                  "windows-11",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -339,12 +513,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+            "homepage": null,
             "id": 168008797,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-25T23:34:32Z",
+            "open_issues": 469,
             "owner": "microsoft",
             "repo": "calculator",
-            "stars": 31025
+            "stars": 31025,
+            "topics": [
+              "cpp",
+              "csharp",
+              "uwp",
+              "windows",
+              "windows-10",
+              "windows-11",
+              "xaml"
+            ]
           },
           "title": "Microsoft calculator",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -358,12 +545,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+                "homepage": null,
                 "id": 100060912,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:41:14Z",
+                "open_issues": 1763,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104723
+                "stars": 104722,
+                "topics": [
+                  "cmd",
+                  "command-line",
+                  "console",
+                  "contributions-welcome",
+                  "good-first-issue",
+                  "hacktoberfest",
+                  "terminal",
+                  "windows",
+                  "windows-console",
+                  "windows-terminal",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -372,12 +576,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+            "homepage": null,
             "id": 100060912,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:41:14Z",
+            "open_issues": 1763,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104723
+            "stars": 104722,
+            "topics": [
+              "cmd",
+              "command-line",
+              "console",
+              "contributions-welcome",
+              "good-first-issue",
+              "hacktoberfest",
+              "terminal",
+              "windows",
+              "windows-console",
+              "windows-terminal",
+              "wsl"
+            ]
           },
           "title": "Windows Terminal",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -391,12 +612,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+                "homepage": "https://learn.microsoft.com/windows/package-manager/",
                 "id": 197275130,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:28:25Z",
+                "open_issues": 1304,
                 "owner": "microsoft",
                 "repo": "winget-cli",
-                "stars": 26363
+                "stars": 26363,
+                "topics": [
+                  "command-line",
+                  "package-manager",
+                  "windows",
+                  "winget"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             },
@@ -407,12 +638,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+                "homepage": "https://learn.microsoft.com/windows/package-manager/",
                 "id": 197275130,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-26T20:28:25Z",
+                "open_issues": 1304,
                 "owner": "microsoft",
                 "repo": "winget-cli",
-                "stars": 26363
+                "stars": 26363,
+                "topics": [
+                  "command-line",
+                  "package-manager",
+                  "windows",
+                  "winget"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -421,12 +662,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+            "homepage": "https://learn.microsoft.com/windows/package-manager/",
             "id": 197275130,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-26T20:28:25Z",
+            "open_issues": 1304,
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26363
+            "stars": 26363,
+            "topics": [
+              "command-line",
+              "package-manager",
+              "windows",
+              "winget"
+            ]
           },
           "title": "winget",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -445,12 +696,25 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "CLI for Hookdeck: forward webhooks to localhost (ngrok alternative), manage and query Event Gateway resources (sources, connections, destinations, events), run the MCP server for AI agents. Free for dev.",
+                "homepage": "https://hookdeck.com?ref=github-hookdeck-cli",
                 "id": 346862690,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T12:44:26Z",
+                "open_issues": 47,
                 "owner": "hookdeck",
                 "repo": "hookdeck-cli",
-                "stars": 360
+                "stars": 360,
+                "topics": [
+                  "cli",
+                  "hookdeck",
+                  "localtunnel",
+                  "mcp",
+                  "mcp-server",
+                  "ngrok-alternative",
+                  "webhooks"
+                ]
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -469,12 +733,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command Line Interface for Scaleway",
+                "homepage": "https://cli.scaleway.com",
                 "id": 32575663,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:42:30Z",
+                "open_issues": 265,
                 "owner": "scaleway",
                 "repo": "scaleway-cli",
-                "stars": 996
+                "stars": 996,
+                "topics": [
+                  "cli",
+                  "go",
+                  "scaleway",
+                  "scaleway-cli"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -492,12 +766,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line tool for Stripe",
+                "homepage": "https://docs.stripe.com/cli",
                 "id": 191848501,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:22:55Z",
+                "open_issues": 223,
                 "owner": "stripe",
                 "repo": "stripe-cli",
-                "stars": 2163
+                "stars": 2163,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -523,12 +802,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+                    "homepage": "https://mattermost.com",
                     "id": 37448451,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T22:49:26Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T02:05:43Z",
+                    "open_issues": 997,
                     "owner": "mattermost",
                     "repo": "mattermost",
-                    "stars": 38934
+                    "stars": 38936,
+                    "topics": [
+                      "collaboration",
+                      "golang",
+                      "hacktoberfest",
+                      "mattermost",
+                      "monorepo",
+                      "react",
+                      "react-native"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:03:10.699Z"
                 }
@@ -546,12 +838,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+                    "homepage": "https://mattermost.com",
                     "id": 37448451,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T22:49:26Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T02:05:43Z",
+                    "open_issues": 997,
                     "owner": "mattermost",
                     "repo": "mattermost",
-                    "stars": 38934
+                    "stars": 38936,
+                    "topics": [
+                      "collaboration",
+                      "golang",
+                      "hacktoberfest",
+                      "mattermost",
+                      "monorepo",
+                      "react",
+                      "react-native"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:03:10.699Z"
                 }
@@ -580,12 +885,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple build tool for ALICE software",
+                "homepage": "http://alisw.github.io/alibuild/",
                 "id": 37974082,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T10:58:34Z",
+                "open_issues": 49,
                 "owner": "alisw",
                 "repo": "alibuild",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "alice-experiment",
+                  "build-tool",
+                  "hep"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -594,12 +908,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A simple build tool for ALICE software",
+            "homepage": "http://alisw.github.io/alibuild/",
             "id": 37974082,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T10:58:34Z",
+            "open_issues": 49,
             "owner": "alisw",
             "repo": "alibuild",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "alice-experiment",
+              "build-tool",
+              "hep"
+            ]
           },
           "title": "aliBuild",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -615,12 +938,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CLI tool for Angular",
+                    "homepage": "https://cli.angular.dev",
                     "id": 36891867,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T15:45:30Z",
+                    "open_issues": 264,
                     "owner": "angular",
                     "repo": "angular-cli",
-                    "stars": 27022
+                    "stars": 27022,
+                    "topics": [
+                      "angular",
+                      "angular-cli",
+                      "cli",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:03:10.699Z"
                 }
@@ -643,12 +976,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The most amazing daemon on Earth",
+                "homepage": null,
                 "id": 47364167,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-05T17:15:13Z",
+                "open_issues": 16,
                 "owner": "tidev",
                 "repo": "appc-daemon",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "npm-package"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -657,12 +997,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The most amazing daemon on Earth",
+            "homepage": null,
             "id": 47364167,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-05T17:15:13Z",
+            "open_issues": 16,
             "owner": "tidev",
             "repo": "appc-daemon",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "npm-package"
+            ]
           },
           "title": "Appc Daemon",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -675,12 +1022,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Command-line Interface (CLI) for Visual Studio App Center",
+                "homepage": "https://appcenter.ms/",
                 "id": 68242587,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-25T23:28:01Z",
+                "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "appcenter-cli",
-                "stars": 589
+                "stars": 589,
+                "topics": []
               },
               "title": "Usage data (env. var)",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -691,12 +1043,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Command-line Interface (CLI) for Visual Studio App Center",
+                "homepage": "https://appcenter.ms/",
                 "id": 68242587,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-02-25T23:28:01Z",
+                "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "appcenter-cli",
-                "stars": 589
+                "stars": 589,
+                "topics": []
               },
               "title": "Usage data (JSON file)",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -706,12 +1063,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Command-line Interface (CLI) for Visual Studio App Center",
+            "homepage": "https://appcenter.ms/",
             "id": 68242587,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-25T23:28:01Z",
+            "open_issues": 9,
             "owner": "microsoft",
             "repo": "appcenter-cli",
-            "stars": 589
+            "stars": 589,
+            "topics": []
           },
           "title": "App Center CLI",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -725,12 +1087,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "CLI Tools for the Microsoft Bot Framework",
+                "homepage": null,
                 "id": 187076818,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-10T13:32:21Z",
+                "open_issues": 23,
                 "owner": "microsoft",
                 "repo": "botframework-cli",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             },
@@ -740,12 +1107,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "CLI Tools for the Microsoft Bot Framework",
+                "homepage": null,
                 "id": 187076818,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-10T13:32:21Z",
+                "open_issues": 23,
                 "owner": "microsoft",
                 "repo": "botframework-cli",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -755,12 +1127,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "CLI Tools for the Microsoft Bot Framework",
+            "homepage": null,
             "id": 187076818,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-10T13:32:21Z",
+            "open_issues": 23,
             "owner": "microsoft",
             "repo": "botframework-cli",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "title": "Bot Framework CLI",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -774,12 +1151,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for easily installing and managing multiple versions of the Nim programming language.",
+                "homepage": null,
                 "id": 82104707,
                 "language": "Nim",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-04-03T18:41:11Z",
+                "open_issues": 62,
                 "owner": "dom96",
                 "repo": "choosenim",
-                "stars": 695
+                "stars": 695,
+                "topics": [
+                  "hacktoberfest",
+                  "installer",
+                  "nim",
+                  "toolchains"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -788,12 +1175,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Tool for easily installing and managing multiple versions of the Nim programming language.",
+            "homepage": null,
             "id": 82104707,
             "language": "Nim",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-04-03T18:41:11Z",
+            "open_issues": 62,
             "owner": "dom96",
             "repo": "choosenim",
-            "stars": 695
+            "stars": 695,
+            "topics": [
+              "hacktoberfest",
+              "installer",
+              "nim",
+              "toolchains"
+            ]
           },
           "title": "choosenim",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -807,12 +1204,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VS Code in the browser",
+                "homepage": "https://coder.com",
                 "id": 172953845,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T19:46:23Z",
+                "open_issues": 150,
                 "owner": "coder",
                 "repo": "code-server",
-                "stars": 79103
+                "stars": 79105,
+                "topics": [
+                  "browser-ide",
+                  "dev-tools",
+                  "development-environment",
+                  "ide",
+                  "remote-work",
+                  "vscode",
+                  "vscode-remote"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             },
@@ -827,12 +1237,25 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "VS Code in the browser",
+                        "homepage": "https://coder.com",
                         "id": 172953845,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2026-08-27T19:46:23Z",
+                        "open_issues": 150,
                         "owner": "coder",
                         "repo": "code-server",
-                        "stars": 79103
+                        "stars": 79105,
+                        "topics": [
+                          "browser-ide",
+                          "dev-tools",
+                          "development-environment",
+                          "ide",
+                          "remote-work",
+                          "vscode",
+                          "vscode-remote"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
                     }
@@ -851,12 +1274,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "VS Code in the browser",
+            "homepage": "https://coder.com",
             "id": 172953845,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:46:23Z",
+            "open_issues": 150,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79103
+            "stars": 79105,
+            "topics": [
+              "browser-ide",
+              "dev-tools",
+              "development-environment",
+              "ide",
+              "remote-work",
+              "vscode",
+              "vscode-remote"
+            ]
           },
           "title": "code-server",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -869,12 +1305,33 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "An orchestration platform for the development, production, and observation of data assets.",
+                "homepage": "https://dagster.io",
                 "id": 131619646,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:14:34Z",
+                "open_issues": 2586,
                 "owner": "dagster-io",
                 "repo": "dagster",
-                "stars": 16072
+                "stars": 16072,
+                "topics": [
+                  "analytics",
+                  "dagster",
+                  "data-engineering",
+                  "data-integration",
+                  "data-orchestrator",
+                  "data-pipelines",
+                  "data-science",
+                  "etl",
+                  "metadata",
+                  "mlops",
+                  "orchestration",
+                  "python",
+                  "scheduler",
+                  "workflow",
+                  "workflow-automation"
+                ]
               },
               "title": "Usage data (environment variable)",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -892,12 +1349,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Bug reports for Docker Desktop for Mac",
+                "homepage": "https://www.docker.com/products/docker#/mac",
                 "id": 64405770,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-02T10:46:25Z",
+                "open_issues": 817,
                 "owner": "docker",
                 "repo": "for-mac",
-                "stars": 2531
+                "stars": 2531,
+                "topics": []
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -908,12 +1370,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Bug reports for Docker Desktop for Mac",
+                "homepage": "https://www.docker.com/products/docker#/mac",
                 "id": 64405770,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-02T10:46:25Z",
+                "open_issues": 817,
                 "owner": "docker",
                 "repo": "for-mac",
-                "stars": 2531
+                "stars": 2531,
+                "topics": []
               },
               "title": "Customer experience data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -924,12 +1391,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Bug reports for Docker Desktop for Mac",
+                "homepage": "https://www.docker.com/products/docker#/mac",
                 "id": 64405770,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-02T10:46:25Z",
+                "open_issues": 817,
                 "owner": "docker",
                 "repo": "for-mac",
-                "stars": 2531
+                "stars": 2531,
+                "topics": []
               },
               "title": "Crash data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -945,12 +1417,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Contains assemblies to kill auto updating of Docker Desktop for Windows.",
+                        "homepage": null,
                         "id": 349350081,
                         "language": null,
+                        "license": null,
                         "last_commit": "2025-01-07T10:00:17Z",
+                        "open_issues": 0,
                         "owner": "RektInator",
                         "repo": "kill-docker-auto-update",
-                        "stars": 66
+                        "stars": 66,
+                        "topics": [
+                          "auto-update",
+                          "auto-updater",
+                          "docker",
+                          "docker-desktop"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
                     }
@@ -978,12 +1460,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ".NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.",
+                "homepage": null,
                 "id": 235469871,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-04-27T18:47:24Z",
+                "open_issues": 571,
                 "owner": "dotnet",
                 "repo": "interactive",
-                "stars": 3200
+                "stars": 3200,
+                "topics": [
+                  "csharp",
+                  "data-science",
+                  "dotnet-interactive",
+                  "fsharp",
+                  "interactive-programming",
+                  "jupyter",
+                  "notebooks",
+                  "polyglot",
+                  "polyglot-dev",
+                  "powershell"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -992,12 +1490,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": ".NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.",
+            "homepage": null,
             "id": 235469871,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-27T18:47:24Z",
+            "open_issues": 571,
             "owner": "dotnet",
             "repo": "interactive",
-            "stars": 3200
+            "stars": 3200,
+            "topics": [
+              "csharp",
+              "data-science",
+              "dotnet-interactive",
+              "fsharp",
+              "interactive-programming",
+              "jupyter",
+              "notebooks",
+              "polyglot",
+              "polyglot-dev",
+              "powershell"
+            ]
           },
           "title": ".NET Interactive",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1011,12 +1525,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains the client-oriented WCF libraries that enable applications built on .NET Core to communicate with WCF services.",
+                "homepage": null,
                 "id": 35562993,
                 "language": "C#",
-                "last_commit": "2026-08-28T02:01:48Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:01:49Z",
+                "open_issues": 358,
                 "owner": "dotnet",
                 "repo": "wcf",
-                "stars": 1751
+                "stars": 1751,
+                "topics": [
+                  "wcf",
+                  "wcf-client"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1034,12 +1556,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Ember.js command line utility.",
+                "homepage": "https://cli.emberjs.com",
                 "id": 14089735,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T21:41:19Z",
+                "open_issues": 158,
                 "owner": "ember-cli",
                 "repo": "ember-cli",
-                "stars": 3237
+                "stars": 3237,
+                "topics": [
+                  "ember",
+                  "ember-cli",
+                  "hacktoberfest",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             },
@@ -1054,12 +1586,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The Ember.js command line utility.",
+                        "homepage": "https://cli.emberjs.com",
                         "id": 14089735,
                         "language": "JavaScript",
+                        "license": "MIT",
                         "last_commit": "2026-08-24T21:41:19Z",
+                        "open_issues": 158,
                         "owner": "ember-cli",
                         "repo": "ember-cli",
-                        "stars": 3237
+                        "stars": 3237,
+                        "topics": [
+                          "ember",
+                          "ember-cli",
+                          "hacktoberfest",
+                          "javascript"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
                     }
@@ -1086,12 +1628,22 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "The Go programming language",
+                "homepage": "https://go.dev",
                 "id": 23096959,
                 "language": "Go",
-                "last_commit": "2026-08-28T21:42:41Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T04:45:04Z",
+                "open_issues": 10085,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 136561
+                "stars": 136562,
+                "topics": [
+                  "go",
+                  "golang",
+                  "language",
+                  "programming-language"
+                ]
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1109,12 +1661,36 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Get usage metrics and crash reports for your API, library, or command line tool.",
+                "homepage": null,
                 "id": 341780294,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-13T22:07:14Z",
+                "open_issues": 18,
                 "owner": "bugout-dev",
                 "repo": "humbug",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "analytics",
+                  "crash-reporting",
+                  "crash-reports",
+                  "gdpr",
+                  "gdpr-compliant",
+                  "gdpr-consent",
+                  "go",
+                  "golang",
+                  "javascript",
+                  "library",
+                  "polyglot",
+                  "privacy",
+                  "privacy-preserving",
+                  "privacy-protection",
+                  "python",
+                  "telemetry",
+                  "usage",
+                  "usage-reports"
+                ]
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1124,12 +1700,36 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Get usage metrics and crash reports for your API, library, or command line tool.",
+            "homepage": null,
             "id": 341780294,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-13T22:07:14Z",
+            "open_issues": 18,
             "owner": "bugout-dev",
             "repo": "humbug",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "analytics",
+              "crash-reporting",
+              "crash-reports",
+              "gdpr",
+              "gdpr-compliant",
+              "gdpr-consent",
+              "go",
+              "golang",
+              "javascript",
+              "library",
+              "polyglot",
+              "privacy",
+              "privacy-preserving",
+              "privacy-protection",
+              "python",
+              "telemetry",
+              "usage",
+              "usage-reports"
+            ]
           },
           "title": "Humbug",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1143,12 +1743,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+                "homepage": "https://www.meilisearch.com",
                 "id": 130688011,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:07:01Z",
+                "open_issues": 318,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59117
+                "stars": 59118,
+                "topics": [
+                  "ai",
+                  "api",
+                  "app-search",
+                  "database",
+                  "enterprise-search",
+                  "faceting",
+                  "full-text-search",
+                  "fuzzy-search",
+                  "geosearch",
+                  "hybrid-search",
+                  "instantsearch",
+                  "search",
+                  "search-as-you-type",
+                  "search-engine",
+                  "semantic-search",
+                  "site-search",
+                  "typo-tolerance",
+                  "vector-database",
+                  "vector-search",
+                  "vectors"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1157,12 +1783,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+            "homepage": "https://www.meilisearch.com",
             "id": 130688011,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T14:07:01Z",
+            "open_issues": 318,
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 59117
+            "stars": 59118,
+            "topics": [
+              "ai",
+              "api",
+              "app-search",
+              "database",
+              "enterprise-search",
+              "faceting",
+              "full-text-search",
+              "fuzzy-search",
+              "geosearch",
+              "hybrid-search",
+              "instantsearch",
+              "search",
+              "search-as-you-type",
+              "search-engine",
+              "semantic-search",
+              "site-search",
+              "typo-tolerance",
+              "vector-database",
+              "vector-search",
+              "vectors"
+            ]
           },
           "title": "MeiliSearch",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1176,12 +1828,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line client for SQL Server with auto-completion and syntax highlighting",
+                "homepage": null,
                 "id": 106766050,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-02-26T20:08:44Z",
+                "open_issues": 162,
                 "owner": "dbcli",
                 "repo": "mssql-cli",
-                "stars": 1412
+                "stars": 1412,
+                "topics": [
+                  "cli",
+                  "database",
+                  "python",
+                  "sqlserver"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1190,12 +1852,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A command-line client for SQL Server with auto-completion and syntax highlighting",
+            "homepage": null,
             "id": 106766050,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-26T20:08:44Z",
+            "open_issues": 162,
             "owner": "dbcli",
             "repo": "mssql-cli",
-            "stars": 1412
+            "stars": 1412,
+            "topics": [
+              "cli",
+              "database",
+              "python",
+              "sqlserver"
+            ]
           },
           "title": "mssql-cli",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1209,12 +1881,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative",
+                "homepage": "https://nocodb.com",
                 "id": 108761645,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T13:51:56Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:25:14Z",
+                "open_issues": 716,
                 "owner": "nocodb",
                 "repo": "nocodb",
-                "stars": 64774
+                "stars": 64776,
+                "topics": [
+                  "airtable",
+                  "airtable-alternative",
+                  "automatic-api",
+                  "hacktoberfest",
+                  "low-code",
+                  "no-code",
+                  "no-code-database",
+                  "no-code-platform",
+                  "postgresql",
+                  "rest-api",
+                  "restful-api",
+                  "spreadsheet",
+                  "sqlite",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1232,12 +1924,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line interface and Python client library for the One Codex API",
+                "homepage": "https://onecodex.github.io/onecodex/",
                 "id": 25324077,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T13:14:10Z",
+                "open_issues": 31,
                 "owner": "onecodex",
                 "repo": "onecodex",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1255,12 +1952,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build your repo automatically.",
+                "homepage": null,
                 "id": 159692201,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T07:27:11Z",
+                "open_issues": 185,
                 "owner": "microsoft",
                 "repo": "Oryx",
-                "stars": 879
+                "stars": 879,
+                "topics": [
+                  "azure",
+                  "build",
+                  "container-builder",
+                  "nodejs",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1269,12 +1977,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Build your repo automatically.",
+            "homepage": null,
             "id": 159692201,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:27:11Z",
+            "open_issues": 185,
             "owner": "microsoft",
             "repo": "Oryx",
-            "stars": 879
+            "stars": 879,
+            "topics": [
+              "azure",
+              "build",
+              "container-builder",
+              "nodejs",
+              "python"
+            ]
           },
           "title": "Oryx",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1288,12 +2007,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Launcher, a Lightstep Distro for OpenTelemetry Node.js 🚀",
+                "homepage": null,
                 "id": 279936776,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-14T09:30:06Z",
+                "open_issues": 13,
                 "owner": "lightstep",
                 "repo": "otel-launcher-node",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "javascript",
+                  "nodejs",
+                  "opentelemetry"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1302,12 +2030,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Launcher, a Lightstep Distro for OpenTelemetry Node.js 🚀",
+            "homepage": null,
             "id": 279936776,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-14T09:30:06Z",
+            "open_issues": 13,
             "owner": "lightstep",
             "repo": "otel-launcher-node",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "javascript",
+              "nodejs",
+              "opentelemetry"
+            ]
           },
           "title": "otel-launcher-node",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1321,12 +2058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for bootstrapping projects and backlogs.",
+                "homepage": null,
                 "id": 382670227,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-02-08T23:51:12Z",
+                "open_issues": 17,
                 "owner": "projector-cli",
                 "repo": "projector-cli",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1335,12 +2077,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A tool for bootstrapping projects and backlogs.",
+            "homepage": null,
             "id": 382670227,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-02-08T23:51:12Z",
+            "open_issues": 17,
             "owner": "projector-cli",
             "repo": "projector-cli",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "title": "projector-cli",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1354,12 +2101,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User manual and example notebooks for the pytket quantum computing toolkit",
+                "homepage": "https://docs.quantinuum.com/tket/user-guide/",
                 "id": 140554016,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T04:23:04Z",
+                "open_issues": 16,
                 "owner": "Quantinuum",
                 "repo": "pytket-docs",
-                "stars": 334
+                "stars": 334,
+                "topics": [
+                  "compilers",
+                  "documentation",
+                  "jupyter-notebook",
+                  "quantum-algorithms",
+                  "quantum-computing",
+                  "user-guide"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1368,12 +2127,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "User manual and example notebooks for the pytket quantum computing toolkit",
+            "homepage": "https://docs.quantinuum.com/tket/user-guide/",
             "id": 140554016,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T04:23:04Z",
+            "open_issues": 16,
             "owner": "Quantinuum",
             "repo": "pytket-docs",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "compilers",
+              "documentation",
+              "jupyter-notebook",
+              "quantum-algorithms",
+              "quantum-computing",
+              "user-guide"
+            ]
           },
           "title": "pytket",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1387,12 +2158,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enables developers to embed security tooling into their CI/CD workflows",
+                "homepage": null,
                 "id": 301478690,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2022-01-13T22:58:26Z",
+                "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "rest-api-fuzz-testing",
-                "stars": 263
+                "stars": 263,
+                "topics": [
+                  "api",
+                  "devops",
+                  "fuzz",
+                  "fuzzing",
+                  "fuzzing-framework",
+                  "rest",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             },
@@ -1407,12 +2191,25 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enables developers to embed security tooling into their CI/CD workflows",
+                        "homepage": null,
                         "id": 301478690,
                         "language": "F#",
+                        "license": "MIT",
                         "last_commit": "2022-01-13T22:58:26Z",
+                        "open_issues": 14,
                         "owner": "microsoft",
                         "repo": "rest-api-fuzz-testing",
-                        "stars": 263
+                        "stars": 263,
+                        "topics": [
+                          "api",
+                          "devops",
+                          "fuzz",
+                          "fuzzing",
+                          "fuzzing-framework",
+                          "rest",
+                          "rest-api"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
                     }
@@ -1426,12 +2223,25 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enables developers to embed security tooling into their CI/CD workflows",
+                "homepage": null,
                 "id": 301478690,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2022-01-13T22:58:26Z",
+                "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "rest-api-fuzz-testing",
-                "stars": 263
+                "stars": 263,
+                "topics": [
+                  "api",
+                  "devops",
+                  "fuzz",
+                  "fuzzing",
+                  "fuzzing-framework",
+                  "rest",
+                  "rest-api"
+                ]
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1441,12 +2251,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enables developers to embed security tooling into their CI/CD workflows",
+            "homepage": null,
             "id": 301478690,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-01-13T22:58:26Z",
+            "open_issues": 14,
             "owner": "microsoft",
             "repo": "rest-api-fuzz-testing",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "api",
+              "devops",
+              "fuzz",
+              "fuzzing",
+              "fuzzing-framework",
+              "rest",
+              "rest-api"
+            ]
           },
           "title": "REST API Fuzz Testing (RAFT)",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1460,12 +2283,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design",
+                "homepage": "http://marmelab.com/react-admin",
                 "id": 63226588,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:43:52Z",
+                "open_issues": 74,
                 "owner": "marmelab",
                 "repo": "react-admin",
-                "stars": 26915
+                "stars": 26915,
+                "topics": [
+                  "admin",
+                  "admin-dashboard",
+                  "admin-on-rest",
+                  "admin-ui",
+                  "frontend-framework",
+                  "graphql",
+                  "material-ui",
+                  "react",
+                  "react-admin",
+                  "reactjs",
+                  "rest",
+                  "single-page-app"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1487,12 +2328,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A framework for building native Windows apps with React.",
+                        "homepage": "https://microsoft.github.io/react-native-windows/",
                         "id": 48009214,
                         "language": "C++",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-28T05:43:46Z",
+                        "open_issues": 797,
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17329
+                        "stars": 17329,
+                        "topics": [
+                          "dotnet",
+                          "react",
+                          "react-native",
+                          "uwp",
+                          "xbox"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
                     },
@@ -1503,12 +2355,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A framework for building native Windows apps with React.",
+                        "homepage": "https://microsoft.github.io/react-native-windows/",
                         "id": 48009214,
                         "language": "C++",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-28T05:43:46Z",
+                        "open_issues": 797,
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17329
+                        "stars": 17329,
+                        "topics": [
+                          "dotnet",
+                          "react",
+                          "react-native",
+                          "uwp",
+                          "xbox"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
                     }
@@ -1536,12 +2399,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This Client is to communicate with the ReportPortal on Node.js.",
+                "homepage": "https://www.npmjs.com/package/@reportportal/client-javascript",
                 "id": 72623470,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T07:46:18Z",
+                "open_issues": 16,
                 "owner": "reportportal",
                 "repo": "client-javascript",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "javascript",
+                  "nodejs",
+                  "reportportal"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1550,12 +2422,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "This Client is to communicate with the ReportPortal on Node.js.",
+            "homepage": "https://www.npmjs.com/package/@reportportal/client-javascript",
             "id": 72623470,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T07:46:18Z",
+            "open_issues": 16,
             "owner": "reportportal",
             "repo": "client-javascript",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "javascript",
+              "nodejs",
+              "reportportal"
+            ]
           },
           "title": "ReportPortal (JS client)",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1569,12 +2450,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework integration with PyTest",
+                "homepage": null,
                 "id": 86579920,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T12:20:42Z",
+                "open_issues": 7,
                 "owner": "reportportal",
                 "repo": "agent-python-pytest",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "pytest",
+                  "pytest-bdd",
+                  "python",
+                  "reportportal"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1583,12 +2474,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Framework integration with PyTest",
+            "homepage": null,
             "id": 86579920,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T12:20:42Z",
+            "open_issues": 7,
             "owner": "reportportal",
             "repo": "agent-python-pytest",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "pytest",
+              "pytest-bdd",
+              "python",
+              "reportportal"
+            ]
           },
           "title": "ReportPortal (Pytest plugin)",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1602,12 +2503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.",
+                "homepage": null,
                 "id": 282320787,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-10T13:05:25Z",
+                "open_issues": 299,
                 "owner": "microsoft",
                 "repo": "restler-fuzzer",
-                "stars": 2938
+                "stars": 2938,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             },
@@ -1617,12 +2523,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.",
+                "homepage": null,
                 "id": 282320787,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-10T13:05:25Z",
+                "open_issues": 299,
                 "owner": "microsoft",
                 "repo": "restler-fuzzer",
-                "stars": 2938
+                "stars": 2938,
+                "topics": []
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1632,12 +2543,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.",
+            "homepage": null,
             "id": 282320787,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-10T13:05:25Z",
+            "open_issues": 299,
             "owner": "microsoft",
             "repo": "restler-fuzzer",
-            "stars": 2938
+            "stars": 2938,
+            "topics": []
           },
           "title": "RESTler",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1651,12 +2567,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 263427380,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-12T20:37:29Z",
+                "open_issues": 39,
                 "owner": "rockset",
                 "repo": "rockset-js",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "client",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1673,12 +2597,27 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.",
+                "homepage": "https://serverless.com",
                 "id": 34302698,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:26:45Z",
+                "open_issues": 1216,
                 "owner": "serverless",
                 "repo": "serverless",
-                "stars": 46917
+                "stars": 46917,
+                "topics": [
+                  "aws",
+                  "aws-dynamodb",
+                  "aws-lambda",
+                  "azure-functions",
+                  "google-cloud-functions",
+                  "microservice",
+                  "serverless",
+                  "serverless-architectures",
+                  "serverless-framework"
+                ]
               },
               "title": "Usage data (alternate environment variable)",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1696,12 +2635,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 148384603,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:54:40Z",
+                "open_issues": 25,
                 "owner": "forcedotcom",
                 "repo": "sfdx-core",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "title": "Usage data (alternate environment variable)",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1720,12 +2664,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Front-end development toolkit",
+                "homepage": "https://seek-oss.github.io/sku",
                 "id": 81527646,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:49:25Z",
+                "open_issues": 4,
                 "owner": "seek-oss",
                 "repo": "sku",
-                "stars": 483
+                "stars": 483,
+                "topics": [
+                  "babel",
+                  "build-tool",
+                  "eslint",
+                  "front-end",
+                  "owner-experience-platforms",
+                  "toolkit",
+                  "vanilla-extract",
+                  "vite",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1734,12 +2693,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Front-end development toolkit",
+            "homepage": "https://seek-oss.github.io/sku",
             "id": 81527646,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:49:25Z",
+            "open_issues": 4,
             "owner": "seek-oss",
             "repo": "sku",
-            "stars": 483
+            "stars": 483,
+            "topics": [
+              "babel",
+              "build-tool",
+              "eslint",
+              "front-end",
+              "owner-experience-platforms",
+              "toolkit",
+              "vanilla-extract",
+              "vite",
+              "webpack"
+            ]
           },
           "title": "SKU",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1750,12 +2724,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The open LMS by Instructure, Inc.",
+            "homepage": "https://github.com/instructure/canvas-lms/wiki",
             "id": 1314319,
             "language": "Ruby",
+            "license": "AGPL-3.0",
             "last_commit": "2026-04-30T14:52:10Z",
+            "open_issues": 467,
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6789
+            "stars": 6789,
+            "topics": [
+              "canvas-lms",
+              "gerrit-mirror",
+              "instructure"
+            ]
           },
           "title": "TYPO3",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1769,12 +2752,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Documentation for the Visual Studio Test Platform. ",
+                "homepage": null,
                 "id": 62620160,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-05T15:16:29Z",
+                "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "vstest-docs",
-                "stars": 215
+                "stars": 215,
+                "topics": [
+                  "documentation",
+                  "testing",
+                  "testing-tools",
+                  "unit-testing",
+                  "visual-studio",
+                  "vstest"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             },
@@ -1784,12 +2779,24 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.",
+                "homepage": null,
                 "id": 62774726,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:06:18Z",
+                "open_issues": 43,
                 "owner": "microsoft",
                 "repo": "vstest",
-                "stars": 969
+                "stars": 969,
+                "topics": [
+                  "dotnet",
+                  "test-runner",
+                  "testing",
+                  "testing-tools",
+                  "unit-testing",
+                  "visual-studio"
+                ]
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1799,12 +2806,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.",
+            "homepage": null,
             "id": 62774726,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:06:18Z",
+            "open_issues": 43,
             "owner": "microsoft",
             "repo": "vstest",
-            "stars": 969
+            "stars": 969,
+            "topics": [
+              "dotnet",
+              "test-runner",
+              "testing",
+              "testing-tools",
+              "unit-testing",
+              "visual-studio"
+            ]
           },
           "title": "vstest",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1818,12 +2837,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tools for better IDE experience.",
+                "homepage": "https://vuedx.com",
                 "id": 249064639,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-12-10T02:52:31Z",
+                "open_issues": 0,
                 "owner": "vuedx",
                 "repo": "languagetools",
-                "stars": 1254
+                "stars": 1254,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1832,12 +2856,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A collection of tools for better IDE experience.",
+            "homepage": "https://vuedx.com",
             "id": 249064639,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-10T02:52:31Z",
+            "open_issues": 0,
             "owner": "vuedx",
             "repo": "languagetools",
-            "stars": 1254
+            "stars": 1254,
+            "topics": []
           },
           "title": "VueDX",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1853,12 +2882,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Warp is an agentic development environment, born out of the terminal.",
+                    "homepage": "https://warp.dev",
                     "id": 384219990,
                     "language": "Rust",
-                    "last_commit": "2026-08-28T22:39:54Z",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-08-29T04:47:29Z",
+                    "open_issues": 5116,
                     "owner": "warpdotdev",
                     "repo": "warp",
-                    "stars": 64609
+                    "stars": 64616,
+                    "topics": [
+                      "bash",
+                      "linux",
+                      "macos",
+                      "rust",
+                      "shell",
+                      "terminal",
+                      "wasm",
+                      "zsh"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:03:10.699Z"
                 }
@@ -1880,12 +2923,36 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations.",
+                "homepage": "https://www.webiny.com",
                 "id": 116817549,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:34:32Z",
+                "open_issues": 350,
                 "owner": "webiny",
                 "repo": "webiny-js",
-                "stars": 8032
+                "stars": 8032,
+                "topics": [
+                  "ai-assisted-development",
+                  "aws",
+                  "aws-lambda",
+                  "cms",
+                  "graphql",
+                  "headless-cms",
+                  "lambda",
+                  "lambda-functions",
+                  "mcp",
+                  "multi-tenant",
+                  "nextjs",
+                  "nodejs",
+                  "open-source",
+                  "react",
+                  "serverless",
+                  "serverless-architectures",
+                  "typescript",
+                  "white-label"
+                ]
               },
               "title": "Usage data (env. var)",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1910,12 +2977,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.",
+                "homepage": null,
                 "id": 66317384,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-07-06T09:40:52Z",
+                "open_issues": 31,
                 "owner": "AutomatedLab",
                 "repo": "AutomatedLab",
-                "stars": 2222
+                "stars": 2222,
+                "topics": [
+                  "active",
+                  "active-directory",
+                  "automated-deployment",
+                  "azure",
+                  "deployment",
+                  "directory",
+                  "domain-controller",
+                  "exchange",
+                  "hyper",
+                  "hyperv",
+                  "lab-machine",
+                  "pki",
+                  "powershell",
+                  "scripted",
+                  "scripted-deployment"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -1924,12 +3012,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.",
+            "homepage": null,
             "id": 66317384,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-07-06T09:40:52Z",
+            "open_issues": 31,
             "owner": "AutomatedLab",
             "repo": "AutomatedLab",
-            "stars": 2222
+            "stars": 2222,
+            "topics": [
+              "active",
+              "active-directory",
+              "automated-deployment",
+              "azure",
+              "deployment",
+              "directory",
+              "domain-controller",
+              "exchange",
+              "hyper",
+              "hyperv",
+              "lab-machine",
+              "pki",
+              "powershell",
+              "scripted",
+              "scripted-deployment"
+            ]
           },
           "title": "AutomatedLab",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1942,12 +3051,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Front end of http://AutoSPInstaller.com",
+                "homepage": null,
                 "id": 39099663,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-12-15T14:30:35Z",
+                "open_issues": 5,
                 "owner": "IvanJosipovic",
                 "repo": "AutoSPInstallerOnline",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1957,12 +3071,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Front end of http://AutoSPInstaller.com",
+            "homepage": null,
             "id": 39099663,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-12-15T14:30:35Z",
+            "open_issues": 5,
             "owner": "IvanJosipovic",
             "repo": "AutoSPInstallerOnline",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "title": "AutoSPInstaller Online",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1973,12 +3092,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "decK: Configuration management and drift detection for Kong",
+            "homepage": "https://docs.konghq.com/deck/overview",
             "id": 157048481,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:42:09Z",
+            "open_issues": 99,
             "owner": "Kong",
             "repo": "deck",
-            "stars": 503
+            "stars": 503,
+            "topics": [
+              "configuration-management",
+              "declarative",
+              "declarative-config",
+              "diff",
+              "gitops",
+              "kong",
+              "kongfig",
+              "sync"
+            ]
           },
           "title": "decK",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1991,12 +3124,33 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.",
+                "homepage": "https://earthly.dev",
                 "id": 246903803,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2025-10-23T20:10:46Z",
+                "open_issues": 744,
                 "owner": "earthly",
                 "repo": "earthly",
-                "stars": 12047
+                "stars": 12047,
+                "topics": [
+                  "build",
+                  "build-automation",
+                  "build-system",
+                  "build-tool",
+                  "ci",
+                  "ci-cd",
+                  "cicd",
+                  "container-builder",
+                  "docker-images",
+                  "dockerfiles",
+                  "framework",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "hacktoberfest2021",
+                  "reproducible-builds"
+                ]
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -2015,12 +3169,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
+                "homepage": "https://kics.io",
                 "id": 278200746,
                 "language": "Open Policy Agent",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T21:02:29Z",
+                "open_issues": 315,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2696
+                "stars": 2696,
+                "topics": [
+                  "appsec",
+                  "cloudnative",
+                  "devsecops",
+                  "golang",
+                  "hacktoberfest",
+                  "iac",
+                  "infrastructure-as-code",
+                  "open-policy-agent",
+                  "security",
+                  "security-tools",
+                  "vulnerability-detection",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             },
@@ -2030,12 +3202,30 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
+                "homepage": "https://kics.io",
                 "id": 278200746,
                 "language": "Open Policy Agent",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T21:02:29Z",
+                "open_issues": 315,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2696
+                "stars": 2696,
+                "topics": [
+                  "appsec",
+                  "cloudnative",
+                  "devsecops",
+                  "golang",
+                  "hacktoberfest",
+                  "iac",
+                  "infrastructure-as-code",
+                  "open-policy-agent",
+                  "security",
+                  "security-tools",
+                  "vulnerability-detection",
+                  "vulnerability-scanners"
+                ]
               },
               "title": "Usage data (current)",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -2046,12 +3236,30 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
+                "homepage": "https://kics.io",
                 "id": 278200746,
                 "language": "Open Policy Agent",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T21:02:29Z",
+                "open_issues": 315,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2696
+                "stars": 2696,
+                "topics": [
+                  "appsec",
+                  "cloudnative",
+                  "devsecops",
+                  "golang",
+                  "hacktoberfest",
+                  "iac",
+                  "infrastructure-as-code",
+                  "open-policy-agent",
+                  "security",
+                  "security-tools",
+                  "vulnerability-detection",
+                  "vulnerability-scanners"
+                ]
               },
               "title": "Usage data (legacy)",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -2070,12 +3278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kube application hub",
+                "homepage": null,
                 "id": 253208153,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-12T09:44:33Z",
+                "open_issues": 23,
                 "owner": "twosson",
                 "repo": "kubeapt",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2084,12 +3297,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Kube application hub",
+            "homepage": null,
             "id": 253208153,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-12T09:44:33Z",
+            "open_issues": 23,
             "owner": "twosson",
             "repo": "kubeapt",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "title": "kubeapt",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -2103,12 +3321,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Local (formerly Azure Stack HCI), Windows 10 and Windows Server rapid lab deployment scripts",
+                "homepage": null,
                 "id": 56715782,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-10T09:51:48Z",
+                "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "MSLab",
-                "stars": 1298
+                "stars": 1298,
+                "topics": [
+                  "azshci",
+                  "powershell",
+                  "s2d",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2117,12 +3345,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Azure Local (formerly Azure Stack HCI), Windows 10 and Windows Server rapid lab deployment scripts",
+            "homepage": null,
             "id": 56715782,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-08-10T09:51:48Z",
+            "open_issues": 24,
             "owner": "microsoft",
             "repo": "MSLab",
-            "stars": 1298
+            "stars": 1298,
+            "topics": [
+              "azshci",
+              "powershell",
+              "s2d",
+              "windows"
+            ]
           },
           "title": "MSLab",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -2136,12 +3374,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local development against a remote Kubernetes or OpenShift cluster",
+                "homepage": "https://www.telepresence.io",
                 "id": 82933315,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T06:20:33Z",
+                "open_issues": 26,
                 "owner": "telepresenceio",
                 "repo": "telepresence",
-                "stars": 7288
+                "stars": 7288,
+                "topics": [
+                  "docker",
+                  "kubernetes",
+                  "local-development",
+                  "minikube",
+                  "proxy",
+                  "tunnel",
+                  "vpn"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2159,12 +3410,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+                "homepage": "https://www.terraform.io/cdktf",
                 "id": 232603801,
                 "language": "TypeScript",
+                "license": "MPL-2.0",
                 "last_commit": "2025-12-10T14:12:01Z",
+                "open_issues": 389,
                 "owner": "hashicorp",
                 "repo": "terraform-cdk",
-                "stars": 5074
+                "stars": 5074,
+                "topics": [
+                  "cdk",
+                  "cdktf",
+                  "hack",
+                  "infrastructure-as-code",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2173,12 +3435,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+            "homepage": "https://www.terraform.io/cdktf",
             "id": 232603801,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2025-12-10T14:12:01Z",
+            "open_issues": 389,
             "owner": "hashicorp",
             "repo": "terraform-cdk",
-            "stars": 5074
+            "stars": 5074,
+            "topics": [
+              "cdk",
+              "cdktf",
+              "hack",
+              "infrastructure-as-code",
+              "terraform"
+            ]
           },
           "title": "Cloud Development Kit for Terraform",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -2202,12 +3475,36 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": ":zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub",
+                        "homepage": null,
                         "id": 153443362,
                         "language": "PowerShell",
+                        "license": "MIT",
                         "last_commit": "2026-08-23T21:07:42Z",
+                        "open_issues": 0,
                         "owner": "farag2",
                         "repo": "Sophia-Script-for-Windows",
-                        "stars": 9682
+                        "stars": 9683,
+                        "topics": [
+                          "25h2",
+                          "26h2",
+                          "debloat",
+                          "debloater",
+                          "debloating",
+                          "gui",
+                          "ltsc",
+                          "powershell",
+                          "script",
+                          "sophia",
+                          "sophia-script",
+                          "tweak",
+                          "tweaker",
+                          "tweaks",
+                          "windows",
+                          "windows-10",
+                          "windows-11",
+                          "windows-debloat"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
                     },
@@ -2218,12 +3515,31 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Block spying and tracking on Windows",
+                        "homepage": "https://crazymax.dev/WindowsSpyBlocker/",
                         "id": 53165382,
                         "language": "Go",
+                        "license": "MIT",
                         "last_commit": "2026-08-27T02:22:11Z",
+                        "open_issues": 45,
                         "owner": "crazy-max",
                         "repo": "WindowsSpyBlocker",
-                        "stars": 5169
+                        "stars": 5169,
+                        "topics": [
+                          "blocker",
+                          "dnscrypt",
+                          "firewall",
+                          "hostsfile",
+                          "ncsi",
+                          "openwrt",
+                          "proxifier",
+                          "qemu",
+                          "spy",
+                          "sysmon",
+                          "telemetry",
+                          "windows",
+                          "wireshark"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
                     },
@@ -2234,12 +3550,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "👀👮🐢🔥Performs a privacy & security check of Windows 10 ",
+                        "homepage": "https://www.builtbybel.com/apps/privatezilla",
                         "id": 268367789,
                         "language": "C#",
+                        "license": "MIT",
                         "last_commit": "2023-04-18T18:28:47Z",
+                        "open_issues": 30,
                         "owner": "builtbybel",
                         "repo": "privatezilla",
-                        "stars": 3737
+                        "stars": 3737,
+                        "topics": [
+                          "debloat",
+                          "powershell",
+                          "privacy",
+                          "privacy-protection",
+                          "security",
+                          "security-automation",
+                          "telemetry",
+                          "windows-10"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
                     }
@@ -2273,12 +3603,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+                "homepage": "https://ohmyz.sh",
                 "id": 291137,
                 "language": "Shell",
-                "last_commit": "2026-08-25T14:40:25Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:43:45Z",
+                "open_issues": 574,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189427
+                "stars": 189428,
+                "topics": [
+                  "cli",
+                  "cli-app",
+                  "oh-my-zsh",
+                  "oh-my-zsh-plugin",
+                  "oh-my-zsh-theme",
+                  "ohmyzsh",
+                  "plugin-framework",
+                  "plugins",
+                  "productivity",
+                  "shell",
+                  "terminal",
+                  "theme",
+                  "themes",
+                  "zsh",
+                  "zsh-configuration"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2293,12 +3644,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "PowerShell for every system!",
+            "homepage": "https://microsoft.com/PowerShell",
             "id": 49609581,
             "language": "C#",
-            "last_commit": "2026-08-28T18:14:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:32:32Z",
+            "open_issues": 1607,
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 55171
+            "stars": 55176,
+            "topics": [
+              "command-line",
+              "hacktoberfest",
+              "linux",
+              "macos",
+              "netcore",
+              "powershell",
+              "shell",
+              "windows"
+            ]
           },
           "title": "PowerShell Core",
           "first_seen": "2026-08-28T23:03:10.699Z"
@@ -2318,12 +3683,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Visual Studio Code extension for Azure Application Insights",
+                "homepage": null,
                 "id": 75977142,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2017-01-31T09:00:59Z",
+                "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "applicationinsights-vscode",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2341,12 +3711,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 301544850,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-07-21T16:25:06Z",
+                "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "docs-yaml",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             },
@@ -2361,12 +3736,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": null,
+                        "homepage": null,
                         "id": 301544850,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2021-07-21T16:25:06Z",
+                        "open_issues": 1,
                         "owner": "microsoft",
                         "repo": "docs-yaml",
-                        "stars": 5
+                        "stars": 5,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
                     }
@@ -2394,12 +3774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Studio Code extension for ESP-IDF projects",
+                "homepage": "https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/",
                 "id": 158485478,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:17:24Z",
+                "open_issues": 51,
                 "owner": "espressif",
                 "repo": "vscode-esp-idf-extension",
-                "stars": 1462
+                "stars": 1462,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2416,12 +3801,23 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more",
+                "homepage": null,
                 "id": 198896556,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T03:35:48Z",
+                "open_issues": 123,
                 "owner": "microsoft",
                 "repo": "vscode-js-debug",
-                "stars": 1964
+                "stars": 1964,
+                "topics": [
+                  "dap",
+                  "debug",
+                  "hacktoberfest",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -2440,12 +3836,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PrintCode added printing function to VS Code!!",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode",
                 "id": 112696353,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T17:36:49Z",
+                "open_issues": 39,
                 "owner": "nobuhito",
                 "repo": "vscode.printcode",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2463,12 +3866,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST Client Extension for Visual Studio Code",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client",
                 "id": 55044933,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-23T03:14:02Z",
+                "open_issues": 591,
                 "owner": "Huachao",
                 "repo": "vscode-restclient",
-                "stars": 6044
+                "stars": 6045,
+                "topics": [
+                  "graphql",
+                  "http",
+                  "http-client",
+                  "rest",
+                  "rest-api",
+                  "rest-client",
+                  "typescript",
+                  "visual-studio-code",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2486,12 +3905,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Serverless IDE: Enhanced support for AWS SAM and CloudFormation in VS Code",
+                "homepage": "https://serverless-ide.com/",
                 "id": 163707602,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-04-17T04:26:30Z",
+                "open_issues": 32,
                 "owner": "threadheap",
                 "repo": "serverless-ide-vscode",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "aws",
+                  "cfn-lint",
+                  "cloudformation",
+                  "serverless-framework",
+                  "visual-studio",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2509,12 +3940,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal for Visual Studio Code",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal",
                 "id": 61855572,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2017-07-22T15:45:45Z",
+                "open_issues": 15,
                 "owner": "formulahendry",
                 "repo": "vscode-terminal",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "terminal",
+                  "typescript",
+                  "visual-studio-code",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
@@ -2528,15 +3970,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:03:10.699Z",
+    "last_updated": "2026-08-29T04:51:22.160Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📡 Easily opt-out from telemetry collection",
+      "homepage": "https://toptout.me",
       "id": 220850297,
       "language": "PowerShell",
+      "license": "MIT",
       "last_commit": "2023-02-19T01:16:20Z",
+      "open_issues": 526,
       "owner": "beatcracker",
       "repo": "toptout",
-      "stars": 184
+      "stars": 184,
+      "topics": [
+        "awesome-list",
+        "do-not-track",
+        "opt-out",
+        "powershell",
+        "privacy",
+        "privacy-policy",
+        "privacy-protection",
+        "telemetry",
+        "telemetry-channels",
+        "telemetry-collection"
+      ]
     },
     "original_repository_sha": "c73ba38d05f84091329d60a1b35aeeea2a60f772",
     "enhanced_repository": "enhansome/enhansome-toptout",

@@ -77,7 +77,7 @@ See [CONTRIBUTING](/.github/CONTRIBUTING.md) for details on adding new telemetry
 
   Web tool to enforce privacy & security best-practices on Windows, because privacy is sexy 🍑🍆
 
-  GitHub: [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) ⭐ 6,050 | 🐛 253 | 🌐 TypeScript | 📅 2026-02-13
+  GitHub: [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) ⭐ 6,053 | 🐛 253 | 🌐 TypeScript | 📅 2026-02-13
 
 * [herrbischoff/telemetry](https://github.com/herrbischoff/telemetry) ⭐ 41 | 🐛 0 | 📅 2020-07-13
 
@@ -370,7 +370,7 @@ Use methods described below to opt-out of this telemetry channel.
 
    > Enable or disable automatic crash reporting
 
-### [Canvas LMS](https://github.com/instructure/canvas-lms) ⭐ 6,827 | 🐛 467 | 🌐 Ruby | 📅 2026-04-30
+### [Canvas LMS](https://github.com/instructure/canvas-lms) ⭐ 6,832 | 🐛 467 | 🌐 Ruby | 📅 2026-04-30
 
 > The software may collect information about you and your use of the software.
 
@@ -378,7 +378,7 @@ Use methods described below to opt-out of this telemetry channel.
 
 List of known telemetry channels:
 
-#### [Usage data | Official](https://github.com/instructure/canvas-lms/blob/dc0e7b50e838fcca6f111082293b8faf415aff28/lib/tasks/db_load_data.rake#L154) ⭐ 6,827 | 🐛 467 | 🌐 Ruby | 📅 2026-04-30
+#### [Usage data | Official](https://github.com/instructure/canvas-lms/blob/dc0e7b50e838fcca6f111082293b8faf415aff28/lib/tasks/db_load_data.rake#L154) ⭐ 6,832 | 🐛 467 | 🌐 Ruby | 📅 2026-04-30
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -396,7 +396,7 @@ Use methods described below to opt-out of this telemetry channel.
 CANVAS_LMS_STATS_COLLECTION=opt_out
 ```
 
-#### [Usage data | Unofficial](https://github.com/instructure/canvas-lms/blob/dc0e7b50e838fcca6f111082293b8faf415aff28/lib/tasks/db_load_data.rake#L16) ⭐ 6,827 | 🐛 467 | 🌐 Ruby | 📅 2026-04-30
+#### [Usage data | Unofficial](https://github.com/instructure/canvas-lms/blob/dc0e7b50e838fcca6f111082293b8faf415aff28/lib/tasks/db_load_data.rake#L16) ⭐ 6,832 | 🐛 467 | 🌐 Ruby | 📅 2026-04-30
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -414,11 +414,11 @@ Use methods described below to opt-out of this telemetry channel.
 TELEMETRY_OPT_IN=
 ```
 
-### [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) ⭐ 3,898 | 🐛 48 | 🌐 C++ | 📅 2026-09-21
+### [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) ⭐ 3,899 | 🐛 37 | 🌐 C++ | 📅 2026-09-22
 
 > Eternal Terminal collects crashes and errors in order to help us improve your experience. The data collected is anonymous.
 
-* [Telemetry details](https://github.com/MisterTea/EternalTerminal/blob/55aafce51b7199908423efb4d4e69a4f61b22069/src/terminal/TelemetryService.cpp#L117-L120) ⭐ 3,898 | 🐛 48 | 🌐 C++ | 📅 2026-09-21
+* [Telemetry details](https://github.com/MisterTea/EternalTerminal/blob/55aafce51b7199908423efb4d4e69a4f61b22069/src/terminal/TelemetryService.cpp#L117-L120) ⭐ 3,899 | 🐛 37 | 🌐 C++ | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -564,7 +564,7 @@ HOMEBREW_NO_ANALYTICS=1
 brew analytics off
 ```
 
-#### [Usage data (alternate environment variable)](https://github.com/Homebrew/brew/blob/6ad92949e910041416d84a53966ec46b873e069f/Library/Homebrew/utils/analytics.sh#L38) ⭐ 49,735 | 🐛 3 | 🌐 Ruby | 📅 2026-09-21
+#### [Usage data (alternate environment variable)](https://github.com/Homebrew/brew/blob/6ad92949e910041416d84a53966ec46b873e069f/Library/Homebrew/utils/analytics.sh#L38) ⭐ 49,744 | 🐛 9 | 🌐 Ruby | 📅 2026-09-22
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -705,11 +705,11 @@ Example:
 reg add HKEY_CURRENT_USER\Software\Policies\Microsoft\office\16.0\common\privacy /v SendTelemetry /d 3 /t REG_DWORD /f
 ```
 
-### [Microsoft calculator](https://github.com/Microsoft/calculator) ⭐ 31,056 | 🐛 475 | 🌐 C# | 📅 2026-09-16
+### [Microsoft calculator](https://github.com/Microsoft/calculator) ⭐ 31,054 | 🐛 475 | 🌐 C# | 📅 2026-09-16
 
 > This project collects usage data and sends it to Microsoft to help improve our products and services.
 
-* [Telemetry details](https://github.com/microsoft/calculator#diagnostic-data) ⭐ 31,056 | 🐛 475 | 🌐 C# | 📅 2026-09-16
+* [Telemetry details](https://github.com/microsoft/calculator#diagnostic-data) ⭐ 31,054 | 🐛 475 | 🌐 C# | 📅 2026-09-16
 * [Privacy policy](https://go.microsoft.com/fwlink/?LinkId=521839)
 
 List of known telemetry channels:
@@ -835,11 +835,11 @@ Use methods described below to opt-out of this telemetry channel.
 }
 ```
 
-### [Windows Terminal](https://github.com/microsoft/terminal) ⭐ 104,959 | 🐛 1,765 | 🌐 C++ | 📅 2026-09-21
+### [Windows Terminal](https://github.com/microsoft/terminal) ⭐ 104,965 | 🐛 1,772 | 🌐 C++ | 📅 2026-09-22
 
 > The Windows Terminal client is instrumented to collect usage and diagnostic (error) data and sends it to Microsoft to help improve the product.
 
-* [Telemetry details](https://github.com/microsoft/terminal/issues/5331) ⭐ 104,959 | 🐛 1,765 | 🌐 C++ | 📅 2026-09-21
+* [Telemetry details](https://github.com/microsoft/terminal/issues/5331) ⭐ 104,965 | 🐛 1,772 | 🌐 C++ | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -874,12 +874,12 @@ Example:
 reg add HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\DataCollection /v AllowTelemetry /d 1 /t REG_DWORD /f
 ```
 
-### [winget](https://github.com/microsoft/winget-cli) ⭐ 26,449 | 🐛 1,315 | 🌐 C++ | 📅 2026-09-21
+### [winget](https://github.com/microsoft/winget-cli) ⭐ 26,445 | 🐛 1,311 | 🌐 C++ | 📅 2026-09-22
 
 > The winget.exe client is instrumented to collect usage and diagnostic (error) data and sends it to Microsoft to help improve the product.
 
-* [Telemetry details](https://github.com/microsoft/winget-cli#datatelemetry) ⭐ 26,449 | 🐛 1,315 | 🌐 C++ | 📅 2026-09-21
-* [Privacy policy](https://github.com/microsoft/winget-cli/blob/master/privacy.md) ⭐ 26,449 | 🐛 1,315 | 🌐 C++ | 📅 2026-09-21
+* [Telemetry details](https://github.com/microsoft/winget-cli#datatelemetry) ⭐ 26,445 | 🐛 1,311 | 🌐 C++ | 📅 2026-09-22
+* [Privacy policy](https://github.com/microsoft/winget-cli/blob/master/privacy.md) ⭐ 26,445 | 🐛 1,311 | 🌐 C++ | 📅 2026-09-22
 
 List of known telemetry channels:
 
@@ -1039,7 +1039,7 @@ gcloud config set disable_usage_reporting true
 
 List of known telemetry channels:
 
-#### [Usage data](https://github.com/hookdeck/hookdeck-cli/blob/8c2e18bfd5d413e1d2418c5a73d56791b3bfb513/pkg/hookdeck/client.go#L56-L61) ⭐ 362 | 🐛 79 | 🌐 Go | 📅 2026-09-21
+#### [Usage data](https://github.com/hookdeck/hookdeck-cli/blob/8c2e18bfd5d413e1d2418c5a73d56791b3bfb513/pkg/hookdeck/client.go#L56-L61) ⭐ 363 | 🐛 80 | 🌐 Go | 📅 2026-09-22
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -1057,7 +1057,7 @@ HOOKDECK_CLI_TELEMETRY_OPTOUT=ANY_VALUE
 
 ### [Netdata](https://www.netdata.cloud)
 
-> By default, Netdata collects anonymous usage information from the open-source monitoring agent using the open-source product analytics platform [PostHog](https://github.com/PostHog/posthog) ⭐ 39,885 | 🐛 5,601 | 🌐 Python | 📅 2026-09-21. We self-host our PostHog instance, which means your data is never sent or processed by any third parties outside of the Netdata infrastructure.
+> By default, Netdata collects anonymous usage information from the open-source monitoring agent using the open-source product analytics platform [PostHog](https://github.com/PostHog/posthog) ⭐ 39,899 | 🐛 5,604 | 🌐 Python | 📅 2026-09-22. We self-host our PostHog instance, which means your data is never sent or processed by any third parties outside of the Netdata infrastructure.
 
 * [Telemetry details](https://learn.netdata.cloud/docs/agent/anonymous-statistics)
 * [Privacy policy](https://learn.netdata.cloud/docs/agent/privacy-policy/)
@@ -1137,7 +1137,7 @@ netlify --telemetry-disable
 
 > Send usage statistics and diagnostics.
 
-* [Telemetry details](https://github.com/scaleway/scaleway-cli/blob/master/docs/commands/config.md) ⭐ 996 | 🐛 262 | 🌐 Go | 📅 2026-09-21
+* [Telemetry details](https://github.com/scaleway/scaleway-cli/blob/master/docs/commands/config.md) ⭐ 996 | 🐛 261 | 🌐 Go | 📅 2026-09-22
 * [Privacy policy](https://www.scaleway.com/en/privacy-policy/)
 
 List of known telemetry channels:
@@ -1162,7 +1162,7 @@ scw config set send-telemetry=false
 
 > The Stripe CLI includes a telemetry feature that collects some usage data. This feature is enabled by default.
 
-* [Telemetry details](https://github.com/stripe/stripe-cli/wiki/telemetry) ⭐ 2,183 | 🐛 228 | 🌐 Go | 📅 2026-09-21
+* [Telemetry details](https://github.com/stripe/stripe-cli/wiki/telemetry) ⭐ 2,183 | 🐛 229 | 🌐 Go | 📅 2026-09-22
 * [Privacy policy](https://stripe.com/privacy)
 
 List of known telemetry channels:
@@ -1225,7 +1225,7 @@ List of known telemetry channels:
 | :------: | :--------: | :----------: | :----------: |
 |     ❌    |      ❌     |       ❌      |       ✔      |
 
-* [Telemetry details](https://github.com/mattermost/mattermost-server/issues/9466) ⭐ 39,129 | 🐛 1,005 | 🌐 TypeScript | 📅 2026-09-21
+* [Telemetry details](https://github.com/mattermost/mattermost-server/issues/9466) ⭐ 39,145 | 🐛 1,007 | 🌐 TypeScript | 📅 2026-09-22
 
 Use methods described below to opt-out of this telemetry channel.
 
@@ -1243,7 +1243,7 @@ MM_LOGSETTINGS_ENABLEDIAGNOSTICS=false
 | :------: | :--------: | :----------: | :----------: |
 |     ❌    |      ❌     |       ✔      |       ❌      |
 
-* [Telemetry details](https://github.com/mattermost/mattermost-server/issues/9466) ⭐ 39,129 | 🐛 1,005 | 🌐 TypeScript | 📅 2026-09-21
+* [Telemetry details](https://github.com/mattermost/mattermost-server/issues/9466) ⭐ 39,145 | 🐛 1,007 | 🌐 TypeScript | 📅 2026-09-22
 
 Use methods described below to opt-out of this telemetry channel.
 
@@ -1554,7 +1554,7 @@ List of known telemetry channels:
 | :------: | :--------: | :----------: | :----------: |
 |     ✔    |      ✔     |       ❌      |       ❌      |
 
-* [Telemetry details](https://github.com/angular/angular-cli/blob/master/docs/design/analytics.md#disabling-usage-analytics) ⭐ 27,025 | 🐛 266 | 🌐 TypeScript | 📅 2026-09-21
+* [Telemetry details](https://github.com/angular/angular-cli/blob/master/docs/design/analytics.md#disabling-usage-analytics) ⭐ 27,025 | 🐛 267 | 🌐 TypeScript | 📅 2026-09-22
 
 > Share usage data with Angular team.
 
@@ -1903,11 +1903,11 @@ Use methods described below to opt-out of this telemetry channel.
 CARBON_TELEMETRY_DISABLED=1
 ```
 
-### [choosenim](https://github.com/dom96/choosenim) ⭐ 694 | 🐛 62 | 🌐 Nim | 📅 2024-04-03
+### [choosenim](https://github.com/dom96/choosenim) ⭐ 695 | 🐛 62 | 🌐 Nim | 📅 2024-04-03
 
 > Starting with version 0.3.0, choosenim has the ability to gather anonymous aggregate user behaviour analytics and to report them to Google Analytics.
 
-* [Telemetry details](https://github.com/dom96/choosenim/blob/master/analytics.md) ⭐ 694 | 🐛 62 | 🌐 Nim | 📅 2024-04-03
+* [Telemetry details](https://github.com/dom96/choosenim/blob/master/analytics.md) ⭐ 695 | 🐛 62 | 🌐 Nim | 📅 2024-04-03
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -1953,11 +1953,11 @@ Use methods described below to opt-out of this telemetry channel.
 COCOAPODS_DISABLE_STATS=true
 ```
 
-### [code-server](https://github.com/cdr/code-server) ⭐ 79,382 | 🐛 150 | 🌐 TypeScript | 📅 2026-09-20
+### [code-server](https://github.com/cdr/code-server) ⭐ 79,394 | 🐛 151 | 🌐 TypeScript | 📅 2026-09-20
 
 > We use the data collected only to improve code-server.
 
-* [Telemetry details](https://github.com/cdr/code-server/blob/main/docs/FAQ.md#how-can-i-disable-telemetry) ⭐ 79,382 | 🐛 150 | 🌐 TypeScript | 📅 2026-09-20
+* [Telemetry details](https://github.com/cdr/code-server/blob/main/docs/FAQ.md#how-can-i-disable-telemetry) ⭐ 79,394 | 🐛 151 | 🌐 TypeScript | 📅 2026-09-20
 * [Privacy policy](https://coder.com/legal/privacy-policy)
 
 List of known telemetry channels:
@@ -1972,7 +1972,7 @@ Use methods described below to opt-out of this telemetry channel.
 
 ##### 1. Visit link(s) for more details
 
-1. [Using commandline flag](https://github.com/cdr/code-server/blob/main/docs/FAQ.md#how-can-i-disable-telemetry) ⭐ 79,382 | 🐛 150 | 🌐 TypeScript | 📅 2026-09-20
+1. [Using commandline flag](https://github.com/cdr/code-server/blob/main/docs/FAQ.md#how-can-i-disable-telemetry) ⭐ 79,394 | 🐛 151 | 🌐 TypeScript | 📅 2026-09-20
 
    > Use the `--disable-telemetry` flag to completely disable telemetry.
 
@@ -2082,7 +2082,7 @@ telemetry:
   enabled: false
 ```
 
-#### [Usage data (environment variable)](https://github.com/dagster-io/dagster/blob/master/python_modules/dagit/dagit/telemetry.py) ⭐ 16,192 | 🐛 2,570 | 🌐 Python | 📅 2026-09-21
+#### [Usage data (environment variable)](https://github.com/dagster-io/dagster/blob/master/python_modules/dagit/dagit/telemetry.py) ⭐ 16,192 | 🐛 2,565 | 🌐 Python | 📅 2026-09-22
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -2220,7 +2220,7 @@ DOTNET_INTERACTIVE_CLI_TELEMETRY_OPTOUT=1
 
 > Anonymous telemetry information collection.
 
-* [Telemetry details](https://github.com/dotnet/wcf/blob/main/release-notes/dotnet-svcutil-notes.md) ⭐ 1,750 | 🐛 360 | 🌐 C# | 📅 2026-09-20
+* [Telemetry details](https://github.com/dotnet/wcf/blob/main/release-notes/dotnet-svcutil-notes.md) ⭐ 1,750 | 🐛 360 | 🌐 C# | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -2436,7 +2436,7 @@ gatsby telemetry --disable
 
 List of known telemetry channels:
 
-#### [Usage data](https://github.com/golang/go/discussions/58409) ⭐ 138,924 | 🐛 10,166 | 🌐 Go | 📅 2026-09-21
+#### [Usage data](https://github.com/golang/go/discussions/58409) ⭐ 138,951 | 🐛 10,175 | 🌐 Go | 📅 2026-09-22
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -2605,11 +2605,11 @@ Use methods described below to opt-out of this telemetry channel.
    > 0.0.0.0 api.segment.io
    > ```
 
-### [MeiliSearch](https://github.com/meilisearch/MeiliSearch) ⭐ 59,359 | 🐛 309 | 🌐 Rust | 📅 2026-09-21
+### [MeiliSearch](https://github.com/meilisearch/MeiliSearch) ⭐ 59,370 | 🐛 310 | 🌐 Rust | 📅 2026-09-22
 
 > MeiliSearch collects anonymous data regarding general usage. This helps us better understand developers' usage of MeiliSearch features. We also use Sentry to make us crash and error reports.
 
-* [Telemetry details](https://github.com/meilisearch/MeiliSearch/blob/main/README.md#telemetry) ⭐ 59,359 | 🐛 309 | 🌐 Rust | 📅 2026-09-21
+* [Telemetry details](https://github.com/meilisearch/MeiliSearch/blob/main/README.md#telemetry) ⭐ 59,370 | 🐛 310 | 🌐 Rust | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -2742,7 +2742,7 @@ npx next telemetry disable
 
 > NocoDB collects telemetry.
 
-* [Telemetry details](https://github.com/nocodb/nocodb/blob/master/README.md#environment-variables) ⭐ 65,026 | 🐛 716 | 🌐 TypeScript | 📅 2026-09-21
+* [Telemetry details](https://github.com/nocodb/nocodb/blob/master/README.md#environment-variables) ⭐ 65,038 | 🐛 717 | 🌐 TypeScript | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -2800,7 +2800,7 @@ npx nuxt telemetry disable --global
 
 > One Codex CLI logs errors to One Codex's Sentry server.
 
-* [Telemetry details](https://github.com/onecodex/onecodex/pull/62) ⭐ 25 | 🐛 31 | 🌐 Python | 📅 2026-09-21
+* [Telemetry details](https://github.com/onecodex/onecodex/pull/62) ⭐ 25 | 🐛 31 | 🌐 Python | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -2860,11 +2860,11 @@ SQA_OPT_OUT=true
    > sqa.opt_out=true
    > ```
 
-### [Oryx](https://github.com/microsoft/Oryx) ⭐ 881 | 🐛 202 | 🌐 C# | 📅 2026-09-18
+### [Oryx](https://github.com/microsoft/Oryx) ⭐ 881 | 🐛 203 | 🌐 C# | 📅 2026-09-18
 
 > When utilized within Azure services, this project collects usage data and sends it to Microsoft to help improve our products and services.
 
-* [Telemetry details](https://github.com/microsoft/Oryx#datatelemetry) ⭐ 881 | 🐛 202 | 🌐 C# | 📅 2026-09-18
+* [Telemetry details](https://github.com/microsoft/Oryx#datatelemetry) ⭐ 881 | 🐛 203 | 🌐 C# | 📅 2026-09-18
 * [Privacy policy](https://privacy.microsoft.com/en-us/privacystatement)
 
 List of known telemetry channels:
@@ -3183,7 +3183,7 @@ rasa telemetry disable
 
 > In production, react-admin applications send an anonymous request on mount to a telemetry server operated by marmelab.
 
-* [Telemetry details](https://github.com/marmelab/react-admin/blob/master/CHANGELOG.md#v3110) ⭐ 26,943 | 🐛 66 | 🌐 TypeScript | 📅 2026-09-18
+* [Telemetry details](https://github.com/marmelab/react-admin/blob/master/CHANGELOG.md#v3110) ⭐ 26,944 | 🐛 64 | 🌐 TypeScript | 📅 2026-09-22
 * [Privacy policy](https://marmelab.com/en/legal)
 
 List of known telemetry channels:
@@ -3232,11 +3232,11 @@ Use methods described below to opt-out of this telemetry channel.
 
 ##### 1. Visit link(s) for more details
 
-1. [react-native-windows/cli | Using commandline flag](https://github.com/microsoft/react-native-windows/blob/master/packages/@react-native-windows/cli/README.md) ⭐ 17,342 | 🐛 809 | 🌐 C++ | 📅 2026-09-18
+1. [react-native-windows/cli | Using commandline flag](https://github.com/microsoft/react-native-windows/blob/master/packages/@react-native-windows/cli/README.md) ⭐ 17,342 | 🐛 808 | 🌐 C++ | 📅 2026-09-22
 
    > Provide `--no-telemetry` flag.
 
-2. [react-native-windows-init | Using commandline flag](https://github.com/microsoft/react-native-windows/blob/master/packages/react-native-windows-init/README.md) ⭐ 17,342 | 🐛 809 | 🌐 C++ | 📅 2026-09-18
+2. [react-native-windows-init | Using commandline flag](https://github.com/microsoft/react-native-windows/blob/master/packages/react-native-windows-init/README.md) ⭐ 17,342 | 🐛 808 | 🌐 C++ | 📅 2026-09-22
 
    > Provide `--no-telemetry` flag.
 
@@ -3465,7 +3465,7 @@ SLS_TELEMETRY_DISABLED=1
 serverless slstats --disable
 ```
 
-#### [Usage data (alternate environment variable)](https://github.com/serverless/serverless/blob/18d4d69eb3b1220814ab031690b6ef899280a93a/lib/utils/telemetry/are-disabled.js#L5-L9) ⭐ 46,920 | 🐛 1,219 | 🌐 JavaScript | 📅 2026-09-17
+#### [Usage data (alternate environment variable)](https://github.com/serverless/serverless/blob/18d4d69eb3b1220814ab031690b6ef899280a93a/lib/utils/telemetry/are-disabled.js#L5-L9) ⭐ 46,922 | 🐛 1,213 | 🌐 JavaScript | 📅 2026-09-22
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -3530,11 +3530,11 @@ Use methods described below to opt-out of this telemetry channel.
 SF_DISABLE_TELEMETRY=true
 ```
 
-### [SKU](https://github.com/seek-oss/sku) ⭐ 483 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-20
+### [SKU](https://github.com/seek-oss/sku) ⭐ 483 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-22
 
 > To help us improve sku, please install our private telemetry package that gives us insights on usage, errors and performance.
 
-* [Telemetry details](https://github.com/seek-oss/sku/pull/495) ⭐ 483 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-20
+* [Telemetry details](https://github.com/seek-oss/sku/pull/495) ⭐ 483 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -3664,7 +3664,7 @@ Use methods described below to opt-out of this telemetry channel.
 TUIST_STATS_OPT_OUT=1
 ```
 
-### [TYPO3](https://github.com/instructure/canvas-lms) ⭐ 6,827 | 🐛 467 | 🌐 Ruby | 📅 2026-04-30
+### [TYPO3](https://github.com/instructure/canvas-lms) ⭐ 6,832 | 🐛 467 | 🌐 Ruby | 📅 2026-04-30
 
 > Since TYPO3 CMS 6.2, the Install Tool allows integrators to update the TYPO3 Core with a click of a button.
 
@@ -3708,7 +3708,7 @@ Use methods described below to opt-out of this telemetry channel.
 REDIRECT_TYPO3_DISABLE_CORE_UPDATER=1
 ```
 
-### [vstest](https://github.com/microsoft/vstest/) ⭐ 966 | 🐛 48 | 🌐 C# | 📅 2026-09-21
+### [vstest](https://github.com/microsoft/vstest/) ⭐ 966 | 🐛 54 | 🌐 C# | 📅 2026-09-22
 
 > Going forward vstest platform will enable collection of rich telemetry data points to helps us and any vstest consuming platform in making the right choices to improve end user experience.
 
@@ -3717,7 +3717,7 @@ REDIRECT_TYPO3_DISABLE_CORE_UPDATER=1
 
 List of known telemetry channels:
 
-#### [Usage data](https://github.com/microsoft/vstest/blob/main/src/vstest.console/TestPlatformHelpers/TestRequestManager.cs#L1047) ⭐ 966 | 🐛 48 | 🌐 C# | 📅 2026-09-21
+#### [Usage data](https://github.com/microsoft/vstest/blob/main/src/vstest.console/TestPlatformHelpers/TestRequestManager.cs#L1047) ⭐ 966 | 🐛 54 | 🌐 C# | 📅 2026-09-22
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -3797,7 +3797,7 @@ List of known telemetry channels:
 | :------: | :--------: | :----------: | :----------: |
 |     ❌    |      ✔     |       ❌      |       ❌      |
 
-* [Telemetry details](https://github.com/warpdotdev/Warp/issues/1346) ⭐ 65,118 | 🐛 5,289 | 🌐 Rust | 📅 2026-09-21
+* [Telemetry details](https://github.com/warpdotdev/Warp/issues/1346) ⭐ 65,128 | 🐛 5,288 | 🌐 Rust | 📅 2026-09-22
 
 > All app interactions are tracked via [segment.com](https://segment.com/)
 
@@ -3855,7 +3855,7 @@ hint --telemetry=off
 
 List of known telemetry channels:
 
-#### [Usage data (env. var)](https://github.com/webiny/webiny-js/blob/0240c2000d1743160c601ae4ce40dd2f949d4d07/packages/telemetry/react.js#L9) ⭐ 8,042 | 🐛 360 | 🌐 TypeScript | 📅 2026-09-21
+#### [Usage data (env. var)](https://github.com/webiny/webiny-js/blob/0240c2000d1743160c601ae4ce40dd2f949d4d07/packages/telemetry/react.js#L9) ⭐ 8,043 | 🐛 359 | 🌐 TypeScript | 📅 2026-09-22
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -3936,11 +3936,11 @@ Use methods described below to opt-out of this telemetry channel.
 
 ## DevOps
 
-### [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) ⭐ 2,227 | 🐛 31 | 🌐 PowerShell | 📅 2026-07-06
+### [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) ⭐ 2,226 | 🐛 31 | 🌐 PowerShell | 📅 2026-07-06
 
 > AutomatedLab will start to collect telemetry starting with version 5.0. This is an opt-out collection and you will be asked once to specify whether or not you want to send us telemetry data.
 
-* [Telemetry details](https://github.com/AutomatedLab/AutomatedLab/wiki/Lab-Telemetry) ⭐ 2,227 | 🐛 31 | 🌐 PowerShell | 📅 2026-07-06
+* [Telemetry details](https://github.com/AutomatedLab/AutomatedLab/wiki/Lab-Telemetry) ⭐ 2,226 | 🐛 31 | 🌐 PowerShell | 📅 2026-07-06
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -4239,7 +4239,7 @@ Use methods described below to opt-out of this telemetry channel.
 DO_NOT_TRACK=1
 ```
 
-### [decK](https://github.com/Kong/deck) ⭐ 505 | 🐛 108 | 🌐 Go | 📅 2026-09-21
+### [decK](https://github.com/Kong/deck) ⭐ 505 | 🐛 109 | 🌐 Go | 📅 2026-09-22
 
 > decK collects anonymized data to track feature adoption.
 
@@ -4435,12 +4435,12 @@ Use methods described below to opt-out of this telemetry channel.
 
 > Kics is using Sentry's application monitoring platform for crash reports collection: <https://sentry.io/>
 
-* [Telemetry details](https://github.com/Checkmarx/kics/blob/master/docs/commands.md#disable-telemetry) ⭐ 2,704 | 🐛 312 | 🌐 Open Policy Agent | 📅 2026-09-21
+* [Telemetry details](https://github.com/Checkmarx/kics/blob/master/docs/commands.md#disable-telemetry) ⭐ 2,704 | 🐛 312 | 🌐 Open Policy Agent | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
 
-#### [Usage data (current)](https://github.com/Checkmarx/kics/issues/3876) ⭐ 2,704 | 🐛 312 | 🌐 Open Policy Agent | 📅 2026-09-21
+#### [Usage data (current)](https://github.com/Checkmarx/kics/issues/3876) ⭐ 2,704 | 🐛 312 | 🌐 Open Policy Agent | 📅 2026-09-22
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -4456,7 +4456,7 @@ Use methods described below to opt-out of this telemetry channel.
 DISABLE_CRASH_REPORT=1
 ```
 
-#### [Usage data (legacy)](https://github.com/Checkmarx/kics/issues/3876) ⭐ 2,704 | 🐛 312 | 🌐 Open Policy Agent | 📅 2026-09-21
+#### [Usage data (legacy)](https://github.com/Checkmarx/kics/issues/3876) ⭐ 2,704 | 🐛 312 | 🌐 Open Policy Agent | 📅 2026-09-22
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -4770,7 +4770,7 @@ skaffold config set --global collect-metrics false
 
 > Telepresence collects some basic information about its users so it can send important client notices, such as new version availability and security bulletins. We also use the information to aggregate basic usage analytics anonymously.
 
-* [Telemetry details](https://github.com/telepresenceio/telepresence#usage-reporting) ⭐ 7,305 | 🐛 24 | 🌐 Go | 📅 2026-09-21
+* [Telemetry details](https://github.com/telepresenceio/telepresence#usage-reporting) ⭐ 7,306 | 🐛 23 | 🌐 Go | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -5110,7 +5110,7 @@ Use methods described below to opt-out of this telemetry channel.
 
 ##### 1. Visit link(s) for more details
 
-1. [github.com | Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) ⭐ 9,758 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-20
+1. [github.com | Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) ⭐ 9,761 | 🐛 1 | 🌐 PowerShell | 📅 2026-09-20
 
    > A PowerShell module for Windows 10 fine-tuning and automating the routine tasks 🏆
 
@@ -5163,7 +5163,7 @@ ANALYTICS=no
 
 > By default, you will be prompted to check for upgrades every few weeks.
 
-* [Telemetry details](https://github.com/ohmyzsh/ohmyzsh/tree/master#getting-updates) ⭐ 189,871 | 🐛 315 | 🌐 Shell | 📅 2026-09-20
+* [Telemetry details](https://github.com/ohmyzsh/ohmyzsh/tree/master#getting-updates) ⭐ 189,881 | 🐛 299 | 🌐 Shell | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -5184,7 +5184,7 @@ Use methods described below to opt-out of this telemetry channel.
 DISABLE_AUTO_UPDATE=true
 ```
 
-### [PowerShell Core](https://github.com/powershell/powershell) ⭐ 55,473 | 🐛 1,591 | 🌐 C# | 📅 2026-09-21
+### [PowerShell Core](https://github.com/powershell/powershell) ⭐ 55,489 | 🐛 1,608 | 🌐 C# | 📅 2026-09-22
 
 > PowerShell Core sends basic telemetry data to Microsoft and queries an online service to determine if a newer version is available.
 
@@ -5310,7 +5310,7 @@ Use methods described below to opt-out of this telemetry channel.
 
 > We collect telemetry data, from vscode extension which is used to help understand how to improve the extension. For example, this usage data helps to debug issues, such as slow start-up times, and to prioritize new features.
 
-* [Telemetry details](https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/TELEMETRY.md) ⭐ 1,470 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-21
+* [Telemetry details](https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/TELEMETRY.md) ⭐ 1,470 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-22
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -5349,7 +5349,7 @@ Use methods described below to opt-out of this telemetry channel.
 
 List of known telemetry channels:
 
-#### [Usage data](https://github.com/microsoft/vscode-js-debug/blob/12ec6df97f45b25b168e1eac8a17b802af73806f/src/ioc.ts#L168) ⭐ 1,975 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-21
+#### [Usage data](https://github.com/microsoft/vscode-js-debug/blob/12ec6df97f45b25b168e1eac8a17b802af73806f/src/ioc.ts#L168) ⭐ 1,974 | 🐛 123 | 🌐 TypeScript | 📅 2026-09-22
 
 | Official | Usage data | Update check | Error report |
 | :------: | :--------: | :----------: | :----------: |
@@ -5469,7 +5469,7 @@ Use methods described below to opt-out of this telemetry channel.
 
 > REST Client sends out anonymous usage data.
 
-* [Telemetry details](https://github.com/Huachao/vscode-restclient#settings) ⭐ 6,050 | 🐛 592 | 🌐 TypeScript | 📅 2026-04-23
+* [Telemetry details](https://github.com/Huachao/vscode-restclient#settings) ⭐ 6,049 | 🐛 592 | 🌐 TypeScript | 📅 2026-04-23
 * Privacy policy: ❌
 
 List of known telemetry channels:
@@ -5574,4 +5574,4 @@ Use methods described below to opt-out of this telemetry channel.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

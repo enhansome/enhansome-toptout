@@ -60,7 +60,7 @@
             "open_issues": 253,
             "owner": "undergroundwires",
             "repo": "privacy.sexy",
-            "stars": 6079,
+            "stars": 6080,
             "topics": [
               "bloatware",
               "bloatware-removal",
@@ -182,7 +182,7 @@
                 "open_issues": 469,
                 "owner": "instructure",
                 "repo": "canvas-lms",
-                "stars": 6858,
+                "stars": 6859,
                 "topics": [
                   "canvas-lms",
                   "gerrit-mirror",
@@ -207,7 +207,7 @@
                 "open_issues": 469,
                 "owner": "instructure",
                 "repo": "canvas-lms",
-                "stars": 6858,
+                "stars": 6859,
                 "topics": [
                   "canvas-lms",
                   "gerrit-mirror",
@@ -231,7 +231,7 @@
             "open_issues": 469,
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6858,
+            "stars": 6859,
             "topics": [
               "canvas-lms",
               "gerrit-mirror",
@@ -259,7 +259,7 @@
                 "open_issues": 28,
                 "owner": "MisterTea",
                 "repo": "EternalTerminal",
-                "stars": 3911,
+                "stars": 3913,
                 "topics": [
                   "mosh",
                   "remote-shell",
@@ -284,7 +284,7 @@
             "open_issues": 28,
             "owner": "MisterTea",
             "repo": "EternalTerminal",
-            "stars": 3911,
+            "stars": 3913,
             "topics": [
               "mosh",
               "remote-shell",
@@ -313,7 +313,7 @@
                 "open_issues": 72,
                 "owner": "mozilla",
                 "repo": "policy-templates",
-                "stars": 1312,
+                "stars": 1314,
                 "topics": []
               },
               "title": "Enable policies (macOS)",
@@ -334,7 +334,7 @@
                 "open_issues": 72,
                 "owner": "mozilla",
                 "repo": "policy-templates",
-                "stars": 1312,
+                "stars": 1314,
                 "topics": []
               },
               "title": "Usage data",
@@ -358,11 +358,11 @@
                 "id": 53238813,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-03T15:27:31Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-04T15:32:04Z",
+                "open_issues": 1,
                 "owner": "Homebrew",
                 "repo": "brew",
-                "stars": 49879,
+                "stars": 49888,
                 "topics": [
                   "brew",
                   "homebrew",
@@ -453,10 +453,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-02T22:12:52Z",
-                "open_issues": 473,
+                "open_issues": 474,
                 "owner": "microsoft",
                 "repo": "calculator",
-                "stars": 31065,
+                "stars": 31068,
                 "topics": [
                   "cpp",
                   "csharp",
@@ -480,10 +480,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-02T22:12:52Z",
-            "open_issues": 473,
+            "open_issues": 474,
             "owner": "microsoft",
             "repo": "calculator",
-            "stars": 31065,
+            "stars": 31068,
             "topics": [
               "cpp",
               "csharp",
@@ -512,10 +512,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-01T23:39:57Z",
-                "open_issues": 1778,
+                "open_issues": 1781,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 105063,
+                "stars": 105077,
                 "topics": [
                   "cmd",
                   "command-line",
@@ -543,10 +543,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-01T23:39:57Z",
-            "open_issues": 1778,
+            "open_issues": 1781,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105063,
+            "stars": 105077,
             "topics": [
               "cmd",
               "command-line",
@@ -582,7 +582,7 @@
                 "open_issues": 1301,
                 "owner": "microsoft",
                 "repo": "winget-cli",
-                "stars": 26477,
+                "stars": 26479,
                 "topics": [
                   "command-line",
                   "package-manager",
@@ -608,7 +608,7 @@
                 "open_issues": 1301,
                 "owner": "microsoft",
                 "repo": "winget-cli",
-                "stars": 26477,
+                "stars": 26479,
                 "topics": [
                   "command-line",
                   "package-manager",
@@ -632,7 +632,7 @@
             "open_issues": 1301,
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26477,
+            "stars": 26479,
             "topics": [
               "command-line",
               "package-manager",
@@ -736,7 +736,7 @@
                 "open_issues": 233,
                 "owner": "stripe",
                 "repo": "stripe-cli",
-                "stars": 2196,
+                "stars": 2198,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -768,11 +768,11 @@
                     "id": 37448451,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-03T16:19:37Z",
-                    "open_issues": 1049,
+                    "last_commit": "2026-10-04T15:44:50Z",
+                    "open_issues": 1041,
                     "owner": "mattermost",
                     "repo": "mattermost",
-                    "stars": 39251,
+                    "stars": 39259,
                     "topics": [
                       "collaboration",
                       "golang",
@@ -804,11 +804,11 @@
                     "id": 37448451,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-03T16:19:37Z",
-                    "open_issues": 1049,
+                    "last_commit": "2026-10-04T15:44:50Z",
+                    "open_issues": 1041,
                     "owner": "mattermost",
                     "repo": "mattermost",
-                    "stars": 39251,
+                    "stars": 39259,
                     "topics": [
                       "collaboration",
                       "golang",
@@ -905,7 +905,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-03T08:02:46Z",
-                    "open_issues": 233,
+                    "open_issues": 234,
                     "owner": "angular",
                     "repo": "angular-cli",
                     "stars": 27021,
@@ -992,7 +992,7 @@
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "appcenter-cli",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "title": "Usage data (env. var)",
@@ -1013,7 +1013,7 @@
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "appcenter-cli",
-                "stars": 589,
+                "stars": 590,
                 "topics": []
               },
               "title": "Usage data (JSON file)",
@@ -1033,7 +1033,7 @@
             "open_issues": 9,
             "owner": "microsoft",
             "repo": "appcenter-cli",
-            "stars": 589,
+            "stars": 590,
             "topics": []
           },
           "title": "App Center CLI",
@@ -1057,7 +1057,7 @@
                 "open_issues": 23,
                 "owner": "microsoft",
                 "repo": "botframework-cli",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -1077,7 +1077,7 @@
                 "open_issues": 23,
                 "owner": "microsoft",
                 "repo": "botframework-cli",
-                "stars": 175,
+                "stars": 176,
                 "topics": []
               },
               "title": "Usage data",
@@ -1097,7 +1097,7 @@
             "open_issues": 23,
             "owner": "microsoft",
             "repo": "botframework-cli",
-            "stars": 175,
+            "stars": 176,
             "topics": []
           },
           "title": "Bot Framework CLI",
@@ -1174,7 +1174,7 @@
                 "open_issues": 156,
                 "owner": "coder",
                 "repo": "code-server",
-                "stars": 79530,
+                "stars": 79537,
                 "topics": [
                   "browser-ide",
                   "dev-tools",
@@ -1207,7 +1207,7 @@
                         "open_issues": 156,
                         "owner": "coder",
                         "repo": "code-server",
-                        "stars": 79530,
+                        "stars": 79537,
                         "topics": [
                           "browser-ide",
                           "dev-tools",
@@ -1244,7 +1244,7 @@
             "open_issues": 156,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79530,
+            "stars": 79537,
             "topics": [
               "browser-ide",
               "dev-tools",
@@ -1275,7 +1275,7 @@
                 "open_issues": 2577,
                 "owner": "dagster-io",
                 "repo": "dagster",
-                "stars": 16232,
+                "stars": 16234,
                 "topics": [
                   "analytics",
                   "dagster",
@@ -1595,10 +1595,10 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-02T21:55:53Z",
-                "open_issues": 10289,
+                "open_issues": 10304,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139147,
+                "stars": 139236,
                 "topics": [
                   "go",
                   "golang",
@@ -1710,10 +1710,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T14:42:55Z",
-                "open_issues": 323,
+                "open_issues": 326,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59476,
+                "stars": 59488,
                 "topics": [
                   "ai",
                   "api",
@@ -1750,10 +1750,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T14:42:55Z",
-            "open_issues": 323,
+            "open_issues": 326,
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 59476,
+            "stars": 59488,
             "topics": [
               "ai",
               "api",
@@ -1847,11 +1847,11 @@
                 "id": 108761645,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T13:28:38Z",
-                "open_issues": 710,
+                "last_commit": "2026-10-03T23:10:13Z",
+                "open_issues": 709,
                 "owner": "nocodb",
                 "repo": "nocodb",
-                "stars": 65168,
+                "stars": 65181,
                 "topics": [
                   "airtable",
                   "airtable-alternative",
@@ -1922,7 +1922,7 @@
                 "open_issues": 205,
                 "owner": "microsoft",
                 "repo": "Oryx",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "azure",
                   "build",
@@ -1947,7 +1947,7 @@
             "open_issues": 205,
             "owner": "microsoft",
             "repo": "Oryx",
-            "stars": 881,
+            "stars": 882,
             "topics": [
               "azure",
               "build",
@@ -2128,7 +2128,7 @@
                 "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "rest-api-fuzz-testing",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "api",
                   "devops",
@@ -2161,7 +2161,7 @@
                         "open_issues": 14,
                         "owner": "microsoft",
                         "repo": "rest-api-fuzz-testing",
-                        "stars": 263,
+                        "stars": 264,
                         "topics": [
                           "api",
                           "devops",
@@ -2193,7 +2193,7 @@
                 "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "rest-api-fuzz-testing",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "api",
                   "devops",
@@ -2221,7 +2221,7 @@
             "open_issues": 14,
             "owner": "microsoft",
             "repo": "rest-api-fuzz-testing",
-            "stars": 263,
+            "stars": 264,
             "topics": [
               "api",
               "devops",
@@ -2253,7 +2253,7 @@
                 "open_issues": 68,
                 "owner": "marmelab",
                 "repo": "react-admin",
-                "stars": 26948,
+                "stars": 26949,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -2294,11 +2294,11 @@
                         "id": 48009214,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-01T12:21:58Z",
-                        "open_issues": 806,
+                        "last_commit": "2026-10-04T05:21:11Z",
+                        "open_issues": 807,
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17350,
+                        "stars": 17352,
                         "topics": [
                           "dotnet",
                           "react",
@@ -2321,11 +2321,11 @@
                         "id": 48009214,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-10-01T12:21:58Z",
-                        "open_issues": 806,
+                        "last_commit": "2026-10-04T05:21:11Z",
+                        "open_issues": 807,
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17350,
+                        "stars": 17352,
                         "topics": [
                           "dotnet",
                           "react",
@@ -2473,7 +2473,7 @@
                 "open_issues": 299,
                 "owner": "microsoft",
                 "repo": "restler-fuzzer",
-                "stars": 2952,
+                "stars": 2953,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -2493,7 +2493,7 @@
                 "open_issues": 299,
                 "owner": "microsoft",
                 "repo": "restler-fuzzer",
-                "stars": 2952,
+                "stars": 2953,
                 "topics": []
               },
               "title": "Usage data",
@@ -2513,7 +2513,7 @@
             "open_issues": 299,
             "owner": "microsoft",
             "repo": "restler-fuzzer",
-            "stars": 2952,
+            "stars": 2953,
             "topics": []
           },
           "title": "RESTler",
@@ -2694,7 +2694,7 @@
             "open_issues": 469,
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6858,
+            "stars": 6859,
             "topics": [
               "canvas-lms",
               "gerrit-mirror",
@@ -2722,7 +2722,7 @@
                 "open_issues": 38,
                 "owner": "microsoft",
                 "repo": "vstest-docs",
-                "stars": 215,
+                "stars": 216,
                 "topics": [
                   "documentation",
                   "testing",
@@ -2745,11 +2745,11 @@
                 "id": 62774726,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:22:12Z",
+                "last_commit": "2026-10-03T17:58:04Z",
                 "open_issues": 65,
                 "owner": "microsoft",
                 "repo": "vstest",
-                "stars": 967,
+                "stars": 968,
                 "topics": [
                   "dotnet",
                   "test-runner",
@@ -2772,11 +2772,11 @@
             "id": 62774726,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:22:12Z",
+            "last_commit": "2026-10-03T17:58:04Z",
             "open_issues": 65,
             "owner": "microsoft",
             "repo": "vstest",
-            "stars": 967,
+            "stars": 968,
             "topics": [
               "dotnet",
               "test-runner",
@@ -2848,11 +2848,11 @@
                     "id": 384219990,
                     "language": "Rust",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-03T16:44:55Z",
-                    "open_issues": 5332,
+                    "last_commit": "2026-10-04T16:11:42Z",
+                    "open_issues": 5337,
                     "owner": "warpdotdev",
                     "repo": "warp",
-                    "stars": 65349,
+                    "stars": 65359,
                     "topics": [
                       "bash",
                       "linux",
@@ -2947,7 +2947,7 @@
                 "open_issues": 31,
                 "owner": "AutomatedLab",
                 "repo": "AutomatedLab",
-                "stars": 2227,
+                "stars": 2228,
                 "topics": [
                   "active",
                   "active-directory",
@@ -2982,7 +2982,7 @@
             "open_issues": 31,
             "owner": "AutomatedLab",
             "repo": "AutomatedLab",
-            "stars": 2227,
+            "stars": 2228,
             "topics": [
               "active",
               "active-directory",
@@ -3094,7 +3094,7 @@
                 "open_issues": 744,
                 "owner": "earthly",
                 "repo": "earthly",
-                "stars": 12054,
+                "stars": 12053,
                 "topics": [
                   "build",
                   "build-automation",
@@ -3291,7 +3291,7 @@
                 "open_issues": 26,
                 "owner": "microsoft",
                 "repo": "MSLab",
-                "stars": 1303,
+                "stars": 1304,
                 "topics": [
                   "azshci",
                   "powershell",
@@ -3315,7 +3315,7 @@
             "open_issues": 26,
             "owner": "microsoft",
             "repo": "MSLab",
-            "stars": 1303,
+            "stars": 1304,
             "topics": [
               "azshci",
               "powershell",
@@ -3344,7 +3344,7 @@
                 "open_issues": 23,
                 "owner": "telepresenceio",
                 "repo": "telepresence",
-                "stars": 7312,
+                "stars": 7311,
                 "topics": [
                   "docker",
                   "kubernetes",
@@ -3441,11 +3441,11 @@
                         "id": 153443362,
                         "language": "PowerShell",
                         "license": "MIT",
-                        "last_commit": "2026-10-01T14:14:18Z",
+                        "last_commit": "2026-10-04T17:23:38Z",
                         "open_issues": 0,
                         "owner": "farag2",
                         "repo": "Sophia-Script-for-Windows",
-                        "stars": 9782,
+                        "stars": 9783,
                         "topics": [
                           "25h2",
                           "26h2",
@@ -3569,11 +3569,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-29T15:38:41Z",
-                "open_issues": 303,
+                "last_commit": "2026-10-04T12:52:46Z",
+                "open_issues": 305,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190059,
+                "stars": 190148,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -3610,11 +3610,11 @@
             "id": 49609581,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-02T23:23:03Z",
-            "open_issues": 1604,
+            "last_commit": "2026-10-03T23:21:51Z",
+            "open_issues": 1605,
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 55580,
+            "stars": 55595,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -3653,7 +3653,7 @@
                 "open_issues": 9,
                 "owner": "microsoft",
                 "repo": "applicationinsights-vscode",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -3681,7 +3681,7 @@
                 "open_issues": 1,
                 "owner": "microsoft",
                 "repo": "docs-yaml",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -3706,7 +3706,7 @@
                         "open_issues": 1,
                         "owner": "microsoft",
                         "repo": "docs-yaml",
-                        "stars": 5,
+                        "stars": 6,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
@@ -3771,7 +3771,7 @@
                 "open_issues": 127,
                 "owner": "microsoft",
                 "repo": "vscode-js-debug",
-                "stars": 1978,
+                "stars": 1979,
                 "topics": [
                   "dap",
                   "debug",
@@ -3836,7 +3836,7 @@
                 "open_issues": 594,
                 "owner": "Huachao",
                 "repo": "vscode-restclient",
-                "stars": 6053,
+                "stars": 6054,
                 "topics": [
                   "graphql",
                   "http",
@@ -3931,7 +3931,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:18:03.634Z",
+    "last_updated": "2026-10-04T17:35:40.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 Easily opt-out from telemetry collection",

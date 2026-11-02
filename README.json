@@ -60,7 +60,7 @@
             "open_issues": 252,
             "owner": "undergroundwires",
             "repo": "privacy.sexy",
-            "stars": 6156,
+            "stars": 6159,
             "topics": [
               "bloatware",
               "bloatware-removal",
@@ -169,7 +169,7 @@
           "children": [
             {
               "children": [],
-              "description": "To help our developers better serve you, Instructure would like to collect some usage data about your Canvas installation.\nUse methods described below to opt-out of this telemetry channel.",
+              "description": "To help our developers better serve you, Instructure would like to collect some usage data about your Canvas installation. The separate TELEMETRY_OPT_IN variable only controls whether setup input is hidden, not whether statistics are sent.\nUse methods described below to opt-out of this telemetry channel.",
               "node_type": "item",
               "repo_info": {
                 "archived": false,
@@ -182,39 +182,14 @@
                 "open_issues": 472,
                 "owner": "instructure",
                 "repo": "canvas-lms",
-                "stars": 6896,
+                "stars": 6900,
                 "topics": [
                   "canvas-lms",
                   "gerrit-mirror",
                   "instructure"
                 ]
               },
-              "title": "Usage data | Official",
-              "first_seen": "2026-08-28T23:03:10.699Z"
-            },
-            {
-              "children": [],
-              "description": "Entered data will not be sent to the telemetry service.\nUse methods described below to opt-out of this telemetry channel.",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "The open LMS by Instructure, Inc.",
-                "homepage": "https://github.com/instructure/canvas-lms/wiki",
-                "id": 1314319,
-                "language": "Ruby",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-04-30T14:52:10Z",
-                "open_issues": 472,
-                "owner": "instructure",
-                "repo": "canvas-lms",
-                "stars": 6896,
-                "topics": [
-                  "canvas-lms",
-                  "gerrit-mirror",
-                  "instructure"
-                ]
-              },
-              "title": "Usage data | Unofficial",
+              "title": "Usage data",
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
@@ -231,7 +206,7 @@
             "open_issues": 472,
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6896,
+            "stars": 6900,
             "topics": [
               "canvas-lms",
               "gerrit-mirror",
@@ -259,7 +234,7 @@
                 "open_issues": 31,
                 "owner": "MisterTea",
                 "repo": "EternalTerminal",
-                "stars": 3937,
+                "stars": 3940,
                 "topics": [
                   "mosh",
                   "remote-shell",
@@ -269,9 +244,77 @@
                 ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Disable client error reporting",
+                      "description": "MisterTea/EternalTerminal",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Re-Connectable secure remote shell",
+                        "homepage": "https://mistertea.github.io/EternalTerminal/",
+                        "id": 74223162,
+                        "language": "C++",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-31T04:58:02Z",
+                        "open_issues": 31,
+                        "owner": "MisterTea",
+                        "repo": "EternalTerminal",
+                        "stars": 3940,
+                        "topics": [
+                          "mosh",
+                          "remote-shell",
+                          "ssh",
+                          "terminal",
+                          "tmux"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Disable server error reporting",
+                      "description": "MisterTea/EternalTerminal",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Re-Connectable secure remote shell",
+                        "homepage": "https://mistertea.github.io/EternalTerminal/",
+                        "id": 74223162,
+                        "language": "C++",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-31T04:58:02Z",
+                        "open_issues": 31,
+                        "owner": "MisterTea",
+                        "repo": "EternalTerminal",
+                        "stars": 3940,
+                        "topics": [
+                          "mosh",
+                          "remote-shell",
+                          "ssh",
+                          "terminal",
+                          "tmux"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2. Visit link(s) for more details"
+                }
+              ],
+              "description": "Use methods described below to opt-out of this telemetry channel.",
+              "node_type": "group",
+              "title": "Crash data"
             }
           ],
-          "description": "Eternal Terminal collects crashes and errors in order to help us improve your experience. The data collected is anonymous.\nList of known telemetry channels:",
+          "description": "Eternal Terminal can report errors and crashes through Datadog and Sentry.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -284,7 +327,7 @@
             "open_issues": 31,
             "owner": "MisterTea",
             "repo": "EternalTerminal",
-            "stars": 3937,
+            "stars": 3940,
             "topics": [
               "mosh",
               "remote-shell",
@@ -313,7 +356,7 @@
                 "open_issues": 63,
                 "owner": "mozilla",
                 "repo": "policy-templates",
-                "stars": 1320,
+                "stars": 1321,
                 "topics": []
               },
               "title": "Enable policies (macOS)",
@@ -334,7 +377,7 @@
                 "open_issues": 63,
                 "owner": "mozilla",
                 "repo": "policy-templates",
-                "stars": 1320,
+                "stars": 1321,
                 "topics": []
               },
               "title": "Usage data",
@@ -358,11 +401,11 @@
                 "id": 53238813,
                 "language": "Ruby",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-01T17:59:42Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-02T21:57:06Z",
+                "open_issues": 18,
                 "owner": "Homebrew",
                 "repo": "brew",
-                "stars": 50180,
+                "stars": 50191,
                 "topics": [
                   "brew",
                   "homebrew",
@@ -453,10 +496,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-23T21:15:23Z",
-                "open_issues": 477,
+                "open_issues": 478,
                 "owner": "microsoft",
                 "repo": "calculator",
-                "stars": 31087,
+                "stars": 31090,
                 "topics": [
                   "cpp",
                   "csharp",
@@ -480,10 +523,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-23T21:15:23Z",
-            "open_issues": 477,
+            "open_issues": 478,
             "owner": "microsoft",
             "repo": "calculator",
-            "stars": 31087,
+            "stars": 31090,
             "topics": [
               "cpp",
               "csharp",
@@ -494,7 +537,7 @@
               "xaml"
             ]
           },
-          "title": "Microsoft calculator",
+          "title": "Windows Calculator",
           "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
@@ -511,11 +554,11 @@
                 "id": 100060912,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-31T03:04:33Z",
-                "open_issues": 1770,
+                "last_commit": "2026-11-02T22:14:34Z",
+                "open_issues": 1765,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 105302,
+                "stars": 105315,
                 "topics": [
                   "cmd",
                   "command-line",
@@ -542,11 +585,11 @@
             "id": 100060912,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-31T03:04:33Z",
-            "open_issues": 1770,
+            "last_commit": "2026-11-02T22:14:34Z",
+            "open_issues": 1765,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 105302,
+            "stars": 105315,
             "topics": [
               "cmd",
               "command-line",
@@ -567,56 +610,44 @@
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "Telemetry details",
-              "description": "microsoft/winget-cli",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
-                "homepage": "https://learn.microsoft.com/windows/package-manager/",
-                "id": 197275130,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-10-30T22:08:45Z",
-                "open_issues": 1322,
-                "owner": "microsoft",
-                "repo": "winget-cli",
-                "stars": 26555,
-                "topics": [
-                  "command-line",
-                  "package-manager",
-                  "windows",
-                  "winget"
-                ]
-              },
-              "first_seen": "2026-08-28T23:03:10.699Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Privacy policy",
-              "description": "microsoft/winget-cli",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
-                "homepage": "https://learn.microsoft.com/windows/package-manager/",
-                "id": 197275130,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-10-30T22:08:45Z",
-                "open_issues": 1322,
-                "owner": "microsoft",
-                "repo": "winget-cli",
-                "stars": 26555,
-                "topics": [
-                  "command-line",
-                  "package-manager",
-                  "windows",
-                  "winget"
-                ]
-              },
-              "first_seen": "2026-08-28T23:03:10.699Z"
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Edit settings for alternative WinGet installations",
+                      "description": "microsoft/winget-cli",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+                        "homepage": "https://learn.microsoft.com/windows/package-manager/",
+                        "id": 197275130,
+                        "language": "C++",
+                        "license": "MIT",
+                        "last_commit": "2026-10-30T22:08:45Z",
+                        "open_issues": 1324,
+                        "owner": "microsoft",
+                        "repo": "winget-cli",
+                        "stars": 26556,
+                        "topics": [
+                          "command-line",
+                          "package-manager",
+                          "windows",
+                          "winget"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2. Visit link(s) for more details"
+                }
+              ],
+              "description": "The WinGet client sends usage and diagnostic events. Set telemetry.disable to true in WinGet settings to prevent WinGet from writing telemetry events.\nUse methods described below to opt-out of this telemetry channel.",
+              "node_type": "group",
+              "title": "Usage and Diagnostic data"
             }
           ],
           "description": "The winget.exe client is instrumented to collect usage and diagnostic (error) data and sends it to Microsoft to help improve the product.\nList of known telemetry channels:",
@@ -629,10 +660,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-10-30T22:08:45Z",
-            "open_issues": 1322,
+            "open_issues": 1324,
             "owner": "microsoft",
             "repo": "winget-cli",
-            "stars": 26555,
+            "stars": 26556,
             "topics": [
               "command-line",
               "package-manager",
@@ -662,8 +693,8 @@
                 "id": 346862690,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T12:56:24Z",
-                "open_issues": 94,
+                "last_commit": "2026-11-02T17:12:55Z",
+                "open_issues": 95,
                 "owner": "hookdeck",
                 "repo": "hookdeck-cli",
                 "stars": 366,
@@ -681,9 +712,74 @@
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
-          "description": "Telemetry data is sent to Hookdeck.\nList of known telemetry channels:",
+          "description": "Hookdeck CLI v2 collects command usage patterns without event data or request payloads.\nList of known telemetry channels:",
           "node_type": "group",
-          "title": "Hoockdeck CLI"
+          "title": "Hookdeck CLI v2"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Telemetry details",
+              "description": "hookdeck/hookdeck-cli",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CLI for Hookdeck: forward webhooks to localhost (ngrok alternative), manage and query Event Gateway resources (sources, connections, destinations, events), run the MCP server for AI agents. Free for dev.",
+                "homepage": "https://hookdeck.com?ref=github-hookdeck-cli",
+                "id": 346862690,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-02T17:12:55Z",
+                "open_issues": 95,
+                "owner": "hookdeck",
+                "repo": "hookdeck-cli",
+                "stars": 366,
+                "topics": [
+                  "cli",
+                  "hookdeck",
+                  "localtunnel",
+                  "mcp",
+                  "mcp-server",
+                  "ngrok-alternative",
+                  "webhooks"
+                ]
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
+            },
+            {
+              "children": [],
+              "description": "Use methods described below to opt-out of this telemetry channel.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "CLI for Hookdeck: forward webhooks to localhost (ngrok alternative), manage and query Event Gateway resources (sources, connections, destinations, events), run the MCP server for AI agents. Free for dev.",
+                "homepage": "https://hookdeck.com?ref=github-hookdeck-cli",
+                "id": 346862690,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-02T17:12:55Z",
+                "open_issues": 95,
+                "owner": "hookdeck",
+                "repo": "hookdeck-cli",
+                "stars": 366,
+                "topics": [
+                  "cli",
+                  "hookdeck",
+                  "localtunnel",
+                  "mcp",
+                  "mcp-server",
+                  "ngrok-alternative",
+                  "webhooks"
+                ]
+              },
+              "title": "Usage data (historical)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
+            }
+          ],
+          "description": "Historical Hookdeck CLI versions could include telemetry in client requests.\nList of known telemetry channels:",
+          "node_type": "group",
+          "title": "Hookdeck CLI (before v2)"
         },
         {
           "children": [
@@ -699,11 +795,11 @@
                 "id": 32575663,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T17:22:22Z",
-                "open_issues": 248,
+                "last_commit": "2026-11-02T19:19:06Z",
+                "open_issues": 247,
                 "owner": "scaleway",
                 "repo": "scaleway-cli",
-                "stars": 1019,
+                "stars": 1020,
                 "topics": [
                   "cli",
                   "go",
@@ -732,11 +828,11 @@
                 "id": 191848501,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T22:42:48Z",
-                "open_issues": 239,
+                "last_commit": "2026-11-02T21:10:21Z",
+                "open_issues": 243,
                 "owner": "stripe",
                 "repo": "stripe-cli",
-                "stars": 2218,
+                "stars": 2221,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -768,11 +864,11 @@
                     "id": 37448451,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-01T11:37:06Z",
-                    "open_issues": 1094,
+                    "last_commit": "2026-11-02T21:30:18Z",
+                    "open_issues": 1101,
                     "owner": "mattermost",
                     "repo": "mattermost",
-                    "stars": 39499,
+                    "stars": 39510,
                     "topics": [
                       "collaboration",
                       "golang",
@@ -804,11 +900,11 @@
                     "id": 37448451,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-01T11:37:06Z",
-                    "open_issues": 1094,
+                    "last_commit": "2026-11-02T21:30:18Z",
+                    "open_issues": 1101,
                     "owner": "mattermost",
                     "repo": "mattermost",
-                    "stars": 39499,
+                    "stars": 39510,
                     "topics": [
                       "collaboration",
                       "golang",
@@ -840,6 +936,40 @@
         {
           "children": [
             {
+              "children": [],
+              "description": "Restart Aerospike or the Telemetry Agent after changing telemetry settings.\nUse methods described below to opt-out of this telemetry channel.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Aerospike Telemetry Agent: Anonymized Usage Data Collector.",
+                "homepage": null,
+                "id": 56538817,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-02-11T19:58:31Z",
+                "open_issues": 2,
+                "owner": "aerospike",
+                "repo": "aerospike-telemetry-agent",
+                "stars": 4,
+                "topics": []
+              },
+              "title": "Standalone Telemetry Agent usage data",
+              "first_seen": "2026-11-02T22:19:36.304Z"
+            }
+          ],
+          "description": "Aerospike Telemetry is a feature that allows us to collect certain use data - not the database data - on your Aerospike Community Edition server use.\nList of known telemetry channels:",
+          "node_type": "group",
+          "title": "Aerospike"
+        }
+      ],
+      "title": "Database"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Telemetry details",
               "description": "alisw/alibuild",
@@ -851,8 +981,8 @@
                 "id": 37974082,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T22:32:45Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-02T10:39:07Z",
+                "open_issues": 46,
                 "owner": "alisw",
                 "repo": "alibuild",
                 "stars": 23,
@@ -874,8 +1004,8 @@
             "id": 37974082,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T22:32:45Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-02T10:39:07Z",
+            "open_issues": 46,
             "owner": "alisw",
             "repo": "alibuild",
             "stars": 23,
@@ -904,11 +1034,11 @@
                     "id": 36891867,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T20:23:54Z",
-                    "open_issues": 222,
+                    "last_commit": "2026-11-02T17:58:59Z",
+                    "open_issues": 225,
                     "owner": "angular",
                     "repo": "angular-cli",
-                    "stars": 27020,
+                    "stars": 27019,
                     "topics": [
                       "angular",
                       "angular-cli",
@@ -919,9 +1049,29 @@
                   "first_seen": "2026-08-28T23:03:10.699Z"
                 }
               ],
-              "description": "Share usage data with Angular team.\nUse methods described below to opt-out of this telemetry channel.",
-              "node_type": "group",
-              "title": "Usage data"
+              "description": "Gather usage data in your own Google Analytics. This configuration option is separate from and in addition to other usage analytics that your users may be sharing with Google.\nUse methods described below to opt-out of this telemetry channel.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "CLI tool for Angular",
+                "homepage": "https://cli.angular.dev",
+                "id": 36891867,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-02T17:58:59Z",
+                "open_issues": 225,
+                "owner": "angular",
+                "repo": "angular-cli",
+                "stars": 27019,
+                "topics": [
+                  "angular",
+                  "angular-cli",
+                  "cli",
+                  "typescript"
+                ]
+              },
+              "title": "Custom analytics (before Angular CLI v15)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "When installing the Angular CLI or upgrading an existing version, you are prompted to allow global collection of usage statistics. If you say no or skip the prompt, no data is collected.\nList of known telemetry channels:",
@@ -1000,7 +1150,7 @@
             },
             {
               "children": [],
-              "description": "Empty JSON file will disable telemetry.\nUse methods described below to opt-out of this telemetry channel.",
+              "description": "Use methods described below to opt-out of this telemetry channel.",
               "node_type": "item",
               "repo_info": {
                 "archived": false,
@@ -1130,6 +1280,46 @@
                 ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Disable analytics using DO_NOT_TRACK",
+                      "description": "dom96/choosenim",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Tool for easily installing and managing multiple versions of the Nim programming language.",
+                        "homepage": null,
+                        "id": 82104707,
+                        "language": "Nim",
+                        "license": "BSD-3-Clause",
+                        "last_commit": "2024-04-03T18:41:11Z",
+                        "open_issues": 62,
+                        "owner": "dom96",
+                        "repo": "choosenim",
+                        "stars": 698,
+                        "topics": [
+                          "hacktoberfest",
+                          "installer",
+                          "nim",
+                          "toolchains"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2. Visit link(s) for more details"
+                }
+              ],
+              "description": "Use methods described below to opt-out of this telemetry channel.",
+              "node_type": "group",
+              "title": "Usage data"
             }
           ],
           "description": "Starting with version 0.3.0, choosenim has the ability to gather anonymous aggregate user behaviour analytics and to report them to Google Analytics.\nList of known telemetry channels:",
@@ -1170,11 +1360,11 @@
                 "id": 172953845,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T12:05:24Z",
-                "open_issues": 161,
+                "last_commit": "2026-11-02T22:11:45Z",
+                "open_issues": 153,
                 "owner": "coder",
                 "repo": "code-server",
-                "stars": 79748,
+                "stars": 79758,
                 "topics": [
                   "browser-ide",
                   "dev-tools",
@@ -1203,11 +1393,11 @@
                         "id": 172953845,
                         "language": "TypeScript",
                         "license": "MIT",
-                        "last_commit": "2026-11-01T12:05:24Z",
-                        "open_issues": 161,
+                        "last_commit": "2026-11-02T22:11:45Z",
+                        "open_issues": 153,
                         "owner": "coder",
                         "repo": "code-server",
-                        "stars": 79748,
+                        "stars": 79758,
                         "topics": [
                           "browser-ide",
                           "dev-tools",
@@ -1229,6 +1419,49 @@
               "description": "Use methods described below to opt-out of this telemetry channel.",
               "node_type": "group",
               "title": "Usage data"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Disable update checks",
+                      "description": "coder/code-server",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "VS Code in the browser",
+                        "homepage": "https://coder.com",
+                        "id": 172953845,
+                        "language": "TypeScript",
+                        "license": "MIT",
+                        "last_commit": "2026-11-02T22:11:45Z",
+                        "open_issues": 153,
+                        "owner": "coder",
+                        "repo": "code-server",
+                        "stars": 79758,
+                        "topics": [
+                          "browser-ide",
+                          "dev-tools",
+                          "development-environment",
+                          "ide",
+                          "remote-work",
+                          "vscode",
+                          "vscode-remote"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "1. Visit link(s) for more details"
+                }
+              ],
+              "description": "Use methods described below to opt-out of this telemetry channel.",
+              "node_type": "group",
+              "title": "Update check"
             }
           ],
           "description": "We use the data collected only to improve code-server.\nList of known telemetry channels:",
@@ -1240,11 +1473,11 @@
             "id": 172953845,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T12:05:24Z",
-            "open_issues": 161,
+            "last_commit": "2026-11-02T22:11:45Z",
+            "open_issues": 153,
             "owner": "coder",
             "repo": "code-server",
-            "stars": 79748,
+            "stars": 79758,
             "topics": [
               "browser-ide",
               "dev-tools",
@@ -1271,11 +1504,11 @@
                 "id": 131619646,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T22:21:47Z",
-                "open_issues": 2608,
+                "last_commit": "2026-11-02T21:05:45Z",
+                "open_issues": 2614,
                 "owner": "dagster-io",
                 "repo": "dagster",
-                "stars": 16362,
+                "stars": 16364,
                 "topics": [
                   "analytics",
                   "dagster",
@@ -1301,116 +1534,6 @@
           "description": "As an open source project, we collect usage statistics to better understand how users engage with Dagster and to inform development priorities.\nList of known telemetry channels:",
           "node_type": "group",
           "title": "Dagster"
-        },
-        {
-          "children": [
-            {
-              "children": [],
-              "description": "All app interactions are tracked via segment.com\nUse methods described below to opt-out of this telemetry channel.",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Bug reports for Docker Desktop for Mac",
-                "homepage": "https://www.docker.com/products/docker#/mac",
-                "id": 64405770,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-03-02T10:46:25Z",
-                "open_issues": 818,
-                "owner": "docker",
-                "repo": "for-mac",
-                "stars": 2527,
-                "topics": []
-              },
-              "title": "Usage data",
-              "first_seen": "2026-08-28T23:03:10.699Z"
-            },
-            {
-              "children": [],
-              "description": "Customer experience is tracked via www.wootric.com\nUse methods described below to opt-out of this telemetry channel.",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Bug reports for Docker Desktop for Mac",
-                "homepage": "https://www.docker.com/products/docker#/mac",
-                "id": 64405770,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-03-02T10:46:25Z",
-                "open_issues": 818,
-                "owner": "docker",
-                "repo": "for-mac",
-                "stars": 2527,
-                "topics": []
-              },
-              "title": "Customer experience data",
-              "first_seen": "2026-08-28T23:03:10.699Z"
-            },
-            {
-              "children": [],
-              "description": "Crash reports are uploaded to the www.bugsnag.com\nUse methods described below to opt-out of this telemetry channel.",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "Bug reports for Docker Desktop for Mac",
-                "homepage": "https://www.docker.com/products/docker#/mac",
-                "id": 64405770,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-03-02T10:46:25Z",
-                "open_issues": 818,
-                "owner": "docker",
-                "repo": "for-mac",
-                "stars": 2527,
-                "topics": []
-              },
-              "title": "Crash data",
-              "first_seen": "2026-08-28T23:03:10.699Z"
-            },
-            {
-              "children": [
-                {
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "github.com | RektInator/kill-docker-auto-update",
-                      "description": "RektInator/kill-docker-auto-update",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Contains assemblies to kill auto updating of Docker Desktop for Windows.",
-                        "homepage": null,
-                        "id": 349350081,
-                        "language": null,
-                        "license": null,
-                        "last_commit": "2025-01-07T10:00:17Z",
-                        "open_issues": 0,
-                        "owner": "RektInator",
-                        "repo": "kill-docker-auto-update",
-                        "stars": 66,
-                        "topics": [
-                          "auto-update",
-                          "auto-updater",
-                          "docker",
-                          "docker-desktop"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T23:03:10.699Z"
-                    }
-                  ],
-                  "description": null,
-                  "node_type": "group",
-                  "title": "1. Visit link(s) for more details"
-                }
-              ],
-              "description": "Updates are forced, unless you upgrade to a paid plan\nUse methods described below to opt-out of this telemetry channel.",
-              "node_type": "group",
-              "title": "Update check"
-            }
-          ],
-          "description": "Docker Desktop tracks all app interactions, checks for updates and sends crash reports.\nList of known telemetry channels:",
-          "node_type": "group",
-          "title": "Docker Desktop"
         },
         {
           "children": [
@@ -1447,7 +1570,7 @@
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
-          "description": "Telemetry is collected when .NET Interactive is started. Once .NET Interactive is running, we do not collect telemetry from any further user actions.\nList of known telemetry channels:",
+          "description": ".NET Interactive telemetry includes startup and CLI actions, hashed notebook package names, and notebook cell languages.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
             "archived": true,
@@ -1491,8 +1614,8 @@
                 "id": 35562993,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-31T05:59:33Z",
-                "open_issues": 354,
+                "last_commit": "2026-11-02T20:42:33Z",
+                "open_issues": 353,
                 "owner": "dotnet",
                 "repo": "wcf",
                 "stars": 1750,
@@ -1522,8 +1645,8 @@
                 "id": 14089735,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-28T20:03:58Z",
-                "open_issues": 155,
+                "last_commit": "2026-11-02T16:15:11Z",
+                "open_issues": 153,
                 "owner": "ember-cli",
                 "repo": "ember-cli",
                 "stars": 3235,
@@ -1552,8 +1675,8 @@
                         "id": 14089735,
                         "language": "JavaScript",
                         "license": "MIT",
-                        "last_commit": "2026-10-28T20:03:58Z",
-                        "open_issues": 155,
+                        "last_commit": "2026-11-02T16:15:11Z",
+                        "open_issues": 153,
                         "owner": "ember-cli",
                         "repo": "ember-cli",
                         "stars": 3235,
@@ -1584,35 +1707,30 @@
         {
           "children": [
             {
-              "children": [],
-              "description": "Disable usage data reporting.\nUse methods described below to opt-out of this telemetry channel.",
               "node_type": "item",
+              "title": "Telemetry details",
+              "description": "dhanesh/flagsmith-api",
+              "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "The Go programming language",
-                "homepage": "https://go.dev",
-                "id": 23096959,
-                "language": "Go",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-11-01T15:35:58Z",
-                "open_issues": 9858,
-                "owner": "golang",
-                "repo": "go",
-                "stars": 139723,
-                "topics": [
-                  "go",
-                  "golang",
-                  "language",
-                  "programming-language"
-                ]
+                "description": "Feature flagging and remote config service. Host yourself or use our hosted version at https://www.flagsmith.com/",
+                "homepage": "https://www.flagsmith.com/",
+                "id": 372895326,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2021-05-27T14:14:25Z",
+                "open_issues": 0,
+                "owner": "dhanesh",
+                "repo": "flagsmith-api",
+                "stars": 1,
+                "topics": []
               },
-              "title": "Usage data",
-              "first_seen": "2026-08-28T23:03:10.699Z"
+              "first_seen": "2026-11-02T22:19:36.304Z"
             }
           ],
-          "description": "Instrumentation will be added to the Go command-line tools written and distributed by the Go team, such as the command, the Go compiler, , and .\nList of known telemetry channels:",
+          "description": "Early self-hosted Flagsmith API installations could send installation counts and server details at startup.\nList of known telemetry channels:",
           "node_type": "group",
-          "title": "Golang"
+          "title": "Flagsmith API (historical self-hosted)"
         },
         {
           "children": [
@@ -1696,51 +1814,8 @@
           "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Telemetry details",
-              "description": "meilisearch/meilisearch",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-                "homepage": "https://www.meilisearch.com",
-                "id": 130688011,
-                "language": "Rust",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-01T17:33:00Z",
-                "open_issues": 316,
-                "owner": "meilisearch",
-                "repo": "meilisearch",
-                "stars": 59742,
-                "topics": [
-                  "ai",
-                  "api",
-                  "app-search",
-                  "database",
-                  "enterprise-search",
-                  "faceting",
-                  "full-text-search",
-                  "fuzzy-search",
-                  "geosearch",
-                  "hybrid-search",
-                  "instantsearch",
-                  "search",
-                  "search-as-you-type",
-                  "search-engine",
-                  "semantic-search",
-                  "site-search",
-                  "typo-tolerance",
-                  "vector-database",
-                  "vector-search",
-                  "vectors"
-                ]
-              },
-              "first_seen": "2026-08-28T23:03:10.699Z"
-            }
-          ],
-          "description": "MeiliSearch collects anonymous data regarding general usage. This helps us better understand developers' usage of MeiliSearch features. We also use Sentry to make us crash and error reports.\nList of known telemetry channels:",
+          "children": [],
+          "description": "Meilisearch collects anonymous general usage information to understand product feature usage.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -1749,11 +1824,11 @@
             "id": 130688011,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T17:33:00Z",
-            "open_issues": 316,
+            "last_commit": "2026-11-02T13:01:50Z",
+            "open_issues": 310,
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 59742,
+            "stars": 59759,
             "topics": [
               "ai",
               "api",
@@ -1838,43 +1913,84 @@
             {
               "node_type": "item",
               "title": "Telemetry details",
-              "description": "nocodb/nocodb",
+              "description": "nuxt/telemetry",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative",
-                "homepage": "https://nocodb.com",
-                "id": 108761645,
+                "description": "Nuxt Telemetry",
+                "homepage": null,
+                "id": 253531157,
                 "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-01T10:07:55Z",
-                "open_issues": 583,
-                "owner": "nocodb",
-                "repo": "nocodb",
-                "stars": 65399,
-                "topics": [
-                  "airtable",
-                  "airtable-alternative",
-                  "automatic-api",
-                  "hacktoberfest",
-                  "low-code",
-                  "no-code",
-                  "no-code-database",
-                  "no-code-platform",
-                  "postgresql",
-                  "rest-api",
-                  "restful-api",
-                  "spreadsheet",
-                  "sqlite",
-                  "swagger"
-                ]
+                "license": "MIT",
+                "last_commit": "2026-11-02T13:48:06Z",
+                "open_issues": 9,
+                "owner": "nuxt",
+                "repo": "telemetry",
+                "stars": 277,
+                "topics": []
               },
-              "first_seen": "2026-08-28T23:03:10.699Z"
+              "first_seen": "2026-11-02T22:19:36.304Z"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Alternative environment variable",
+                      "description": "nuxt/telemetry",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Nuxt Telemetry",
+                        "homepage": null,
+                        "id": 253531157,
+                        "language": "TypeScript",
+                        "license": "MIT",
+                        "last_commit": "2026-11-02T13:48:06Z",
+                        "open_issues": 9,
+                        "owner": "nuxt",
+                        "repo": "telemetry",
+                        "stars": 277,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-02T22:19:36.304Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Disable project telemetry",
+                      "description": "nuxt/telemetry",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Nuxt Telemetry",
+                        "homepage": null,
+                        "id": 253531157,
+                        "language": "TypeScript",
+                        "license": "MIT",
+                        "last_commit": "2026-11-02T13:48:06Z",
+                        "open_issues": 9,
+                        "owner": "nuxt",
+                        "repo": "telemetry",
+                        "stars": 277,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-02T22:19:36.304Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "3. Visit link(s) for more details"
+                }
+              ],
+              "description": "Use methods described below to opt-out of this telemetry channel.",
+              "node_type": "group",
+              "title": "Usage data"
             }
           ],
-          "description": "NocoDB collects telemetry.\nList of known telemetry channels:",
+          "description": "Nuxt Telemetry collects anonymous telemetry data about general usage. This helps us to accurately gauge feature usage and customization across all our users.\nList of known telemetry channels:",
           "node_type": "group",
-          "title": "NocoDB"
+          "title": "Nuxt"
         },
         {
           "children": [
@@ -1918,7 +2034,7 @@
                 "id": 159692201,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T07:35:53Z",
+                "last_commit": "2026-11-02T10:02:38Z",
                 "open_issues": 215,
                 "owner": "microsoft",
                 "repo": "Oryx",
@@ -1943,7 +2059,7 @@
             "id": 159692201,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T07:35:53Z",
+            "last_commit": "2026-11-02T10:02:38Z",
             "open_issues": 215,
             "owner": "microsoft",
             "repo": "Oryx",
@@ -1985,9 +2101,34 @@
                 ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
+            },
+            {
+              "children": [],
+              "description": "Disables launcher host metrics, not general OpenTelemetry traces.\nUse methods described below to opt-out of this telemetry channel.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "Launcher, a Lightstep Distro for OpenTelemetry Node.js 🚀",
+                "homepage": null,
+                "id": 279936776,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2023-11-14T09:30:06Z",
+                "open_issues": 13,
+                "owner": "lightstep",
+                "repo": "otel-launcher-node",
+                "stars": 26,
+                "topics": [
+                  "javascript",
+                  "nodejs",
+                  "opentelemetry"
+                ]
+              },
+              "title": "Host metrics export",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
-          "description": "Launcher automatically collects and sends host metrics to Lightstep.\nList of known telemetry channels:",
+          "description": "The deprecated launcher could export host metrics to Lightstep. LS_METRICS_HOST_ENABLED does not disable instrumented application spans.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2007,7 +2148,7 @@
               "opentelemetry"
             ]
           },
-          "title": "otel-launcher-node",
+          "title": "Lightstep OpenTelemetry Node Launcher (deprecated)",
           "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
@@ -2032,9 +2173,44 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Disable per-project error telemetry",
+                      "description": "projector-cli/projector-cli",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "A tool for bootstrapping projects and backlogs.",
+                        "homepage": null,
+                        "id": 382670227,
+                        "language": "TypeScript",
+                        "license": "MIT",
+                        "last_commit": "2022-02-08T23:51:12Z",
+                        "open_issues": 17,
+                        "owner": "projector-cli",
+                        "repo": "projector-cli",
+                        "stars": 3,
+                        "topics": []
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2. Visit link(s) for more details"
+                }
+              ],
+              "description": "Use methods described below to opt-out of this telemetry channel.",
+              "node_type": "group",
+              "title": "CLI error reports"
             }
           ],
-          "description": "Projector uses Application Insights to better understand and fix errors that come up in the CLI.\nList of known telemetry channels:",
+          "description": "Projector uses Application Insights to understand and fix CLI errors.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2084,7 +2260,7 @@
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
-          "description": "pytket features a telemetry module which can be used to keep track of pyktet usage and will provide usage analytics and error reporting at a later date. Telemetry is disabled by default.\nList of known telemetry channels:",
+          "description": "pytket features a telemetry module which can be used to keep track of pytket usage and will provide usage analytics and error reporting at a later date. Telemetry is disabled by default.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2173,6 +2349,35 @@
                         ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Disable metrics in the service deployment",
+                      "description": "microsoft/rest-api-fuzz-testing",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "description": "REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enables developers to embed security tooling into their CI/CD workflows",
+                        "homepage": null,
+                        "id": 301478690,
+                        "language": "F#",
+                        "license": "MIT",
+                        "last_commit": "2022-01-13T22:58:26Z",
+                        "open_issues": 14,
+                        "owner": "microsoft",
+                        "repo": "rest-api-fuzz-testing",
+                        "stars": 264,
+                        "topics": [
+                          "api",
+                          "devops",
+                          "fuzz",
+                          "fuzzing",
+                          "fuzzing-framework",
+                          "rest",
+                          "rest-api"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
                     }
                   ],
                   "description": null,
@@ -2232,49 +2437,8 @@
               "rest-api"
             ]
           },
-          "title": "REST API Fuzz Testing (RAFT)",
+          "title": "REST API Fuzz Testing (RAFT, archived)",
           "first_seen": "2026-08-28T23:03:10.699Z"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Telemetry details",
-              "description": "marmelab/react-admin",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design",
-                "homepage": "http://marmelab.com/react-admin",
-                "id": 63226588,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-11-01T15:40:15Z",
-                "open_issues": 63,
-                "owner": "marmelab",
-                "repo": "react-admin",
-                "stars": 26979,
-                "topics": [
-                  "admin",
-                  "admin-dashboard",
-                  "admin-on-rest",
-                  "admin-ui",
-                  "frontend-framework",
-                  "graphql",
-                  "material-ui",
-                  "react",
-                  "react-admin",
-                  "reactjs",
-                  "rest",
-                  "single-page-app"
-                ]
-              },
-              "first_seen": "2026-08-28T23:03:10.699Z"
-            }
-          ],
-          "description": "In production, react-admin applications send an anonymous request on mount to a telemetry server operated by marmelab.\nList of known telemetry channels:",
-          "node_type": "group",
-          "title": "react-admin"
         },
         {
           "children": [
@@ -2294,11 +2458,11 @@
                         "id": 48009214,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-01T18:07:50Z",
-                        "open_issues": 783,
+                        "last_commit": "2026-11-02T21:58:07Z",
+                        "open_issues": 777,
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17368,
+                        "stars": 17371,
                         "topics": [
                           "dotnet",
                           "react",
@@ -2321,11 +2485,11 @@
                         "id": 48009214,
                         "language": "C++",
                         "license": "NOASSERTION",
-                        "last_commit": "2026-11-01T18:07:50Z",
-                        "open_issues": 783,
+                        "last_commit": "2026-11-02T21:58:07Z",
+                        "open_issues": 777,
                         "owner": "microsoft",
                         "repo": "react-native-windows",
-                        "stars": 17368,
+                        "stars": 17371,
                         "topics": [
                           "dotnet",
                           "react",
@@ -2407,31 +2571,57 @@
             {
               "node_type": "item",
               "title": "Telemetry details",
-              "description": "reportportal/agent-python-pytest",
+              "description": "reportportal/client-Python",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Framework integration with PyTest",
+                "description": "A common client library for Python-based agents",
                 "homepage": null,
-                "id": 86579920,
+                "id": 68000268,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T11:00:00Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-26T10:48:58Z",
+                "open_issues": 0,
                 "owner": "reportportal",
-                "repo": "agent-python-pytest",
-                "stars": 111,
+                "repo": "client-Python",
+                "stars": 46,
                 "topics": [
-                  "pytest",
-                  "pytest-bdd",
+                  "client-python",
                   "python",
-                  "reportportal"
+                  "reportportal",
+                  "testing"
                 ]
               },
-              "first_seen": "2026-08-28T23:03:10.699Z"
+              "first_seen": "2026-11-02T22:19:36.304Z"
+            },
+            {
+              "children": [],
+              "description": "Use methods described below to opt-out of this telemetry channel.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": "A common client library for Python-based agents",
+                "homepage": null,
+                "id": 68000268,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-26T10:48:58Z",
+                "open_issues": 0,
+                "owner": "reportportal",
+                "repo": "client-Python",
+                "stars": 46,
+                "topics": [
+                  "client-python",
+                  "python",
+                  "reportportal",
+                  "testing"
+                ]
+              },
+              "title": "Google Analytics launch metadata",
+              "first_seen": "2026-11-02T22:19:36.304Z"
             }
           ],
-          "description": "ReportPortal collects information about agent name and its version only. This information is sent to Google analytics on the launch start.\nList of known telemetry channels:",
+          "description": "The ReportPortal Python client sends an event to Google Analytics after a successful test launch, including the agent name, client version and Python version.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2452,7 +2642,7 @@
               "reportportal"
             ]
           },
-          "title": "ReportPortal (Pytest plugin)",
+          "title": "ReportPortal Pytest plugin",
           "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
@@ -2473,7 +2663,7 @@
                 "open_issues": 300,
                 "owner": "microsoft",
                 "repo": "restler-fuzzer",
-                "stars": 2963,
+                "stars": 2962,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -2493,7 +2683,7 @@
                 "open_issues": 300,
                 "owner": "microsoft",
                 "repo": "restler-fuzzer",
-                "stars": 2963,
+                "stars": 2962,
                 "topics": []
               },
               "title": "Usage data",
@@ -2513,7 +2703,7 @@
             "open_issues": 300,
             "owner": "microsoft",
             "repo": "restler-fuzzer",
-            "stars": 2963,
+            "stars": 2962,
             "topics": []
           },
           "title": "RESTler",
@@ -2553,6 +2743,37 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Telemetry details",
+              "description": "serverless/serverless",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.",
+                "homepage": "https://serverless.com",
+                "id": 34302698,
+                "language": "JavaScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-02T15:28:40Z",
+                "open_issues": 1203,
+                "owner": "serverless",
+                "repo": "serverless",
+                "stars": 46927,
+                "topics": [
+                  "aws",
+                  "aws-dynamodb",
+                  "aws-lambda",
+                  "azure-functions",
+                  "google-cloud-functions",
+                  "microservice",
+                  "serverless",
+                  "serverless-architectures",
+                  "serverless-framework"
+                ]
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
+            },
+            {
               "children": [],
               "description": "Use methods described below to opt-out of this telemetry channel.",
               "node_type": "item",
@@ -2563,11 +2784,11 @@
                 "id": 34302698,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T14:58:05Z",
-                "open_issues": 1204,
+                "last_commit": "2026-11-02T15:28:40Z",
+                "open_issues": 1203,
                 "owner": "serverless",
                 "repo": "serverless",
-                "stars": 46928,
+                "stars": 46927,
                 "topics": [
                   "aws",
                   "aws-dynamodb",
@@ -2584,16 +2805,17 @@
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
-          "description": "Serverless Framework collects anonymous telemetry data in order to better understand the needs of our users and to help drive better prioritization of improvements and more informed decisions.\nList of known telemetry channels:",
+          "description": "Earlier Serverless Framework CLI versions collect anonymous usage statistics. These controls do not establish an opt-out for v4 license telemetry.\nList of known telemetry channels:",
           "node_type": "group",
-          "title": "Serverless Framework"
+          "title": "Serverless Framework 3 and earlier"
         },
         {
           "children": [
             {
-              "children": [],
-              "description": "Use methods described below to opt-out of this telemetry channel.",
               "node_type": "item",
+              "title": "Telemetry details",
+              "description": "forcedotcom/sfdx-core",
+              "children": [],
               "repo_info": {
                 "archived": false,
                 "description": null,
@@ -2608,13 +2830,74 @@
                 "stars": 171,
                 "topics": []
               },
-              "title": "Usage data (alternate environment variable)",
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Salesforce collects usage data and metrics (telemetry) to help improve Salesforce CLI. We collect anonymous information related to the use of the CLI and plug-ins, such as which commands and parameters were run, and performance and error data.\nList of known telemetry channels:",
-          "node_type": "group",
-          "title": "Salesforce CLI"
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Salesforce CLI - Issues and Discussions only",
+            "homepage": "https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/",
+            "id": 165749269,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-29T16:11:44Z",
+            "open_issues": 71,
+            "owner": "forcedotcom",
+            "repo": "cli",
+            "stars": 575,
+            "topics": [
+              "salesforce-cli"
+            ]
+          },
+          "title": "Salesforce CLI (sf)",
+          "first_seen": "2026-11-02T22:19:36.304Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Telemetry details",
+              "description": "forcedotcom/sfdx-core",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 148384603,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-30T21:21:58Z",
+                "open_issues": 29,
+                "owner": "forcedotcom",
+                "repo": "sfdx-core",
+                "stars": 171,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
+            }
+          ],
+          "description": "Salesforce collects usage data and metrics (telemetry) to help improve Salesforce CLI. We collect anonymous information related to the use of the CLI and plug-ins, such as which commands and parameters were run, and performance and error data.\nList of known telemetry channels:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Salesforce CLI - Issues and Discussions only",
+            "homepage": "https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/",
+            "id": 165749269,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-29T16:11:44Z",
+            "open_issues": 71,
+            "owner": "forcedotcom",
+            "repo": "cli",
+            "stars": 575,
+            "topics": [
+              "salesforce-cli"
+            ]
+          },
+          "title": "Salesforce DX CLI (legacy sfdx)",
+          "first_seen": "2026-11-02T22:19:36.304Z"
         },
         {
           "children": [
@@ -2630,8 +2913,8 @@
                 "id": 81527646,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T17:32:43Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-01T23:46:10Z",
+                "open_issues": 5,
                 "owner": "seek-oss",
                 "repo": "sku",
                 "stars": 486,
@@ -2659,8 +2942,8 @@
             "id": 81527646,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T17:32:43Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-01T23:46:10Z",
+            "open_issues": 5,
             "owner": "seek-oss",
             "repo": "sku",
             "stars": 486,
@@ -2677,31 +2960,6 @@
             ]
           },
           "title": "SKU",
-          "first_seen": "2026-08-28T23:03:10.699Z"
-        },
-        {
-          "children": [],
-          "description": "Since TYPO3 CMS 6.2, the Install Tool allows integrators to update the TYPO3 Core with a click of a button.\nList of known telemetry channels:",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "The open LMS by Instructure, Inc.",
-            "homepage": "https://github.com/instructure/canvas-lms/wiki",
-            "id": 1314319,
-            "language": "Ruby",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-04-30T14:52:10Z",
-            "open_issues": 472,
-            "owner": "instructure",
-            "repo": "canvas-lms",
-            "stars": 6896,
-            "topics": [
-              "canvas-lms",
-              "gerrit-mirror",
-              "instructure"
-            ]
-          },
-          "title": "TYPO3",
           "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
@@ -2745,7 +3003,7 @@
                 "id": 62774726,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-01T05:00:55Z",
+                "last_commit": "2026-11-02T10:12:04Z",
                 "open_issues": 89,
                 "owner": "microsoft",
                 "repo": "vstest",
@@ -2763,7 +3021,7 @@
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
-          "description": "Going forward vstest platform will enable collection of rich telemetry data points to helps us and any vstest consuming platform in making the right choices to improve end user experience.\nList of known telemetry channels:",
+          "description": "VSTest does not send its command telemetry by default. Collection requires VSTEST_TELEMETRY_OPTEDIN=1.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -2772,7 +3030,7 @@
             "id": 62774726,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-01T05:00:55Z",
+            "last_commit": "2026-11-02T10:12:04Z",
             "open_issues": 89,
             "owner": "microsoft",
             "repo": "vstest",
@@ -2835,93 +3093,51 @@
         {
           "children": [
             {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Telemetry details",
-                  "description": "warpdotdev/warp",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Warp is an agentic development environment, born out of the terminal.",
-                    "homepage": "https://warp.dev",
-                    "id": 384219990,
-                    "language": "Rust",
-                    "license": "AGPL-3.0",
-                    "last_commit": "2026-10-31T00:01:55Z",
-                    "open_issues": 5515,
-                    "owner": "warpdotdev",
-                    "repo": "warp",
-                    "stars": 65818,
-                    "topics": [
-                      "bash",
-                      "linux",
-                      "macos",
-                      "rust",
-                      "shell",
-                      "terminal",
-                      "wasm",
-                      "zsh"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T23:03:10.699Z"
-                }
-              ],
-              "description": "All app interactions are tracked via segment.com\nUse methods described below to opt-out of this telemetry channel.",
-              "node_type": "group",
-              "title": "Usage data"
-            }
-          ],
-          "description": "For our beta phase, we do send telemetry by default and associate it with the logged in user.\nList of known telemetry channels:",
-          "node_type": "group",
-          "title": "Warp"
-        },
-        {
-          "children": [
+              "node_type": "item",
+              "title": "Telemetry details",
+              "description": "wasmerio/old-docs.wasmer.io",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Wasmer Documentation (for standalone and embedded use cases)",
+                "homepage": "https://docs.wasmer.io/",
+                "id": 216927932,
+                "language": "WebAssembly",
+                "license": "MIT",
+                "last_commit": "2023-05-08T02:26:19Z",
+                "open_issues": 67,
+                "owner": "wasmerio",
+                "repo": "old-docs.wasmer.io",
+                "stars": 40,
+                "topics": []
+              },
+              "first_seen": "2026-11-02T22:19:36.304Z"
+            },
             {
               "children": [],
               "description": "Use methods described below to opt-out of this telemetry channel.",
               "node_type": "item",
               "repo_info": {
-                "archived": false,
-                "description": "Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations.",
-                "homepage": "https://www.webiny.com",
-                "id": 116817549,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-30T15:26:30Z",
-                "open_issues": 383,
-                "owner": "webiny",
-                "repo": "webiny-js",
-                "stars": 8051,
-                "topics": [
-                  "ai-assisted-development",
-                  "aws",
-                  "aws-lambda",
-                  "cms",
-                  "graphql",
-                  "headless-cms",
-                  "lambda",
-                  "lambda-functions",
-                  "mcp",
-                  "multi-tenant",
-                  "nextjs",
-                  "nodejs",
-                  "open-source",
-                  "react",
-                  "serverless",
-                  "serverless-architectures",
-                  "typescript",
-                  "white-label"
-                ]
+                "archived": true,
+                "description": "Wasmer Documentation (for standalone and embedded use cases)",
+                "homepage": "https://docs.wasmer.io/",
+                "id": 216927932,
+                "language": "WebAssembly",
+                "license": "MIT",
+                "last_commit": "2023-05-08T02:26:19Z",
+                "open_issues": 67,
+                "owner": "wasmerio",
+                "repo": "old-docs.wasmer.io",
+                "stars": 40,
+                "topics": []
               },
-              "title": "Usage data (env. var)",
-              "first_seen": "2026-08-28T23:03:10.699Z"
+              "title": "Sentry error logging",
+              "first_seen": "2026-11-02T22:19:36.304Z"
             }
           ],
-          "description": "By default, Webiny collects anonymous usage information, which is exclusively used for improving the product and understanding usage patterns.\nList of known telemetry channels:",
+          "description": "During the alpha, telemetry (specifically error logging to Sentry) is enabled by default in the WAPM CLI. We send and record information such as IP address, operating system name and version, and the error/panic message.\nList of known telemetry channels:",
           "node_type": "group",
-          "title": "Webiny"
+          "title": "WAPM CLI (historical alpha)"
         }
       ],
       "title": "Development"
@@ -2969,7 +3185,7 @@
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
-          "description": "AutomatedLab will start to collect telemetry starting with version 5.0. This is an opt-out collection and you will be asked once to specify whether or not you want to send us telemetry data.\nList of known telemetry channels:",
+          "description": "AutomatedLab telemetry is opt-in from version 5.0. Users are asked whether to share telemetry data.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
             "archived": false,
@@ -3002,6 +3218,81 @@
             ]
           },
           "title": "AutomatedLab",
+          "first_seen": "2026-08-28T23:03:10.699Z"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Telemetry details",
+              "description": "AutomatedLab/AutomatedLab",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.",
+                "homepage": null,
+                "id": 66317384,
+                "language": "PowerShell",
+                "license": "MIT",
+                "last_commit": "2026-07-06T09:40:52Z",
+                "open_issues": 31,
+                "owner": "AutomatedLab",
+                "repo": "AutomatedLab",
+                "stars": 2235,
+                "topics": [
+                  "active",
+                  "active-directory",
+                  "automated-deployment",
+                  "azure",
+                  "deployment",
+                  "directory",
+                  "domain-controller",
+                  "exchange",
+                  "hyper",
+                  "hyperv",
+                  "lab-machine",
+                  "pki",
+                  "powershell",
+                  "scripted",
+                  "scripted-deployment"
+                ]
+              },
+              "first_seen": "2026-08-28T23:03:10.699Z"
+            }
+          ],
+          "description": "Older AutomatedLab implementations used AUTOMATEDLAB_TELEMETRY_OPTOUT to control telemetry. The exact version range is unconfirmed.\nList of known telemetry channels:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.",
+            "homepage": null,
+            "id": 66317384,
+            "language": "PowerShell",
+            "license": "MIT",
+            "last_commit": "2026-07-06T09:40:52Z",
+            "open_issues": 31,
+            "owner": "AutomatedLab",
+            "repo": "AutomatedLab",
+            "stars": 2235,
+            "topics": [
+              "active",
+              "active-directory",
+              "automated-deployment",
+              "azure",
+              "deployment",
+              "directory",
+              "domain-controller",
+              "exchange",
+              "hyper",
+              "hyperv",
+              "lab-machine",
+              "pki",
+              "powershell",
+              "scripted",
+              "scripted-deployment"
+            ]
+          },
+          "title": "AutomatedLab (legacy)",
           "first_seen": "2026-08-28T23:03:10.699Z"
         },
         {
@@ -3135,11 +3426,11 @@
                 "id": 278200746,
                 "language": "Open Policy Agent",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T15:05:06Z",
-                "open_issues": 320,
+                "last_commit": "2026-11-02T14:54:01Z",
+                "open_issues": 317,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2728,
+                "stars": 2730,
                 "topics": [
                   "appsec",
                   "cloudnative",
@@ -3168,11 +3459,11 @@
                 "id": 278200746,
                 "language": "Open Policy Agent",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T15:05:06Z",
-                "open_issues": 320,
+                "last_commit": "2026-11-02T14:54:01Z",
+                "open_issues": 317,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2728,
+                "stars": 2730,
                 "topics": [
                   "appsec",
                   "cloudnative",
@@ -3188,7 +3479,7 @@
                   "vulnerability-scanners"
                 ]
               },
-              "title": "Usage data (current)",
+              "title": "Crash reporting",
               "first_seen": "2026-08-28T23:03:10.699Z"
             },
             {
@@ -3202,11 +3493,11 @@
                 "id": 278200746,
                 "language": "Open Policy Agent",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T15:05:06Z",
-                "open_issues": 320,
+                "last_commit": "2026-11-02T14:54:01Z",
+                "open_issues": 317,
                 "owner": "Checkmarx",
                 "repo": "kics",
-                "stars": 2728,
+                "stars": 2730,
                 "topics": [
                   "appsec",
                   "cloudnative",
@@ -3222,13 +3513,13 @@
                   "vulnerability-scanners"
                 ]
               },
-              "title": "Usage data (legacy)",
+              "title": "Usage data (legacy versions)",
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
           "description": "Kics is using Sentry's application monitoring platform for crash reports collection: https://sentry.io/\nList of known telemetry channels:",
           "node_type": "group",
-          "title": "Kics"
+          "title": "KICS"
         },
         {
           "children": [
@@ -3340,11 +3631,11 @@
                 "id": 82933315,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T17:26:09Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-02T10:25:51Z",
+                "open_issues": 19,
                 "owner": "telepresenceio",
                 "repo": "telepresence",
-                "stars": 7326,
+                "stars": 7327,
                 "topics": [
                   "docker",
                   "kubernetes",
@@ -3363,35 +3654,7 @@
           "title": "Telepresence"
         },
         {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Telemetry details",
-              "description": "hashicorp/terraform-cdk",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
-                "homepage": "https://www.terraform.io/cdktf",
-                "id": 232603801,
-                "language": "TypeScript",
-                "license": "MPL-2.0",
-                "last_commit": "2025-12-10T14:12:01Z",
-                "open_issues": 389,
-                "owner": "hashicorp",
-                "repo": "terraform-cdk",
-                "stars": 5066,
-                "topics": [
-                  "cdk",
-                  "cdktf",
-                  "hack",
-                  "infrastructure-as-code",
-                  "terraform"
-                ]
-              },
-              "first_seen": "2026-08-28T23:03:10.699Z"
-            }
-          ],
+          "children": [],
           "description": "CDK for Terraform CLI (cdktf-cli) interacts with a HashiCorp service called Checkpoint to report project metrics such as cdktf version, project language, provider name, platform name, and other details that help guide the project maintainers with feature and roadmap decisions.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
@@ -3414,8 +3677,55 @@
               "terraform"
             ]
           },
-          "title": "Cloud Development Kit for Terraform",
+          "title": "CDK for Terraform (archived)",
           "first_seen": "2026-08-28T23:03:10.699Z"
+        },
+        {
+          "children": [],
+          "description": "Older Weave Net releases periodically checked Weaveworks servers for new versions. The community v2.8.2 release disables this checkpoint by default.\nList of known telemetry channels:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "description": "Simple, resilient multi-host containers networking and more.",
+            "homepage": "https://www.weave.works",
+            "id": 23059575,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2024-08-09T08:45:55Z",
+            "open_issues": 529,
+            "owner": "weaveworks",
+            "repo": "weave",
+            "stars": 6604,
+            "topics": [
+              "container-networking",
+              "docker",
+              "go",
+              "kubernetes"
+            ]
+          },
+          "title": "Weave Net",
+          "first_seen": "2026-11-02T22:19:36.304Z"
+        },
+        {
+          "children": [],
+          "description": "Historical wksctl releases contacted Weaveworks servers to check for available versions. The project is archived.\nList of known telemetry channels:",
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "description": "Open Source Weaveworks Kubernetes System",
+            "homepage": null,
+            "id": 202430755,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2023-03-31T12:32:52Z",
+            "open_issues": 73,
+            "owner": "weaveworks",
+            "repo": "wksctl",
+            "stars": 387,
+            "topics": []
+          },
+          "title": "WKSctl",
+          "first_seen": "2026-11-02T22:19:36.304Z"
         }
       ],
       "title": "DevOps"
@@ -3431,7 +3741,7 @@
                   "children": [
                     {
                       "node_type": "item",
-                      "title": "github.com | Windows 10 Sophia Script",
+                      "title": "Sophia Script for Windows 10",
                       "description": "farag2/Sophia-Script-for-Windows",
                       "children": [],
                       "repo_info": {
@@ -3445,7 +3755,7 @@
                         "open_issues": 0,
                         "owner": "farag2",
                         "repo": "Sophia-Script-for-Windows",
-                        "stars": 9851,
+                        "stars": 9857,
                         "topics": [
                           "25h2",
                           "26h2",
@@ -3468,71 +3778,6 @@
                         ]
                       },
                       "first_seen": "2026-08-28T23:03:10.699Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "github.com | crazy-max/WindowsSpyBlocker",
-                      "description": "crazy-max/WindowsSpyBlocker",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Block spying and tracking on Windows",
-                        "homepage": "https://crazymax.dev/WindowsSpyBlocker/",
-                        "id": 53165382,
-                        "language": "Go",
-                        "license": "MIT",
-                        "last_commit": "2026-10-15T02:22:31Z",
-                        "open_issues": 48,
-                        "owner": "crazy-max",
-                        "repo": "WindowsSpyBlocker",
-                        "stars": 5234,
-                        "topics": [
-                          "blocker",
-                          "dnscrypt",
-                          "firewall",
-                          "hostsfile",
-                          "ncsi",
-                          "openwrt",
-                          "proxifier",
-                          "qemu",
-                          "spy",
-                          "sysmon",
-                          "telemetry",
-                          "windows",
-                          "wireshark"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T23:03:10.699Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "github.com | builtbybel/Privatezilla",
-                      "description": "builtbybel/privatezilla",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "👀👮🐢🔥Performs a privacy & security check of Windows 10 ",
-                        "homepage": "https://www.builtbybel.com/apps/privatezilla",
-                        "id": 268367789,
-                        "language": "C#",
-                        "license": "MIT",
-                        "last_commit": "2023-04-18T18:28:47Z",
-                        "open_issues": 30,
-                        "owner": "builtbybel",
-                        "repo": "privatezilla",
-                        "stars": 3739,
-                        "topics": [
-                          "debloat",
-                          "powershell",
-                          "privacy",
-                          "privacy-protection",
-                          "security",
-                          "security-automation",
-                          "telemetry",
-                          "windows-10"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T23:03:10.699Z"
                     }
                   ],
                   "description": null,
@@ -3540,12 +3785,46 @@
                   "title": "1. Visit link(s) for more details"
                 }
               ],
-              "description": "There is no official way to disable telemetry in all other Windows editions (Home/Pro/etc...)\nUse methods described below to opt-out of this telemetry channel.",
-              "node_type": "group",
-              "title": "Usage data"
+              "description": "Sophia Script offers separate controls for diagnostic data, the DiagTrack service and error reporting. Some changes affect Windows features. Review the script and choose only the desired actions.\nUse methods described below to opt-out of this telemetry channel.",
+              "node_type": "item",
+              "repo_info": {
+                "archived": false,
+                "description": ":zap: The most advanced PowerShell module on GitHub for fine-tuning Windows 11 & Windows 10",
+                "homepage": null,
+                "id": 153443362,
+                "language": "PowerShell",
+                "license": "MIT",
+                "last_commit": "2026-11-01T14:26:57Z",
+                "open_issues": 0,
+                "owner": "farag2",
+                "repo": "Sophia-Script-for-Windows",
+                "stars": 9857,
+                "topics": [
+                  "25h2",
+                  "26h2",
+                  "debloat",
+                  "debloater",
+                  "debloating",
+                  "gui",
+                  "ltsc",
+                  "powershell",
+                  "script",
+                  "sophia",
+                  "sophia-script",
+                  "tweak",
+                  "tweaker",
+                  "tweaks",
+                  "windows",
+                  "windows-10",
+                  "windows-11",
+                  "windows-debloat"
+                ]
+              },
+              "title": "Windows diagnostic controls (third-party script)",
+              "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
-          "description": "Microsoft collects Windows diagnostic data to solve problems and to keep Windows up to date, secure, and operating properly.\nList of known telemetry channels:",
+          "description": "Microsoft collects Windows diagnostic data to help troubleshoot and secure Windows. Support for Windows 10 22H2 ended on October 14, 2025, except applicable ESU and LTSC arrangements.\nList of known telemetry channels:",
           "node_type": "group",
           "title": "Windows 10"
         }
@@ -3569,11 +3848,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-11-01T12:54:16Z",
+                "last_commit": "2026-11-02T08:23:34Z",
                 "open_issues": 310,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190284,
+                "stars": 190288,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -3593,6 +3872,57 @@
                 ]
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Disable updates with zstyle",
+                      "description": "ohmyzsh/ohmyzsh",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+                        "homepage": "https://ohmyz.sh",
+                        "id": 291137,
+                        "language": "Shell",
+                        "license": "MIT",
+                        "last_commit": "2026-11-02T08:23:34Z",
+                        "open_issues": 310,
+                        "owner": "ohmyzsh",
+                        "repo": "ohmyzsh",
+                        "stars": 190288,
+                        "topics": [
+                          "cli",
+                          "cli-app",
+                          "oh-my-zsh",
+                          "oh-my-zsh-plugin",
+                          "oh-my-zsh-theme",
+                          "ohmyzsh",
+                          "plugin-framework",
+                          "plugins",
+                          "productivity",
+                          "shell",
+                          "terminal",
+                          "theme",
+                          "themes",
+                          "zsh",
+                          "zsh-configuration"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2. Visit link(s) for more details"
+                }
+              ],
+              "description": "DISABLE_AUTO_UPDATE remains supported but is deprecated.\nUse methods described below to opt-out of this telemetry channel.",
+              "node_type": "group",
+              "title": "Update checks (legacy environment override)"
             }
           ],
           "description": "By default, you will be prompted to check for upgrades every few weeks.\nList of known telemetry channels:",
@@ -3600,7 +3930,52 @@
           "title": "Oh My Zsh"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Disable early PowerShell Core 6.0 preview telemetry (historical file)",
+                      "description": "PowerShell/PowerShell",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "PowerShell for every system!",
+                        "homepage": "https://microsoft.com/PowerShell",
+                        "id": 49609581,
+                        "language": "C#",
+                        "license": "MIT",
+                        "last_commit": "2026-11-01T23:22:49Z",
+                        "open_issues": 1608,
+                        "owner": "PowerShell",
+                        "repo": "PowerShell",
+                        "stars": 56004,
+                        "topics": [
+                          "command-line",
+                          "hacktoberfest",
+                          "linux",
+                          "macos",
+                          "netcore",
+                          "powershell",
+                          "shell",
+                          "windows"
+                        ]
+                      },
+                      "first_seen": "2026-08-28T23:03:10.699Z"
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "2. Visit link(s) for more details"
+                }
+              ],
+              "description": "PowerShell sends basic telemetry data to Microsoft. This data allows us to better understand the environments where PowerShell is used and enables us to prioritize new features and fixes.\nUse methods described below to opt-out of this telemetry channel.",
+              "node_type": "group",
+              "title": "Usage data"
+            }
+          ],
           "description": "PowerShell Core sends basic telemetry data to Microsoft and queries an online service to determine if a newer version is available.\nList of known telemetry channels:",
           "node_type": "item",
           "repo_info": {
@@ -3610,11 +3985,11 @@
             "id": 49609581,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-31T23:21:30Z",
+            "last_commit": "2026-11-01T23:22:49Z",
             "open_issues": 1608,
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 55986,
+            "stars": 56004,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -3719,7 +4094,7 @@
               ],
               "description": "Use methods described below to opt-out of this telemetry channel.",
               "node_type": "group",
-              "title": "Usage data"
+              "title": "Usage data and error reports"
             }
           ],
           "description": "The software may collect information about you and your use of the software and send it to Microsoft.\nList of known telemetry channels:",
@@ -3740,11 +4115,11 @@
                 "id": 158485478,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T13:44:36Z",
-                "open_issues": 45,
+                "last_commit": "2026-11-02T10:19:17Z",
+                "open_issues": 44,
                 "owner": "espressif",
                 "repo": "vscode-esp-idf-extension",
-                "stars": 1484,
+                "stars": 1485,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:03:10.699Z"
@@ -3753,40 +4128,6 @@
           "description": "We collect telemetry data, from vscode extension which is used to help understand how to improve the extension. For example, this usage data helps to debug issues, such as slow start-up times, and to prioritize new features.\nList of known telemetry channels:",
           "node_type": "group",
           "title": "ESP-IDF (VSCode)"
-        },
-        {
-          "children": [
-            {
-              "children": [],
-              "description": "Use methods described below to opt-out of this telemetry channel.",
-              "node_type": "item",
-              "repo_info": {
-                "archived": false,
-                "description": "A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more",
-                "homepage": null,
-                "id": 198896556,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-10-31T23:37:35Z",
-                "open_issues": 131,
-                "owner": "microsoft",
-                "repo": "vscode-js-debug",
-                "stars": 1988,
-                "topics": [
-                  "dap",
-                  "debug",
-                  "hacktoberfest",
-                  "vscode",
-                  "vscode-extension"
-                ]
-              },
-              "title": "Usage data",
-              "first_seen": "2026-08-28T23:03:10.699Z"
-            }
-          ],
-          "description": "The software may collect information about you and your use of the software.\nList of known telemetry channels:",
-          "node_type": "group",
-          "title": "JavaScript debugger (VSCode)"
         },
         {
           "children": [
@@ -3814,7 +4155,7 @@
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
-          "description": "PrintCode records product usage with Google Analytics.\nList of known telemetry channels:",
+          "description": "PrintCode can include Google Analytics in the HTML it generates for printed pages.\nList of known telemetry channels:",
           "node_type": "group",
           "title": "PrintCode (VSCode)"
         },
@@ -3853,7 +4194,7 @@
               "first_seen": "2026-08-28T23:03:10.699Z"
             }
           ],
-          "description": "REST Client sends out anonymous usage data.\nList of known telemetry channels:",
+          "description": "REST Client can send anonymous usage data when enabled. Telemetry is disabled by default.\nList of known telemetry channels:",
           "node_type": "group",
           "title": "REST Client (VSCode)"
         },
@@ -3931,7 +4272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:25:54.821Z",
+    "last_updated": "2026-11-02T22:19:36.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "📡 Easily opt-out from telemetry collection",
@@ -3939,7 +4280,7 @@
       "id": 220850297,
       "language": "PowerShell",
       "license": "MIT",
-      "last_commit": "2026-10-29T00:50:46Z",
+      "last_commit": "2026-11-01T20:02:21Z",
       "open_issues": 527,
       "owner": "beatcracker",
       "repo": "toptout",
@@ -3957,7 +4298,7 @@
         "telemetry-collection"
       ]
     },
-    "original_repository_sha": "2549934b3513e1d4e0e6d5633c38bfc93444b5ff",
+    "original_repository_sha": "95f4e136545a6c49d017eb105bb119d104510a10",
     "enhanced_repository": "enhansome/enhansome-toptout",
     "enhanced_repository_description": null,
     "title": "Awesome Easily opt-out from telemetry collection with stars"
